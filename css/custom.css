@@ -1,0 +1,57 @@
+/* ==========================================================================
+   1. 强行锁死导航栏背景（你做好的完美导航栏）
+   ========================================================================== */
+.navbar {
+    background-color: #2f4154 !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16) !important;
+}
+.navbar-custom { transition: none !important; }
+.navbar-nav { flex-direction: row !important; }
+.nav-item { margin-left: 1rem !important; }
+
+/* ==========================================================================
+   4. 精确优化：加大字体、加宽磨砂背景
+   ========================================================================== */
+.header-inner h1,
+#subtitle {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+    padding: 15px 60px !important;
+    border-radius: 40px !important;
+    display: inline-block !important;
+    margin-top: 10px !important;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4) !important;
+    font-size: 2.2rem !important;
+    font-weight: bold !important;
+}
+.header-inner h1:empty, #subtitle:empty { display: none !important; }
+.typed-cursor { display: none !important; }
+
+/* ==========================================================================
+   6. 确保关闭打字机的子页面标题文字瞬间直接全部显示
+   ========================================================================== */
+.page .header-inner h1,
+.page #subtitle,
+.page .typing-value {
+    opacity: 1 !important;
+    visibility: visible !important;
+    animation: none !important;
+    display: inline !important;
+    width: auto !important;
+    max-width: none !important;
+    white-space: normal !important;
+}
+
+/* ==========================================================================
+   7. 完美复刻 MyFigureCollection (MFC) 风格大卡片与图片格子系统
+   ========================================================================== */
+.mfc-container { max-width: 1000px; margin: 30px auto; padding: 0 15px; }
+.mfc-block { background-color: #1c1c1c !important; border-radius: 6px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5); margin-bottom: 25px; border: 1px solid #2d2d2d; overflow: hidden; }
+.mfc-header { background-color: #262626 !important; padding: 12px 20px; font-size: 1.2rem; font-weight: bold; color: #ffffff !important; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #2d2d2d; }
+.mfc-title-left { display: flex; align-items: center; gap: 10px; }
+.mfc-counter { background-color: #333333; color: #888888; padding: 2px 10px; border-radius: 4px; font-size: 0.85rem; font-weight: normal; }
+.mfc-grid { padding: 20px; display: grid; grid-template-columns: repeat(auto-fill, 75px); gap: 12px; }
+.mfc-item { width: 75px; height: 75px; border-radius: 4px; border: 2px solid #4caf50; overflow: hidden; background-color: #141414; cursor: pointer; transition: transform 0.15s ease; }
+.mfc-item:hover { transform: scale(1.08); border-color: #ffffff; }
+.mfc-empty-tip { padding: 30px; color: #666666; font-style: italic; text-align: center; font-size: 0.95rem; width: 100%; }
