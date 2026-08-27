@@ -59,6 +59,9 @@
 /* ==========================================================================
    8. 板块位置与重叠优化（向上拉拢贴近 Banner）
    ========================================================================== */
+.header-inner {
+    height: 40vh !important;
+}
 #board {
     margin-top: -2.5rem !important; /* 核心：负数外边距让白板向上重叠 */
     padding-top: 20px !important;    /* 配合缩小内部顶部留白 */
@@ -67,12 +70,32 @@
     z-index: 3 !important;
 }
 
-/* 控制顶部 Banner 与主板的重叠程度 */
-.header-inner {
-    height: 40vh !important;
+
+.qa-subtitle {
+    font-size: 25px;
+    font-weight: bold;
+    color: #30a9de;
+    border-left: 4px solid #30a9de;
+    padding-left: 10px;
+    margin: 12px 0 16px 0;
 }
-#board {
-    margin-top: -2rem !important; /* 调整这个负值可以精确控制上下重叠的位置 */
-    padding-top: 20px !important;
-    padding-bottom: 30px !important;
+
+.qa-notice-red {
+    font-size: 25px;
+    font-weight: bold;
+    color: #e74c3c;
+    border-left: 4px solid #e74c3c;
+    padding-left: 10px;
+    margin: 12px 0 16px 0;
+}
+
+.gallery-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* 默认是 center center，改成 top 可以靠上显示；或者写 percentage 如 center 15% */
+    object-position: center 15%;
+    display: block;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
 }
