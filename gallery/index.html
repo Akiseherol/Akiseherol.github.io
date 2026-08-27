@@ -19,19 +19,19 @@
   <meta name="author" content="Akiseherol">
   <meta name="keywords" content="">
   
-    <meta name="description" content="&#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;         justify-content: center;         gap: 12px;         margin-bottom: 25px;         flex-wrap: wrap;     }     .tab-btn {">
+    <meta name="description" content="&#x2F;* 修正 Hexo Fluid 主板上边距 *&#x2F;     #board {         margin-top: -2rem !important;         padding-top: 25px !important;     }      &#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;">
 <meta property="og:type" content="website">
 <meta property="og:title" content="FA图库">
 <meta property="og:url" content="https://akiseherol.github.io/gallery/index.html">
 <meta property="og:site_name" content="Fortune Arterial展览室">
-<meta property="og:description" content="&#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;         justify-content: center;         gap: 12px;         margin-bottom: 25px;         flex-wrap: wrap;     }     .tab-btn {">
+<meta property="og:description" content="&#x2F;* 修正 Hexo Fluid 主板上边距 *&#x2F;     #board {         margin-top: -2rem !important;         padding-top: 25px !important;     }      &#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://akiseherol.github.io/gallery/$%7Bitem.thumb%20||%20item.url%7D">
+<meta property="og:image" content="https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg">
 <meta property="article:published_time" content="2026-08-27T05:39:19.000Z">
-<meta property="article:modified_time" content="2026-08-27T11:43:22.333Z">
+<meta property="article:modified_time" content="2026-08-27T12:35:47.503Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://akiseherol.github.io/gallery/$%7Bitem.thumb%20||%20item.url%7D">
+<meta name="twitter:image" content="https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg">
   
   
   
@@ -93,7 +93,7 @@
   <header>
     
 
-<div class="header-inner" style="height: 0.1vh;">
+<div class="header-inner" style="height: 40vh;">
   <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
@@ -276,7 +276,7 @@
       <div class="banner-text text-center fade-in-up">
         <div class="h2">
           
-            <span id="subtitle">Fortune Arterial展览室</span>
+            <span id="subtitle">Fortune Arterial 图库</span>
           
         </div>
 
@@ -306,10 +306,16 @@
                 
 
 <article class="page-content">
-  <!-- PhotoSwipe 5 核心样式与自定义 CSS -->
+  <!-- PhotoSwipe 5 核心样式 -->
 <link rel="stylesheet" href="https://lib.baomitu.com/photoswipe/5.3.7/photoswipe.min.css">
 
 <style>
+    /* 修正 Hexo Fluid 主板上边距 */
+    #board {
+        margin-top: -2rem !important;
+        padding-top: 25px !important;
+    }
+
     /* 分类 Tab 导航样式 */
     .gallery-tabs {
         display: flex;
@@ -350,6 +356,7 @@
         background-color: var(--board-bg-color, #fff);
         transition: transform 0.25s ease, box-shadow 0.25s ease;
         aspect-ratio: 4 / 3;
+        cursor: pointer;
     }
     .gallery-card.hide {
         display: none !important;
@@ -358,17 +365,13 @@
         transform: translateY(-4px);
         box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
     }
-    .gallery-link {
-        display: block;
-        width: 100%;
-        height: 100%;
-    }
     .gallery-img {
         width: 100%;
         height: 100%;
         object-fit: cover;
         display: block;
         transition: opacity 0.3s ease;
+        pointer-events: none;
     }
     .gallery-caption {
         position: absolute;
@@ -384,13 +387,37 @@
         text-overflow: ellipsis;
         opacity: 0;
         transition: opacity 0.25s ease;
+        pointer-events: none;
     }
     .gallery-card:hover .gallery-caption {
         opacity: 1;
     }
-    /* PhotoSwipe 弹窗防拉伸样式 */
+    
+    /* PhotoSwipe 弹窗防拉伸 */
     .pswp__img {
         object-fit: contain !important;
+    }
+
+    /* PhotoSwipe 独立描述框样式 */
+    .pswp__custom-caption {
+        background: rgba(15, 23, 42, 0.75);
+        color: #f8fafc;
+        font-size: 0.92rem;
+        line-height: 1.5;
+        padding: 10px 20px;
+        border-radius: 8px;
+        position: absolute;
+        left: 50%;
+        bottom: 20px;
+        transform: translateX(-50%);
+        text-align: center;
+        max-width: 85%;
+        backdrop-filter: blur(8px);
+        -webkit-backdrop-filter: blur(8px);
+        pointer-events: none;
+        z-index: 1000;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        border: 1px solid rgba(255, 255, 255, 0.1);
     }
 </style>
 
@@ -401,56 +428,69 @@
     <button class="tab-btn" data-filter="commission">私人约稿</button>
 </div>
 
-<!-- Gallery 容器，由 JS 自动渲染 -->
+<!-- Gallery 容器 -->
 <div class="gallery-grid" id="gallery-container"></div>
 
-<!-- 动态渲染、PhotoSwipe 5 初始化与 Tab 筛选脚本 -->
 <script type="module">
     import PhotoSwipeLightbox from 'https://lib.baomitu.com/photoswipe/5.3.7/photoswipe-lightbox.esm.min.js';
     import PhotoSwipe from 'https://lib.baomitu.com/photoswipe/5.3.7/photoswipe.esm.min.js';
 
-    // 1. 图库数据列表
+    // 1. 图库数据列表（含 title 和独立的 description 模板）
     const imageData = [
         {
             category: "anime",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg",
-            title: "动画宣传图1"
+            title: "动画宣发主视觉图1",
+            description: "TV动画版主视觉图。"
         },
         {
             category: "anime",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime2.jpg",
-            title: "动画宣传图2"
+            title: "动画宣发主视觉图2",
+            description: "TV动画 Bluray/DVD 第一卷限量版封套。"
         },
         {
             category: "anime",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime3.jpg",
-            title: "动画宣传图3"
+            title: "动画宣发主视觉图3",
+            description: "刊载于 G's Magazine 的版权插画。"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/avatar.jpg",
-            title: "KitaHaru-喜多ハル 1"
+            title: "喜多ハル 个人约稿 01",
+            description: "画师：喜多ハル（KitaHaru）"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/1.%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%821.png",
-            title: "きしとん。1"
+            title: "きしとん。同人图 01",
+            description: "画师：きしとん。"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/1.%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%822.png",
-            title: "きしとん。2"
+            title: "きしとん。同人图 02",
+            description: "画师：きしとん。"
         }
     ];
 
-    // 2. 渲染 HTML 卡片
+    // 预读真实宽高
+    imageData.forEach(item => {
+        const img = new Image();
+        img.src = item.url;
+        img.onload = () => {
+            item.w = img.naturalWidth;
+            item.h = img.naturalHeight;
+        };
+    });
+
+    // 2. 渲染 DOM 卡片（卡片上只显示简短 title）
     const container = document.getElementById('gallery-container');
-    container.innerHTML = imageData.map(item => `
-        <div class="gallery-card" data-category="${item.category}">
-            <a href="${item.url}" class="gallery-link">
-                <img src="${item.thumb || item.url}" srcset="/img/loading.gif" lazyload alt="${item.title}" class="gallery-img" />
-                <span class="gallery-caption">${item.title}</span>
-            </a>
+    container.innerHTML = imageData.map((item, index) => `
+        <div class="gallery-card" data-category="${item.category}" data-index="${index}">
+            <img src="${item.thumb || item.url}" alt="${item.title}" class="gallery-img" lazyload="false" />
+            <span class="gallery-caption">${item.title}</span>
         </div>
     `).join('');
 
@@ -476,47 +516,82 @@
         });
     });
 
-    // 4. PhotoSwipe 初始化
-    const lightbox = new PhotoSwipeLightbox({
-        gallery: '#gallery-container',
-        children: '.gallery-card:not(.hide) a.gallery-link',
-        pswpModule: PhotoSwipe,
+    // 4. 手动调起 PhotoSwipe
+    let lightbox = null;
 
-        imageClickAction: 'close',
-        tapAction: 'close',
-        doubleTapAction: 'close',
-
-        paddingFn: (viewportSize) => {
+    function openPhotoSwipe(startIndex) {
+        const visibleCards = Array.from(document.querySelectorAll('.gallery-card:not(.hide)'));
+        const dataSource = visibleCards.map(card => {
+            const idx = parseInt(card.getAttribute('data-index'), 10);
+            const data = imageData[idx];
             return {
-                top: viewportSize.y * 0.1,
-                bottom: viewportSize.y * 0.1,
-                left: viewportSize.x * 0.1,
-                right: viewportSize.x * 0.1
+                src: data.url,
+                w: data.w || 1920,
+                h: data.h || 1080,
+                description: data.description || data.title
             };
+        });
+
+        const activeCard = document.querySelector(`.gallery-card[data-index="${startIndex}"]`);
+        const pswpIndex = visibleCards.indexOf(activeCard);
+
+        if (lightbox) {
+            lightbox.destroy();
         }
-    });
 
-    lightbox.addFilter('domItemData', (itemData, element) => {
-        if (element) {
-            itemData.src = element.getAttribute('href');
+        lightbox = new PhotoSwipeLightbox({
+            dataSource: dataSource,
+            pswpModule: PhotoSwipe,
+            thumbEl: () => null,
+            imageClickAction: 'close',
+            tapAction: 'close',
+            doubleTapAction: 'close',
 
-            const img = new Image();
-            img.src = itemData.src;
-            img.onload = () => {
-                itemData.w = img.naturalWidth;
-                itemData.h = img.naturalHeight;
-                if (lightbox.pswp) {
-                    lightbox.pswp.refreshSlideContent(itemData.index);
+            paddingFn: (viewportSize) => {
+                return {
+                    top: viewportSize.y * 0.08,
+                    bottom: viewportSize.y * 0.12,
+                    left: viewportSize.x * 0.08,
+                    right: viewportSize.x * 0.08
+                };
+            }
+        });
+
+        // 注册独立描述控件
+        lightbox.on('uiRegister', function() {
+            lightbox.pswp.ui.registerElement({
+                name: 'custom-caption',
+                order: 9,
+                isButton: false,
+                appendTo: 'root',
+                html: '',
+                onInit: (el, pswp) => {
+                    el.className = 'pswp__custom-caption';
+                    pswp.on('change', () => {
+                        const currSlide = pswp.currSlide;
+                        if (currSlide && currSlide.data.description) {
+                            el.innerHTML = currSlide.data.description;
+                            el.style.display = 'block';
+                        } else {
+                            el.style.display = 'none';
+                        }
+                    });
                 }
-            };
+            });
+        });
 
-            itemData.w = itemData.w || 1920;
-            itemData.h = itemData.h || 1080;
+        lightbox.init();
+        lightbox.loadAndOpen(pswpIndex >= 0 ? pswpIndex : 0);
+    }
+
+    // 绑定卡片点击
+    container.addEventListener('click', (e) => {
+        const card = e.target.closest('.gallery-card');
+        if (card) {
+            const index = parseInt(card.getAttribute('data-index'), 10);
+            openPhotoSwipe(index);
         }
-        return itemData;
     });
-
-    lightbox.init();
 </script>
 
   
