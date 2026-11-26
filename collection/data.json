@@ -100,9 +100,9 @@
           "img": "/img/suruga/145017988.jpg",
           "owned": false,
           "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
+            "x": 8.3,
+            "y": 42.1,
+            "z": 1.95
           }
         }
       ]
@@ -6955,7 +6955,7 @@
     },
     {
       "key": "doujin",
-      "title": "同人本 / Doujinshi",
+      "title": "同人制品 / Doujin",
       "items": [
         {
           "name": "【同人音乐】かなでSP / Dragon Tree",
