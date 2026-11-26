@@ -19,23 +19,23 @@
   <meta name="author" content="Akiseherol">
   <meta name="keywords" content="">
   
-    <meta name="description" content="&#x2F;* 修正 Hexo Fluid 主板上边距 *&#x2F;     #board {         margin-top: -2rem !important;         padding-top: 25px !important;     }      &#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;">
+    <meta name="description" content="&#x2F;* 确保 PhotoSwipe v5 弹窗层级高于一切 *&#x2F;     .pswp {         z-index: 999999 !important;     }      &#x2F;* 当 PhotoSwipe 打开时，降低 Hexo Fluid 导航栏的层级 *&#x2F;     body.pswp-open #navbar {         z-index: 1 !important">
 <meta property="og:type" content="website">
 <meta property="og:title" content="FA图库">
 <meta property="og:url" content="https://akiseherol.github.io/gallery/index.html">
-<meta property="og:site_name" content="Fortune Arterial展览室">
-<meta property="og:description" content="&#x2F;* 修正 Hexo Fluid 主板上边距 *&#x2F;     #board {         margin-top: -2rem !important;         padding-top: 25px !important;     }      &#x2F;* 分类 Tab 导航样式 *&#x2F;     .gallery-tabs {         display: flex;">
+<meta property="og:site_name" content="Fortune Arterial收藏馆">
+<meta property="og:description" content="&#x2F;* 确保 PhotoSwipe v5 弹窗层级高于一切 *&#x2F;     .pswp {         z-index: 999999 !important;     }      &#x2F;* 当 PhotoSwipe 打开时，降低 Hexo Fluid 导航栏的层级 *&#x2F;     body.pswp-open #navbar {         z-index: 1 !important">
 <meta property="og:locale" content="zh_CN">
 <meta property="og:image" content="https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg">
 <meta property="article:published_time" content="2026-08-27T05:39:19.000Z">
-<meta property="article:modified_time" content="2026-08-27T16:30:22.812Z">
+<meta property="article:modified_time" content="2026-11-26T08:52:54.272Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg">
   
   
   
-  <title>FA图库 - Fortune Arterial展览室</title>
+  <title>FA图库 - Fortune Arterial收藏馆</title>
 
   <link  rel="stylesheet" href="https://lib.baomitu.com/twitter-bootstrap/4.6.1/css/bootstrap.min.css" />
 
@@ -97,7 +97,7 @@
   <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand" href="/">
-      <strong>Fortune Arterial展览室</strong>
+      <strong>Fortune Arterial收藏馆</strong>
     </a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
@@ -129,7 +129,7 @@
             <li class="nav-item">
               <a class="nav-link" href="/collection/" target="_self">
                 <i class="iconfont icon-archive-fill"></i>
-                <span>藏品总览</span>
+                <span>藏品周边</span>
               </a>
             </li>
           
@@ -153,7 +153,7 @@
             <li class="nav-item">
               <a class="nav-link" href="/cel/" target="_self">
                 <i class="iconfont icon-brush"></i>
-                <span>原画</span>
+                <span>动画原画</span>
               </a>
             </li>
           
@@ -230,7 +230,7 @@
               <a href="/collection/" target="_self">
                 <div class="mobile-grid-item">
                   <i class="iconfont icon-archive-fill"></i>
-                  <span>藏品总览</span>
+                  <span>藏品周边</span>
                 </div>
               </a>
             </div>
@@ -258,7 +258,7 @@
               <a href="/cel/" target="_self">
                 <div class="mobile-grid-item">
                   <i class="iconfont icon-brush"></i>
-                  <span>原画</span>
+                  <span>动画原画</span>
                 </div>
               </a>
             </div>
@@ -321,7 +321,7 @@
 
   
 
-<div id="banner" class="banner" parallax=true
+<div id="banner" class="banner"
      style="background: url('https://pub-621e14fe346245c48762cbb366326522.r2.dev/Cover1.jpg') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.1)">
@@ -358,10 +358,19 @@
                 
 
 <article class="page-content">
-  <!-- PhotoSwipe 5 核心样式 -->
-<link rel="stylesheet" href="https://lib.baomitu.com/photoswipe/5.3.7/photoswipe.min.css">
+  <link rel="stylesheet" href="https://lib.baomitu.com/photoswipe/5.3.7/photoswipe.min.css">
 
 <style>
+    /* 确保 PhotoSwipe v5 弹窗层级高于一切 */
+    .pswp {
+        z-index: 999999 !important;
+    }
+
+    /* 当 PhotoSwipe 打开时，降低 Hexo Fluid 导航栏的层级 */
+    body.pswp-open #navbar {
+        z-index: 1 !important;
+    }
+
     /* 修正 Hexo Fluid 主板上边距 */
     #board {
         margin-top: -2rem !important;
@@ -393,20 +402,26 @@
         border-color: #2f4154;
     }
 
-    /* 图库网格与卡片样式 */
+    /* 图库网格与卡片样式：固定一行 4 列 */
     .gallery-grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-        gap: 20px;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 16px;
         padding: 10px 0;
     }
+    /* 移动端视口自适应调整 */
+    @media (max-width: 768px) {
+        .gallery-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    
     .gallery-card {
         position: relative;
         border-radius: 8px;
         overflow: hidden;
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
         background-color: var(--board-bg-color, #fff);
-        transition: transform 0.25s ease, box-shadow 0.25s ease;
         aspect-ratio: 4 / 3;
         cursor: pointer;
     }
@@ -414,8 +429,7 @@
         display: none !important;
     }
     .gallery-card:hover {
-        transform: translateY(-4px);
-        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
     }
     .gallery-img {
         width: 100%;
@@ -450,110 +464,297 @@
         object-fit: contain !important;
     }
 
-    /* PhotoSwipe 独立描述框样式 */
+    /* PhotoSwipe 独立胶囊描述框居中样式 */
     .pswp__custom-caption {
-        background: rgba(15, 23, 42, 0.75);
-        color: #f8fafc;
+        background: rgba(15, 23, 42, 0.82) !important;
+        color: #f8fafc !important;
         font-size: 0.92rem;
         line-height: 1.5;
-        padding: 10px 20px;
-        border-radius: 8px;
+        padding: 8px 20px;
+        border-radius: 12px;
         position: absolute;
-        left: 50%;
-        bottom: 20px;
-        transform: translateX(-50%);
-        text-align: center;
-        max-width: 85%;
+        left: 50% !important;
+        bottom: 25px !important;
+        transform: translateX(-50%) !important;
+        text-align: center !important;
+        max-width: 80%;
         backdrop-filter: blur(8px);
         -webkit-backdrop-filter: blur(8px);
         pointer-events: none;
-        z-index: 1000;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
-        border: 1px solid rgba(255, 255, 255, 0.1);
+        z-index: 1000000 !important;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        white-space: nowrap;
     }
 </style>
 
-<!-- 分类 Tab 导航栏 -->
 <div class="gallery-tabs">
     <button class="tab-btn active" data-filter="all">全部</button>
-    <button class="tab-btn" data-filter="anime">动画</button>
+    <button class="tab-btn" data-filter="anime">动画宣传图</button>
+    <button class="tab-btn" data-filter="doujin">同人图</button>
     <button class="tab-btn" data-filter="commission">个人约稿</button>
 </div>
 
-<!-- Gallery 容器 -->
 <div class="gallery-grid" id="gallery-container"></div>
 
 <script type="module">
     import PhotoSwipeLightbox from 'https://lib.baomitu.com/photoswipe/5.3.7/photoswipe-lightbox.esm.min.js';
     import PhotoSwipe from 'https://lib.baomitu.com/photoswipe/5.3.7/photoswipe.esm.min.js';
 
-    // 1. 图库数据列表
+    // 1. 图库完整数据列表（包含缩略图 thumb 路径）
     const imageData = [
+        // 动画宣发图 0-22
         {
             category: "anime",
-            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime1.jpg",
-            title: "动画宣发主视觉图1",
-            description: "TV动画版主视觉图"
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo0.jpg",
+            w: 6081, h: 8593,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo0_thumb.jpg",
+            title: "动画宣发主视觉图 0",
+            description: "动画宣发主视觉图 0"
         },
         {
             category: "anime",
-            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime2.jpg",
-            title: "动画宣发主视觉图2",
-            description: "TV动画版主视觉图"
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo1.jpg",
+            w: 3191, h: 4110,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo1_thumb.jpg",
+            title: "动画宣发主视觉图 1",
+            description: "动画宣发主视觉图 1"
         },
         {
             category: "anime",
-            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Anime/Anime3.jpg",
-            title: "动画宣发主视觉图3",
-            description: "刊载于 G's Magazine 的版权插画"
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo2.jpg",
+            w: 5805, h: 3585,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo2_thumb.jpg",
+            title: "动画宣发主视觉图 2",
+            description: "动画宣发主视觉图 2"
         },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo3.jpg",
+            w: 5799, h: 3580,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo3_thumb.jpg",
+            title: "动画宣发主视觉图 3",
+            description: "动画宣发主视觉图 3"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo4.jpg",
+            w: 5948, h: 4078,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo4_thumb.jpg",
+            title: "动画宣发主视觉图 4",
+            description: "动画宣发主视觉图 4"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo5.jpg",
+            w: 5836, h: 3570,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo5_thumb.jpg",
+            title: "动画宣发主视觉图 5",
+            description: "动画宣发主视觉图 5"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo6.jpg",
+            w: 6343, h: 4083,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo6_thumb.jpg",
+            title: "动画宣发主视觉图 6",
+            description: "动画宣发主视觉图 6"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo7.jpg",
+            w: 5799, h: 3563,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo7_thumb.jpg",
+            title: "动画宣发主视觉图 7",
+            description: "动画宣发主视觉图 7"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo8.jpg",
+            w: 5785, h: 3585,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo8_thumb.jpg",
+            title: "动画宣发主视觉图 8",
+            description: "动画宣发主视觉图 8"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo9.jpg",
+            w: 5815, h: 3541,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo9_thumb.jpg",
+            title: "动画宣发主视觉图 9",
+            description: "动画宣发主视觉图 9"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo10.jpg",
+            w: 4275, h: 2756,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo10_thumb.jpg",
+            title: "动画宣发主视觉图 10",
+            description: "动画宣发主视觉图 10"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo11.jpg",
+            w: 4085, h: 5958,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo11_thumb.jpg",
+            title: "动画宣发主视觉图 11",
+            description: "动画宣发主视觉图 11"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo12.jpg",
+            w: 4084, h: 5975,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo12_thumb.jpg",
+            title: "动画宣发主视觉图 12",
+            description: "动画宣发主视觉图 12"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo13.jpg",
+            w: 4090, h: 5952,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo13_thumb.jpg",
+            title: "动画宣发主视觉图 13",
+            description: "动画宣发主视觉图 13"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo14.jpg",
+            w: 5827, h: 3589,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo14_thumb.jpg",
+            title: "动画宣发主视觉图 14",
+            description: "动画宣发主视觉图 14"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo15.jpg",
+            w: 5795, h: 3607,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo15_thumb.jpg",
+            title: "动画宣发主视觉图 15",
+            description: "动画宣发主视觉图 15"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo16.jpg",
+            w: 6079, h: 8610,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo16_thumb.jpg",
+            title: "动画宣发主视觉图 16",
+            description: "动画宣发主视觉图 16"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo17.jpg",
+            w: 4310, h: 2979,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo17_thumb.jpg",
+            title: "动画宣发主视觉图 17",
+            description: "动画宣发主视觉图 17"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo18.jpg",
+            w: 5796, h: 3577,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo18_thumb.jpg",
+            title: "动画宣发主视觉图 18",
+            description: "动画宣发主视觉图 18"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo19.jpg",
+            w: 5962, h: 4093,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo19_thumb.jpg",
+            title: "动画宣发主视觉图 19",
+            description: "动画宣发主视觉图 19"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo20.jpg",
+            w: 4091, h: 5946,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo20_thumb.jpg",
+            title: "动画宣发主视觉图 20",
+            description: "动画宣发主视觉图 20"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo21.jpg",
+            w: 4076, h: 5947,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo21_thumb.jpg",
+            title: "动画宣发主视觉图 21",
+            description: "动画宣发主视觉图 21"
+        },
+        {
+            category: "anime",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/ani_promo22.jpg",
+            w: 3200, h: 4097,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Ani_promo/thumb/ani_promo22_thumb.jpg",
+            title: "动画宣发主视觉图 22",
+            description: "动画宣发主视觉图 22"
+        },
+        // 同人图
+        {
+            category: "doujin",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Doujin/2_doujin_%E6%B7%B1%E5%B4%8E%E6%9A%AE%E4%BA%BA.jpg",
+            w: 3342, h: 2432,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Doujin/thumb/2_doujin_%E6%B7%B1%E5%B4%8E%E6%9A%AE%E4%BA%BA_thumb.jpg",
+            title: "【同人】深崎暮人",
+            description: "画师：深崎暮人"
+        },
+        {
+            category: "doujin",
+            url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Doujin/1_doujin_%E3%81%BF%E3%82%8B%E3%81%A1%E3%82%87.jpg",
+            w: 856, h: 1048,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Doujin/thumb/1_doujin_%E3%81%BF%E3%82%8B%E3%81%A1%E3%82%87_thumb.jpg",
+            title: "【同人】みるちょ",
+            description: "画师：みるちょ"
+        },
+        // 个人约稿系列
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/0_Kita_1.jpg",
-            title: "【约稿】喜多ハル",
+            w: 4096, h: 2048,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/thumb/0_Kita_1_thumb.jpg",
+            title: "【约稿】KitaHaru-喜多ハル",
             description: "画师：KitaHaru-喜多ハル"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/avatar.jpg",
-            title: "【约稿】喜多ハル",
+            w: 2306, h: 1966,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/avatar.jpg",
+            title: "【约稿】KitaHaru-喜多ハル",
             description: "画师：KitaHaru-喜多ハル"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/1.1_%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%82.png",
-            title: "【约稿】きしとん。",
+            w: 3277, h: 4096,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/thumb/1.1_%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%82_thumb.jpg",
+            title: "【约稿】きしとん。 1",
             description: "画师：きしとん。"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/1.2_%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%82.png",
-            title: "【约稿】きしとん。",
+            w: 3277, h: 4096,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/thumb/1.2_%E3%81%8D%E3%81%97%E3%81%A8%E3%82%93%E3%80%82_thumb.jpg",
+            title: "【约稿】きしとん。 2",
             description: "画师：きしとん。"
         },
         {
             category: "commission",
             url: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/2_%E3%81%9F%E3%81%AC%E3%81%9E%E3%82%93.png",
+            w: 2000, h: 2781,
+            thumb: "https://pub-621e14fe346245c48762cbb366326522.r2.dev/gallery/Commission/thumb/2_%E3%81%9F%E3%81%AC%E3%81%9E%E3%82%93_thumb.jpg",
             title: "【约稿】たぬぞん",
             description: "画师：たぬぞん"
         }
     ];
 
-    // 预读真实宽高
-    imageData.forEach(item => {
-        const img = new Image();
-        img.src = item.url;
-        img.onload = () => {
-            item.w = img.naturalWidth;
-            item.h = img.naturalHeight;
-        };
-    });
+    // 宽高已写在数据里（w/h），不再预下载原图；新增图片时记得补上 w、h
 
     // 2. 渲染 DOM 卡片
     const container = document.getElementById('gallery-container');
     container.innerHTML = imageData.map((item, index) => `
         <div class="gallery-card" data-category="${item.category}" data-index="${index}">
-            <img src="${item.thumb || item.url}" alt="${item.title}" class="gallery-img" lazyload="false" />
+            <img src="${item.thumb || item.url}" alt="${item.title}" class="gallery-img" loading="lazy" decoding="async" lazyload="false" />
             <span class="gallery-caption">${item.title}</span>
         </div>
     `).join('');
@@ -590,6 +791,7 @@
             const data = imageData[idx];
             return {
                 src: data.url,
+                msrc: data.thumb,
                 w: data.w || 1920,
                 h: data.h || 1080,
                 description: data.description || data.title
@@ -642,6 +844,14 @@
                     });
                 }
             });
+        });
+
+        // 监听打开/关闭状态，控制 navbar 的 z-index 避免遮挡
+        lightbox.on('open', () => {
+            document.body.classList.add('pswp-open');
+        });
+        lightbox.on('close', () => {
+            document.body.classList.remove('pswp-open');
         });
 
         lightbox.init();

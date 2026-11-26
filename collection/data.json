@@ -1,0 +1,531 @@
+{
+  "sections": [
+    {
+      "key": "games",
+      "title": "游戏 / Games",
+      "items": [
+        {
+          "name": "FORTUNE ARTERIAL 初回限定版",
+          "link": "/collection/games/1_game1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/games/game1.jpg",
+          "owned": true
+        },
+        {
+          "name": "FORTUNE ARTERIAL 通常版",
+          "link": "/collection/games/2_game2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/games/game2.jpg",
+          "owned": true
+        }
+      ]
+    },
+    {
+      "key": "figures",
+      "title": "手办 / Figures",
+      "items": [
+        {
+          "name": "千堂瑛里华 1/8 寿屋款",
+          "link": "/collection/figures/2_erika2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/erika2.jpg",
+          "owned": true
+        },
+        {
+          "name": "千堂瑛里华 GSC款 粘土人 #157",
+          "link": "/collection/figures/45_erika_61352",
+          "img": "https://static.myfigurecollection.net/upload/items/1/61352-a0c15.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 22.8,
+            "z": 1
+          }
+        },
+        {
+          "name": "千堂瑛里华 1/8 WAVE款 Dream Tech",
+          "link": "/collection/figures/44_erika_3132",
+          "img": "https://static.myfigurecollection.net/upload/items/1/3132-c3158.jpg",
+          "owned": true,
+          "crop": {
+            "x": 52.5,
+            "y": 6,
+            "z": 1.95
+          }
+        },
+        {
+          "name": "东仪白 1/8 WAVE款 Dream Tech",
+          "link": "/collection/figures/30_shiro_722",
+          "img": "https://static.myfigurecollection.net/upload/items/1/722-b5b82.jpg",
+          "owned": true,
+          "crop": {
+            "x": 12,
+            "y": 33.6,
+            "z": 1.5
+          }
+        },
+        {
+          "name": "红濑桐叶 1/8 WAVE款 Dream Tech",
+          "link": "/collection/figures/27_kiriha_1628",
+          "img": "https://static.myfigurecollection.net/upload/items/1/1628-43d45.jpg",
+          "owned": true,
+          "crop": {
+            "x": 48.6,
+            "y": 1.7,
+            "z": 1.7
+          }
+        },
+        {
+          "name": "悠木奏 1/8 WAVE款 Dream Tech",
+          "link": "/collection/figures/35_kanade_5643",
+          "img": "https://static.myfigurecollection.net/upload/items/1/5643-322a0.jpg",
+          "owned": true,
+          "crop": {
+            "x": 47.5,
+            "y": 5,
+            "z": 1.9
+          }
+        },
+        {
+          "name": "悠木阳菜 1/8 WAVE款 Dream Tech",
+          "link": "/collection/figures/43_haruna_2489",
+          "img": "https://static.myfigurecollection.net/upload/items/1/2489-b96eb.jpg",
+          "owned": true,
+          "crop": {
+            "x": 45.6,
+            "y": 4.4,
+            "z": 1.95
+          }
+        },
+        {
+          "name": "千堂瑛里华 1/10 WAVE款 BEACH QUEENS 泳装",
+          "link": "/collection/figures/49_erika_beachqueens",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/erika1h.jpeg",
+          "owned": true
+        },
+        {
+          "name": "东仪白 1/10 WAVE款 BEACH QUEENS 泳装",
+          "link": "/collection/figures/52_shiro_beachqueens",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/shiro_4.jpg",
+          "owned": true
+        },
+        {
+          "name": "红濑桐叶 1/10 WAVE款 BEACH QUEENS 泳装",
+          "link": "/collection/figures/51_kiriha_beachqueens",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/kiriha_3.jpg",
+          "owned": true
+        },
+        {
+          "name": "悠木奏 1/10 WAVE款 BEACH QUEENS 泳装",
+          "link": "/collection/figures/53_kanade_beachqueens",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/kanade_4.jpg",
+          "owned": true
+        },
+        {
+          "name": "悠木阳菜 1/10 WAVE款 BEACH QUEENS 泳装",
+          "link": "/collection/figures/50_haruna_beachqueens",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/haruna_4.jpg",
+          "owned": true
+        },
+        {
+          "name": "千堂瑛里华 1/6 Volks款",
+          "link": "/collection/figures/4_erika_65710",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/4_erika_65710-mwxehx3j.jpg",
+          "owned": true,
+          "crop": {
+            "x": 52.9,
+            "y": 17.1,
+            "z": 1.95
+          }
+        },
+        {
+          "name": "悠木奏 1/6 Volks款",
+          "link": "/collection/figures/5_kanade_243330",
+          "img": "https://static.myfigurecollection.net/upload/items/1/243330-13764.jpg",
+          "owned": true,
+          "crop": {
+            "x": 94,
+            "y": 22.4,
+            "z": 1.15
+          },
+          "star": true,
+          "rare": true
+        },
+        {
+          "name": "悠木阳菜 1/6 Volks款",
+          "link": "/collection/figures/6_haruna_1552806",
+          "img": "https://static.myfigurecollection.net/upload/items/1/1552806-f307c.jpg",
+          "owned": true,
+          "crop": {
+            "x": 70.9,
+            "y": 11.1,
+            "z": 1.3
+          }
+        },
+        {
+          "name": "东仪白 1/6 Volks款",
+          "link": "/collection/figures/7_shiro_13133",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/7_shiro_13133-mwxg3s18.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 8.5,
+            "z": 1
+          }
+        },
+        {
+          "name": "【GK】红濑桐叶 1/6 Volks款",
+          "link": "/collection/figures/10_kiriha_1345854",
+          "img": "https://static.myfigurecollection.net/upload/items/1/1345854-19cb1.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 10.1,
+            "z": 1
+          }
+        },
+        {
+          "name": "千堂瑛里华 Alter款 迷你手办 No.1",
+          "link": "/collection/figures/11_erika_53810",
+          "img": "https://static.myfigurecollection.net/upload/items/1/53810-c0780.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 34.6,
+            "z": 1
+          }
+        },
+        {
+          "name": "东仪白 Alter款 迷你手办 No.2",
+          "link": "/collection/figures/12_shiro_53811",
+          "img": "https://static.myfigurecollection.net/upload/items/1/53811-2e7c5.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 29.5,
+            "z": 1
+          }
+        },
+        {
+          "name": "红濑桐叶 Alter款 迷你手办 No.3",
+          "link": "/collection/figures/18_kiriha_53812",
+          "img": "https://static.myfigurecollection.net/upload/items/1/53812-590eb.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 23.1,
+            "z": 1
+          }
+        },
+        {
+          "name": "悠木奏 Alter款 迷你手办 No.5",
+          "link": "/collection/figures/22_kanade_53814",
+          "img": "https://static.myfigurecollection.net/upload/items/1/53814-2873d.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 3.8,
+            "z": 1
+          }
+        },
+        {
+          "name": "悠木阳菜 Alter款 迷你手办 No.4",
+          "link": "/collection/figures/19_haruna_53813",
+          "img": "https://static.myfigurecollection.net/upload/items/1/53813-c1a67.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 16,
+            "z": 1
+          }
+        },
+        {
+          "name": "千堂瑛里华 1/3 Volks款 Dollfie Dream",
+          "link": "/collection/figures/20_erika_18194",
+          "img": "https://static.myfigurecollection.net/upload/items/1/18194-431d9.jpg",
+          "owned": true,
+          "crop": {
+            "x": 40.4,
+            "y": 0,
+            "z": 1.55
+          },
+          "star": true
+        },
+        {
+          "name": "红濑桐叶 1/3 Volks款 Dollfie Dream",
+          "link": "/collection/figures/21_kiriha_18195",
+          "img": "https://static.myfigurecollection.net/upload/items/1/18195-697e2.jpg",
+          "owned": true,
+          "crop": {
+            "x": 41.7,
+            "y": 0,
+            "z": 1.65
+          },
+          "star": true
+        },
+        {
+          "name": "【配件】千堂瑛里华 1/3 Cherry Milk款 娃衣",
+          "link": "/collection/figures/26_erika_394880",
+          "img": "https://static.myfigurecollection.net/upload/items/1/394880-b9bce.jpg",
+          "owned": false,
+          "crop": {
+            "x": 63.9,
+            "y": 0,
+            "z": 1.1
+          },
+          "rare": true
+        },
+        {
+          "name": "千堂瑛里华 1/3 Azone款 Hybrid Active Figure",
+          "link": "/collection/figures/28_erika_14160",
+          "img": "https://static.myfigurecollection.net/upload/items/1/14160-8352c.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 5.9,
+            "z": 1
+          }
+        },
+        {
+          "name": "千堂瑛里华 1/6 Azone款 PureNeemo",
+          "link": "/collection/figures/34_erika_14154",
+          "img": "https://static.myfigurecollection.net/upload/items/1/14154-4bd1e.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【GK】悠木奏 1/7 硫黄泉款 孝平的围裙 Ver.",
+          "link": "/collection/figures/29_kanade_46773",
+          "img": "https://static.myfigurecollection.net/upload/items/1/46773-45514.jpg",
+          "owned": true,
+          "crop": {
+            "x": 56.2,
+            "y": 8.5,
+            "z": 1.3
+          },
+          "star": true,
+          "rare": true
+        },
+        {
+          "name": "悠木奏 1/7 WAVE款 Dream Tech 孝平的围裙 Ver.",
+          "link": "/collection/figures/48_kanade_apron",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/48_kanade_apron_main.jpg",
+          "owned": true,
+          "crop": {
+            "x": 43.6,
+            "y": 8.1,
+            "z": 1.7
+          }
+        },
+        {
+          "name": "【GK】千堂瑛里华 1/4 たんぽぽ款",
+          "link": "/collection/figures/13_erika_108683",
+          "img": "https://static.myfigurecollection.net/upload/items/1/108683-764cb.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 24.9,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "悠木阳菜 1/3 Azone款 Hybrid Active Figure 通常版",
+          "link": "/collection/figures/39_haruna_14153",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/39_haruna_14153-mwxew9f0.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 27.4,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "悠木阳菜 1/3 Azone款 Hybrid Active Figure 异口型限定版",
+          "link": "/collection/figures/40_haruna_18964",
+          "img": "https://static.myfigurecollection.net/upload/items/1/18964-5ce8d.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 45.3,
+            "z": 1.35
+          },
+          "star": true,
+          "rare": true
+        },
+        {
+          "name": "【配件】悠木阳菜 1/3 Azone款 修智馆学院制服娃衣",
+          "link": "/collection/figures/41_haruna_1240210",
+          "img": "https://static.myfigurecollection.net/upload/items/1/1240210-0bbbc.jpg",
+          "owned": false,
+          "rare": true
+        },
+        {
+          "name": "【配件】悠木阳菜 1/3 Azone款 美化委员制服·文化祭「黑猫」娃衣",
+          "link": "/collection/figures/47_haruna_acc607",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/47_haruna_acc607_1.jpg",
+          "owned": false,
+          "rare": true
+        },
+        {
+          "name": "千堂瑛里华 Volks款 Customa-P",
+          "link": "/collection/figures/32_erika_11906",
+          "img": "https://static.myfigurecollection.net/upload/items/1/11906-2f8ba.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 8.4,
+            "z": 1
+          }
+        },
+        {
+          "name": "东仪白 1/10 Volks款 Customa-P",
+          "link": "/collection/figures/33_shiro_11907",
+          "img": "https://static.myfigurecollection.net/upload/items/1/11907-286e7.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 14.3,
+            "z": 1
+          }
+        },
+        {
+          "name": "【GK】东仪白 1/7 硫黄泉款 浴衣 Ver.",
+          "link": "/collection/figures/46_shiro_46770",
+          "img": "https://static.myfigurecollection.net/upload/items/1/46770-ef559.jpg",
+          "owned": true,
+          "rare": true
+        },
+        {
+          "name": "【GK】千堂瑛里华 1/8 Monologue款",
+          "link": "/collection/figures/3_erika_106284",
+          "img": "https://static.myfigurecollection.net/upload/items/1/106284-74b85.jpg",
+          "owned": false,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】千堂瑛里华 1/6 たんぽぽ款",
+          "link": "/collection/figures/14_erika_108682",
+          "img": "https://static.myfigurecollection.net/upload/items/1/108682-1ddd8.jpg",
+          "owned": false,
+          "crop": {
+            "x": 0,
+            "y": 6.7,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】红濑桐叶 1/6 たんぽぽ款",
+          "link": "/collection/figures/15_kiriha_108690",
+          "img": "https://static.myfigurecollection.net/upload/items/1/108690-d481a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 7.3,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】千堂瑛里华 1/8 Twin Bell款",
+          "link": "/collection/figures/16_erika_115355",
+          "img": "https://static.myfigurecollection.net/upload/items/1/115355-980fc.jpg",
+          "owned": false,
+          "rare": true
+        },
+        {
+          "name": "【GK】千堂瑛里华 Twin Bell款 SD Ver.",
+          "link": "/collection/figures/17_erika_115357",
+          "img": "https://static.myfigurecollection.net/upload/items/1/115357-ae5b0.jpg",
+          "owned": false,
+          "crop": {
+            "x": 0,
+            "y": 31.6,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】悠木阳菜 1/6 S-Mist款",
+          "link": "/collection/figures/23_haruna_87416",
+          "img": "https://static.myfigurecollection.net/upload/items/1/87416-f0a38.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 0,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】东仪白 1/8 コタン堂款",
+          "link": "/collection/figures/31_shiro_2147909",
+          "img": "https://static.myfigurecollection.net/upload/items/1/2147909-f00f2.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 17.5,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】悠木阳菜 1/6 MA-SA款",
+          "link": "/collection/figures/37_haruna_92592",
+          "img": "https://static.myfigurecollection.net/upload/items/1/92592-78d7a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 9.8,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】东仪白 1/6 MA-SA款 泳装 Ver.",
+          "link": "/collection/figures/38_shiro_92450",
+          "img": "https://static.myfigurecollection.net/upload/items/1/92450-10b25.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 0,
+            "z": 1
+          },
+          "rare": true
+        },
+        {
+          "name": "【GK】千堂瑛里华 1/7 硫黄泉款",
+          "link": "/collection/figures/42_erika_39979",
+          "img": "https://static.myfigurecollection.net/upload/items/1/39979-75d32.jpg",
+          "owned": false,
+          "rare": true
+        }
+      ]
+    },
+    {
+      "key": "goods",
+      "title": "周边 / Goods",
+      "items": [
+        {
+          "name": "千堂瑛里华 1/24 富士美款 痛车 Toyota Altezza RS200",
+          "link": "/collection/figures/36_erika_58674",
+          "img": "https://static.myfigurecollection.net/upload/items/1/58674-3b474.jpg",
+          "owned": false
+        }
+      ]
+    },
+    {
+      "key": "books",
+      "title": "书籍 / Books",
+      "items": []
+    }
+  ]
+}
