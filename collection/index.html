@@ -19,15 +19,15 @@
   <meta name="author" content="Akiseherol">
   <meta name="keywords" content="">
   
-    <meta name="description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }     加载中…      (function () {   var root &#x3D; do">
+    <meta name="description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }  &#x2F;* 3. 分类标题栏可以点击展开 &#x2F; 收起 *&#x2F; .mfc-header { cur">
 <meta property="og:type" content="website">
 <meta property="og:title" content="藏品总览">
 <meta property="og:url" content="https://akiseherol.github.io/collection/index.html">
 <meta property="og:site_name" content="Fortune Arterial收藏馆">
-<meta property="og:description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }     加载中…      (function () {   var root &#x3D; do">
+<meta property="og:description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }  &#x2F;* 3. 分类标题栏可以点击展开 &#x2F; 收起 *&#x2F; .mfc-header { cur">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2026-06-15T04:00:00.000Z">
-<meta property="article:modified_time" content="2026-11-26T11:22:36.256Z">
+<meta property="article:modified_time" content="2026-11-26T18:23:48.466Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -392,6 +392,27 @@
 .mfc-container {
   margin-top: 80px !important; 
 }
+
+/* 3. 分类标题栏可以点击展开 / 收起 */
+.mfc-header { cursor: pointer; user-select: none; }
+.mfc-header:hover { filter: brightness(1.15); }
+.mfc-caret { display: inline-block; margin-right: 8px; transition: transform .2s; color: #999; }
+.mfc-block.collapsed .mfc-caret { transform: rotate(-90deg); }
+.mfc-block.collapsed .mfc-grid, .mfc-block.collapsed .mfc-empty-tip { display: none; }
+
+/* 4. R18 封面：默认打码，点上面的按钮显示 */
+.mfc-toolbar { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin: 0 0 12px; }
+.mfc-total { font-size: 15px; color: #c4c6c9; }
+.mfc-total b { color: #fff; font-size: 18px; margin: 0 2px; }
+.mfc-total b.mine { color: #4caf50; }
+.mfc-total span { color: #888; font-size: 13px; }
+.mfc-toolbar button { font: inherit; font-size: 13px; cursor: pointer; padding: 5px 14px; border-radius: 16px; border: 1px solid #555; background: #222; color: #bbb; }
+.mfc-toolbar button:hover { border-color: #e0567a; color: #fff; }
+.mfc-toolbar button.on { border-color: #e0567a; color: #ff9fb6; }
+.mfc-item.r18 { position: relative; overflow: hidden; }
+#mfc-root:not(.show-r18) .mfc-item.r18 img,
+#mfc-root:not(.show-r18) .mfc-item.r18:hover img { filter: blur(9px) brightness(.6); }
+#mfc-root:not(.show-r18) .mfc-item.r18::after { content: "R18"; position: absolute; inset: 0; display: grid; place-items: center; color: #ff9fb6; font-weight: 700; font-size: 13px; letter-spacing: 1px; pointer-events: none; }
 </style>
 
 <div class="mfc-main-board">
@@ -411,17 +432,42 @@
     return 'width:100%;height:100%;object-fit:cover;object-position:' + pos + ';transform:scale(' + (+c.z || 1) + ');transform-origin:' + pos + ';';
   }
   function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+  // 点分类标题栏展开 / 收起，记在本机浏览器里（下次打开保持）
+  var closed = {};
+  try { closed = JSON.parse(localStorage.getItem('fa-collapsed') || '{}') || {}; } catch (e) {}
+  // R18 封面：默认打码；点按钮切换，同样记在本机浏览器里
+  var showR18 = false;
+  try { showR18 = localStorage.getItem('fa-show-r18') === '1'; } catch (e) {}
+  function r18Label() { return showR18 ? '隐藏 R18 封面' : '显示 R18 封面'; }
+  root.addEventListener('click', function (e) {
+    var tog = e.target.closest('.mfc-r18-toggle');
+    if (tog) {
+      showR18 = !showR18; root.classList.toggle('show-r18', showR18);
+      tog.textContent = r18Label(); tog.classList.toggle('on', showR18);
+      try { localStorage.setItem('fa-show-r18', showR18 ? '1' : '0'); } catch (e) {}
+      return;
+    }
+    var head = e.target.closest('.mfc-header'); if (!head) return;
+    var block = head.parentNode, key = block.getAttribute('data-key');
+    block.classList.toggle('collapsed');
+    if (block.classList.contains('collapsed')) closed[key] = 1; else delete closed[key];
+    try { localStorage.setItem('fa-collapsed', JSON.stringify(closed)); } catch (e) {}
+  });
   fetch('/collection/data.json', { cache: 'no-cache' }).then(function (r) { return r.json(); }).then(function (data) {
-    root.innerHTML = data.sections.map(function (sec) {
+    root.classList.toggle('show-r18', showR18);
+    var all = 0, mine = 0;
+    data.sections.forEach(function (s) { all += s.items.length; mine += s.items.filter(function (i) { return i.owned; }).length; });
+    root.innerHTML = '<div class="mfc-toolbar"><div class="mfc-total">共 <b>' + all + '</b> 件藏品 · 已收藏 <b class="mine">' + mine + '</b> 件' +
+      ' <span>（' + (all ? Math.round(mine / all * 1000) / 10 : 0) + '%）</span></div><button type="button" class="mfc-r18-toggle' + (showR18 ? ' on' : '') + '">' + r18Label() + '</button></div>' + data.sections.map(function (sec) {
       var owned = sec.items.filter(function (i) { return i.owned; }).length;
       var cells = sec.items.map(function (i) {
-        var cell = '<div class="mfc-item' + (i.owned ? '' : ' missing') + (i.star ? ' star' : '') + '"><img src="' + esc(i.img) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(i.name) + '" style="' + cover(i) + '">' +
+        var cell = '<div class="mfc-item' + (i.owned ? '' : ' missing') + (i.star ? ' star' : '') + (i.r18 ? ' r18' : '') + '"><img src="' + esc(i.img) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(i.name) + '" style="' + cover(i) + '">' +
           (i.star ? '<span class="mfc-star" title="珍藏">★</span>' : '') +
           (i.rare ? '<span class="mfc-rare" title="稀有">◆</span>' : '') + '</div>';
         var tip = esc(i.name) + (i.owned ? '（已收藏）' : '（未收藏）') + (i.star ? ' ★ 珍藏' : '') + (i.rare ? ' ◆ 稀有' : '');
         return i.link ? '<a href="' + esc(i.link) + '" title="' + tip + '">' + cell + '</a>' : '<span title="' + tip + '">' + cell + '</span>';
       }).join('');
-      return '<div class="mfc-block"><div class="mfc-header"><div class="mfc-title-left">' + esc(sec.title) +
+      return '<div class="mfc-block' + (closed[sec.key] ? ' collapsed' : '') + '" data-key="' + esc(sec.key) + '"><div class="mfc-header" title="点击展开 / 收起"><div class="mfc-title-left"><span class="mfc-caret">▾</span>' + esc(sec.title) +
         ' <span class="mfc-legend"><i class="mfc-legend-owned"></i>已收藏 <i class="mfc-legend-missing"></i>未收藏 <b class="mfc-legend-star">★</b>珍藏 <b class="mfc-legend-rare">◆</b>稀有</span></div>' +
         '<div class="mfc-counter" title="已收藏 / 总数">' + owned + ' / ' + sec.items.length + '</div></div>' +
         (sec.items.length ? '<div class="mfc-grid">' + cells + '</div>' : '<div class="mfc-empty-tip">暂无藏品</div>') + '</div>';
