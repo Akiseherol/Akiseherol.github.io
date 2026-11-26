@@ -525,7 +525,360 @@
     {
       "key": "books",
       "title": "书籍 / Books",
-      "items": []
+      "items": [
+        {
+          "name": "漫画（角川）Vol.1",
+          "link": "/collection/books/kadokawa_comic#v1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047150812.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.2",
+          "link": "/collection/books/kadokawa_comic#v2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047151628.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 1.2,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.3",
+          "link": "/collection/books/kadokawa_comic#v3",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047153042.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.4",
+          "link": "/collection/books/kadokawa_comic#v4",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155190.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.5",
+          "link": "/collection/books/kadokawa_comic#v5",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155473.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.6 限定版",
+          "link": "/collection/books/kadokawa_comic#v6",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784049008036.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.6 通常版",
+          "link": "/collection/books/kadokawa_comic#v7",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047156432.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画（角川）Vol.7",
+          "link": "/collection/books/kadokawa_comic#v8",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047157804.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "赤之约定 官方漫画选集",
+          "link": "/collection/books/alacarte",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155787.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.1",
+          "link": "/collection/books/magicu4koma#v1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757741652.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.2",
+          "link": "/collection/books/magicu4koma#v2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757743410.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.3",
+          "link": "/collection/books/magicu4koma#v3",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757744295.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.4",
+          "link": "/collection/books/magicu4koma#v4",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757745346.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.5",
+          "link": "/collection/books/magicu4koma#v5",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757746749.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.6",
+          "link": "/collection/books/magicu4koma#v6",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757748439.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.7",
+          "link": "/collection/books/magicu4koma#v7",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757749283.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.8",
+          "link": "/collection/books/magicu4koma#v8",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047260092.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.9",
+          "link": "/collection/books/magicu4koma#v9",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047262157.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "魔法Q四格 Vol.10",
+          "link": "/collection/books/magicu4koma#v10",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047263260.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画 Character's Prelude",
+          "link": "/collection/books/prelude",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048671552.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画选集（一迅社）Vol.1",
+          "link": "/collection/books/ichijinsha_anthology#v1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004473.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画选集（一迅社）Vol.2",
+          "link": "/collection/books/ichijinsha_anthology#v2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004565.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "漫画选集（一迅社）Vol.3",
+          "link": "/collection/books/ichijinsha_anthology#v3",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004664.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 瑛里华篇",
+          "link": "/collection/books/novel#v1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434119651.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 白篇",
+          "link": "/collection/books/novel#v2",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434121203.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 桐叶篇",
+          "link": "/collection/books/novel#v3",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434123092.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 奏篇",
+          "link": "/collection/books/novel#v4",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434127779.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 阳菜篇",
+          "link": "/collection/books/novel#v5",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434128646.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "小说 完结篇",
+          "link": "/collection/books/novel#v6",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434131448.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "TECH GIAN 超级序章",
+          "link": "/collection/books/techgian_prelude",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757739451.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "完美视觉书",
+          "link": "/collection/books/perfect_visual_book",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048671583.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "赤之约定 官方视觉指南",
+          "link": "/collection/books/akai_yakusoku_visual_guide",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048545891.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        }
+      ]
     }
   ]
 }

@@ -155,3 +155,10 @@
     vertical-align: middle;
 }
 .page-content table { margin: 10px 0; border-collapse: collapse; }
+
+/* ==========================================================================
+   11. 书籍系列页的「各卷一览」：从藏品总览点某一卷跳过来时，不被顶栏挡住并高亮那一行
+   ========================================================================== */
+.page-content tr[id^="v"] { scroll-margin-top: 90px; }
+.page-content tr[id^="v"]:target td { background: rgba(255, 200, 61, 0.12); }
+.page-content tr[id^="v"]:target td:first-child { box-shadow: inset 3px 0 0 #ffc83d; }
