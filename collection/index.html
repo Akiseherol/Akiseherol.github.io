@@ -27,7 +27,7 @@
 <meta property="og:description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }  &#x2F;* 3. 分类标题栏可以点击展开 &#x2F; 收起 *&#x2F; .mfc-header { cur">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2026-06-15T04:00:00.000Z">
-<meta property="article:modified_time" content="2026-11-26T18:23:48.466Z">
+<meta property="article:modified_time" content="2026-11-26T18:47:08.238Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -461,14 +461,16 @@
       ' <span>（' + (all ? Math.round(mine / all * 1000) / 10 : 0) + '%）</span></div><button type="button" class="mfc-r18-toggle' + (showR18 ? ' on' : '') + '">' + r18Label() + '</button></div>' + data.sections.map(function (sec) {
       var owned = sec.items.filter(function (i) { return i.owned; }).length;
       var cells = sec.items.map(function (i) {
+        // 稀有 ◆ 只给「已收藏、又不是珍藏」的显示：没收到的本来就稀有，珍藏的也一定稀有
+        var rare = i.rare && i.owned && !i.star;
         var cell = '<div class="mfc-item' + (i.owned ? '' : ' missing') + (i.star ? ' star' : '') + (i.r18 ? ' r18' : '') + '"><img src="' + esc(i.img) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(i.name) + '" style="' + cover(i) + '">' +
-          (i.star ? '<span class="mfc-star" title="珍藏">★</span>' : '') +
-          (i.rare ? '<span class="mfc-rare" title="稀有">◆</span>' : '') + '</div>';
-        var tip = esc(i.name) + (i.owned ? '（已收藏）' : '（未收藏）') + (i.star ? ' ★ 珍藏' : '') + (i.rare ? ' ◆ 稀有' : '');
+          (i.star ? '<span class="mfc-ring"></span>' : '') +
+          (rare ? '<span class="mfc-rare" title="稀有">◆</span>' : '') + '</div>';
+        var tip = esc(i.name) + (i.owned ? '（已收藏）' : '（未收藏）') + (i.star ? ' · 珍藏' : '') + (rare ? ' ◆ 稀有' : '');
         return i.link ? '<a href="' + esc(i.link) + '" title="' + tip + '">' + cell + '</a>' : '<span title="' + tip + '">' + cell + '</span>';
       }).join('');
       return '<div class="mfc-block' + (closed[sec.key] ? ' collapsed' : '') + '" data-key="' + esc(sec.key) + '"><div class="mfc-header" title="点击展开 / 收起"><div class="mfc-title-left"><span class="mfc-caret">▾</span>' + esc(sec.title) +
-        ' <span class="mfc-legend"><i class="mfc-legend-owned"></i>已收藏 <i class="mfc-legend-missing"></i>未收藏 <b class="mfc-legend-star">★</b>珍藏 <b class="mfc-legend-rare">◆</b>稀有</span></div>' +
+        ' <span class="mfc-legend"><i class="mfc-legend-owned"></i>已收藏 <i class="mfc-legend-missing"></i>未收藏 <i class="mfc-legend-star"></i>珍藏 <b class="mfc-legend-rare">◆</b>稀有</span></div>' +
         '<div class="mfc-counter" title="已收藏 / 总数">' + owned + ' / ' + sec.items.length + '</div></div>' +
         (sec.items.length ? '<div class="mfc-grid">' + cells + '</div>' : '<div class="mfc-empty-tip">暂无藏品</div>') + '</div>';
     }).join('');
