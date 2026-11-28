@@ -155,18 +155,6 @@
 .mfc-item.star.missing .mfc-ring { --snake-base: #4a4a4a; }
 @media (prefers-reduced-motion: reduce) { .mfc-ring::before { animation: none; } }
 
-/* 稀有标识：格子右下角的紫色宝石（data.json 里 rare: true），同时是珍藏时排在星星左边 */
-.mfc-rare {
-    position: absolute; bottom: 2px; right: 2px; z-index: 4;
-    width: 18px; height: 18px; border-radius: 50%;
-    display: grid; place-items: center;
-    background: rgba(0, 0, 0, 0.72); color: #c08cff;
-    font-size: 11px; line-height: 1;
-    text-shadow: 0 0 4px rgba(192, 140, 255, 0.9);
-    pointer-events: none;
-}
-.mfc-legend-rare { color: #c08cff; font-weight: normal; margin-left: 8px; text-shadow: 0 0 4px rgba(192, 140, 255, 0.6); }
-
 /* ==========================================================================
    10. 单品页里的表格（如「版本说明」）：加内边距和分隔线
    ========================================================================== */
@@ -212,3 +200,15 @@
 .page-content .news-btn:hover { background: #30a9de; color: #fff; }
 .page-content .news-btn.archive { border-color: #8a8a8a; color: #bbb; }
 .page-content .news-btn.archive:hover { background: #8a8a8a; color: #fff; }
+
+/* ==========================================================================
+   藏品总览：「未发售」一栏（开发中止的 PS3/PSP 版、发售中止的角色 CD）—— 深色细虚线 + 左上角「未发售」小标签
+   ========================================================================== */
+.mfc-item.unreleased { border: 2px dashed #8a6d3b; }
+.mfc-item.unreleased img { filter: grayscale(100%) brightness(0.6); transition: filter 0.15s ease; }
+.mfc-item.unreleased:hover img { filter: grayscale(30%) brightness(0.9); }
+.mfc-unrel-tag {
+    position: absolute; top: 4px; left: 4px; z-index: 4; pointer-events: none;
+    padding: 1px 6px; border-radius: 3px; font-size: 11px; line-height: 1.5;
+    background: rgba(0, 0, 0, 0.75); color: #e8c25a; border: 1px solid #8a6d3b;
+}

@@ -24,8 +24,7 @@
             "x": 0,
             "y": 45.2,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【游戏】FORTUNE ARTERIAL Windows7 对应版",
@@ -35,29 +34,6 @@
           "crop": {
             "x": 50,
             "y": 16.9,
-            "z": 1
-          },
-          "rare": true
-        },
-        {
-          "name": "【游戏】PS3 FORTUNE ARTERIAL 赤之约定",
-          "link": "/collection/games/sy_103000813",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【游戏】PSP FORTUNE ARTERIAL 伊织的野望",
-          "link": "/collection/games/sy_177001548",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
             "z": 1
           }
         },
@@ -243,8 +219,7 @@
             "y": 17,
             "z": 2.1
           },
-          "star": true,
-          "rare": true
+          "star": true
         },
         {
           "name": "【手办】悠木阳菜 1/6 Volks款",
@@ -421,8 +396,7 @@
             "y": 5.6,
             "z": 1.3
           },
-          "star": true,
-          "rare": true
+          "star": true
         },
         {
           "name": "【GK】千堂瑛里华 1/4 たんぽぽ款",
@@ -433,15 +407,13 @@
             "x": 100,
             "y": 24.9,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】东仪白 1/7 硫黄泉款 浴衣 Ver.",
           "link": "/collection/figures/46_shiro_46770",
           "img": "https://static.myfigurecollection.net/upload/items/1/46770-ef559.jpg",
           "owned": true,
-          "rare": true,
           "crop": {
             "x": 0,
             "y": 15.1,
@@ -457,8 +429,7 @@
             "x": 0,
             "y": 0,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】千堂瑛里华 1/6 たんぽぽ款",
@@ -469,8 +440,7 @@
             "x": 0,
             "y": 6.7,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】红濑桐叶 1/6 たんぽぽ款",
@@ -481,15 +451,13 @@
             "x": 100,
             "y": 7.3,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】千堂瑛里华 1/8 Twin Bell款",
           "link": "/collection/figures/16_erika_115355",
           "img": "https://static.myfigurecollection.net/upload/items/1/115355-980fc.jpg",
-          "owned": false,
-          "rare": true
+          "owned": false
         },
         {
           "name": "【GK】千堂瑛里华 Twin Bell款 SD Ver.",
@@ -500,8 +468,7 @@
             "x": 0,
             "y": 31.6,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】悠木阳菜 1/6 S-Mist款",
@@ -512,8 +479,7 @@
             "x": 100,
             "y": 0,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】东仪白 1/8 コタン堂款",
@@ -524,8 +490,7 @@
             "x": 100,
             "y": 17.5,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】悠木阳菜 1/6 MA-SA款",
@@ -536,8 +501,7 @@
             "x": 100,
             "y": 9.8,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】东仪白 1/6 MA-SA款 泳装 Ver.",
@@ -548,15 +512,13 @@
             "x": 100,
             "y": 0,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【GK】千堂瑛里华 1/7 硫黄泉款",
           "link": "/collection/figures/42_erika_39979",
           "img": "https://static.myfigurecollection.net/upload/items/1/39979-75d32.jpg",
-          "owned": false,
-          "rare": true
+          "owned": false
         },
         {
           "name": "【GK】红濑桐叶 1/7 树脂模型",
@@ -668,8 +630,7 @@
             "x": 0,
             "y": 27.4,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【娃娃】悠木阳菜 1/3 Azone款 Hybrid Active Figure 异口型限定版",
@@ -681,8 +642,7 @@
             "y": 45.3,
             "z": 1.35
           },
-          "star": true,
-          "rare": true
+          "star": true
         },
         {
           "name": "【配件】千堂瑛里华 1/3 Cherry Milk款 娃衣",
@@ -693,38 +653,24 @@
             "x": 63.9,
             "y": 0,
             "z": 1.1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【配件】悠木阳菜 1/3 Azone款 修智馆学院制服娃衣",
           "link": "/collection/figures/41_haruna_1240210",
           "img": "https://static.myfigurecollection.net/upload/items/1/1240210-0bbbc.jpg",
-          "owned": false,
-          "rare": true
+          "owned": false
         },
         {
           "name": "【配件】悠木阳菜 1/3 Azone款 美化委员制服·文化祭「黑猫」娃衣",
           "link": "/collection/figures/47_haruna_acc607",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/47_haruna_acc607_1.jpg",
-          "owned": false,
-          "rare": true
+          "owned": false
         },
         {
           "name": "【配件】悠木阳菜 1/3 Azone 通常版头部",
           "link": "/collection/figures/sy_991009641",
           "img": "/img/suruga/991009641.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【配件】アゾン 1/3キャラクターコスチュームシリーズ アゾンキャラクタードール 修智館学院制服セット/悠木陽菜用 006",
-          "link": "/collection/figures/md_1280602595",
-          "img": "/img/mandarake/m1280602595.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -769,17 +715,6 @@
           "name": "【配件】DD 用修智馆学院女子制服（Whitesnow）",
           "link": "/collection/figures/md_1338382330",
           "img": "/img/mandarake/m1338382330.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【配件】ボークス デフォルト衣装 DD 千堂瑛里華 服+靴",
-          "link": "/collection/figures/md_1252140304",
-          "img": "/img/mandarake/m1252140304.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -1137,24 +1072,14 @@
         {
           "name": "【挂毯】双面绒 B2 挂毯 瑛里华",
           "link": "/collection/goods/sy_873146469",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial01-b2ws.jpg",
+          "owned": false
         },
         {
           "name": "【挂毯】双面绒 B2 挂毯 阳菜 女仆装",
           "link": "/collection/goods/sy_873146470",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial02-b2ws.jpg",
+          "owned": false
         },
         {
           "name": "【挂毯】B1 挂毯 瑛里华「赤之约定永远……」（X-RATED）",
@@ -1261,7 +1186,7 @@
           "name": "【钥匙扣】徽章钥匙扣 瑛里华",
           "link": "/collection/goods/medal_keyholder_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods107a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 0.6,
             "y": 98.6,
@@ -1315,55 +1240,55 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 瑛里华",
           "link": "/collection/goods/rubber_keyholder_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods11a.jpg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_erika.webp",
           "owned": true,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 0,
+            "y": 76.3,
             "z": 1
           }
         },
         {
           "name": "【钥匙扣】橡胶钥匙扣 白",
           "link": "/collection/goods/rubber_keyholder_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods11a.jpg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_shiro.webp",
           "owned": true,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 100,
+            "y": 78.3,
             "z": 1
           }
         },
         {
           "name": "【钥匙扣】橡胶钥匙扣 桐叶",
           "link": "/collection/goods/rubber_keyholder_kiriha",
-          "img": "/news/archive/august-soft.com/goods/pic/goods11a.jpg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_kiriha.jpg",
           "owned": true,
           "crop": {
             "x": 50,
-            "y": 50,
+            "y": 65.9,
             "z": 1
           }
         },
         {
           "name": "【钥匙扣】橡胶钥匙扣 阳菜",
           "link": "/collection/goods/rubber_keyholder_haruna",
-          "img": "/news/archive/august-soft.com/goods/pic/goods11a.jpg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_haruna.jpg",
           "owned": true,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 0,
+            "y": 63.3,
             "z": 1
           }
         },
         {
           "name": "【钥匙扣】橡胶钥匙扣 奏",
           "link": "/collection/goods/rubber_keyholder_kanade",
-          "img": "/news/archive/august-soft.com/goods/pic/goods11a.jpg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_kanade.jpg",
           "owned": true,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 100,
+            "y": 68.2,
             "z": 1
           }
         },
@@ -1478,15 +1403,14 @@
           }
         },
         {
-          "name": "【钥匙扣】ブロッコリー フォーチュン・アテリアル ラバーキーホルダー 東儀 白",
-          "link": "/collection/goods/md_1124095257",
-          "img": "/img/mandarake/m1124095257.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "name": "【钥匙扣】亚克力钥匙扣（Jamil）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【钥匙扣】Q 版钥匙扣 桐叶&伽耶",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_q_keychain.jpg",
+          "owned": true
         },
         {
           "name": "【书皮】瑛里华",
@@ -1558,7 +1482,7 @@
           "name": "【鼠标垫】大号鼠标垫 瑛里华&白",
           "link": "/collection/goods/mousepad_large_erika_shiro",
           "img": "/news/archive/august-soft.com/goods/pic/goods104a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 27.5,
             "y": 73.6,
@@ -1712,7 +1636,7 @@
           "name": "【毛巾】人物毛巾 奏&阳菜",
           "link": "/collection/goods/portrait_towel_kanade_haruna",
           "img": "/news/archive/august-soft.com/goods/pic/goods07a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -1729,7 +1653,7 @@
           "name": "【毛巾】超细纤维毛巾 奏&阳菜（C72 套装）",
           "link": "/collection/goods/sy_608003479",
           "img": "/img/suruga/608003479.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -1855,8 +1779,7 @@
             "x": 50,
             "y": 50,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【T恤】阳菜（2011）",
@@ -1925,50 +1848,6 @@
           }
         },
         {
-          "name": "【T恤】二次元COSPA FORTUNE ARTERIAL Tシャツ 東儀白 ホワイト XLサイズ",
-          "link": "/collection/goods/md_1149047080",
-          "img": "/img/mandarake/m1149047080.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【T恤】コスパ FORTUNE ARTERIAL Tシャツ 悠木陽菜 XLサイズ",
-          "link": "/collection/goods/md_1140238644",
-          "img": "/img/mandarake/m1140238644.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【T恤】二次元COSPA/FORTUNE ARTERIAL/Tシャツ/東儀白/ホワイト/XLサイズ（日本サイズ)",
-          "link": "/collection/goods/md_e683763",
-          "img": "/img/mandarake/e683763.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【T恤】二次元COSPA/FORTUNE ARTERIAL/Tシャツ/悠木陽菜/チャコール/XLサイズ(日本サイズ）",
-          "link": "/collection/goods/md_e678607",
-          "img": "/img/mandarake/e678607.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【桌垫】TCG 万用游戏垫 瑛里华",
           "link": "/collection/goods/playmat_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods100a.jpg",
@@ -2005,7 +1884,7 @@
           "name": "【桌垫】全员集合（2008）",
           "link": "/collection/goods/desk_mat_2008_all",
           "img": "/news/archive/august-soft.com/goods/pic/goods07b.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2016,7 +1895,7 @@
           "name": "【桌垫】瑛里华（2008）",
           "link": "/collection/goods/desk_mat_2008_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods07b.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2057,15 +1936,34 @@
           }
         },
         {
-          "name": "【桌垫】オーガスト デスクマット 0808B FORTUNE ARTERIAL B",
-          "link": "/collection/goods/md_1219865178",
-          "img": "/img/mandarake/m1219865178.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "name": "【桌垫】橡胶垫 瑛里华",
+          "link": "/collection/goods/curtain_rubbermat_01",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial01.jpg",
+          "owned": false
+        },
+        {
+          "name": "【桌垫】橡胶垫 白 扑克牌",
+          "link": "/collection/goods/curtain_rubbermat_02",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial02.jpg",
+          "owned": false
+        },
+        {
+          "name": "【桌垫】橡胶垫 桐叶 约会",
+          "link": "/collection/goods/curtain_rubbermat_03",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial03.jpg",
+          "owned": false
+        },
+        {
+          "name": "【桌垫】橡胶垫 奏&阳菜 巫女服",
+          "link": "/collection/goods/curtain_rubbermat_04",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial04.jpg",
+          "owned": false
+        },
+        {
+          "name": "【桌垫】橡胶垫 瑛里华 猫耳女仆",
+          "link": "/collection/goods/curtain_rubbermat_05",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial05.jpg",
+          "owned": false
         },
         {
           "name": "【相册】迷你相册 瑛里华 Ver.2",
@@ -2204,7 +2102,7 @@
           "name": "【手机贴】手机屏幕贴 Vol.3.2 瑛里华",
           "link": "/collection/goods/mailblock_3_2_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods92a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2289,6 +2187,11 @@
           }
         },
         {
+          "name": "【手机贴】防窥膜",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
           "name": "【连帽衫】瑛里华",
           "link": "/collection/goods/hoodie_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods88a.jpg",
@@ -2297,8 +2200,7 @@
             "x": 100,
             "y": 100,
             "z": 1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【卡套】瑛里华",
@@ -2467,336 +2369,6 @@
           }
         },
         {
-          "name": "【抱枕套】瑛里华（2010）",
-          "link": "/collection/goods/cushion_cover_2010_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】白（2010）",
-          "link": "/collection/goods/cushion_cover_2010_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】阳菜&奏（2010）",
-          "link": "/collection/goods/cushion_cover_2010_haruna_kanade",
-          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】阳菜（2008）",
-          "link": "/collection/goods/cushion_cover_haruna",
-          "img": "/news/archive/august-soft.com/goods/pic/goods08d.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华（Broccoli 2008）",
-          "link": "/collection/goods/cushion_cover_broccoli_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods06a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 0,
-            "y": 100,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】白（Broccoli 2008）",
-          "link": "/collection/goods/cushion_cover_broccoli_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods06a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 100,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华（COSPA 2008）",
-          "link": "/collection/goods/cushion_cover_cospa_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods03b.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】白（COSPA 2008）",
-          "link": "/collection/goods/cushion_cover_cospa_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods03b.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华 优雅款（附画板）",
-          "link": "/collection/goods/sy_864001055",
-          "img": "/img/suruga/864001055.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】阳菜「欢迎回来」（附画板）",
-          "link": "/collection/goods/sy_864001057",
-          "img": "/img/suruga/864001057.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】伽耶「才不想被抱」（附画板）",
-          "link": "/collection/goods/sy_864001058",
-          "img": "/img/suruga/864001058.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华&白（2009）",
-          "link": "/collection/goods/sy_864003110",
-          "img": "/img/suruga/864003110.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华（电击 G's 2011年2月号邮购）",
-          "link": "/collection/goods/sy_864009333",
-          "img": "/img/suruga/864009333.jpg",
-          "owned": true,
-          "crop": {
-            "x": 100,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华",
-          "link": "/collection/goods/sy_864009745",
-          "img": "/img/suruga/864009745.jpg",
-          "owned": true,
-          "crop": {
-            "x": 0,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】白（2011）",
-          "link": "/collection/goods/sy_864000318",
-          "img": "/img/suruga/864000318.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华（2011）",
-          "link": "/collection/goods/sy_864000319",
-          "img": "/img/suruga/864000319.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】阳菜（2011）",
-          "link": "/collection/goods/sy_864000320",
-          "img": "/img/suruga/864000320.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト (べっかんこう) 「FORTUNE ARTERIAL」 千堂瑛里華\"ふたり未来へ\"抱き枕カバー(ピクチャープレート欠) (",
-          "link": "/collection/goods/md_1353576704",
-          "img": "/img/mandarake/m1353576704.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト (べっかんこう) 「FORTUNE ARTERIAL」 悠木陽菜\"純なる言の葉\"抱き枕カバー(ピクチャープレート欠) (",
-          "link": "/collection/goods/md_1353578706",
-          "img": "/img/mandarake/m1353578706.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト FORTUNE ARTERIAL 千堂伽耶 抱かれたくない抱き枕カバー",
-          "link": "/collection/goods/md_1031440357",
-          "img": "/img/mandarake/m1031440357.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】アスキー・メディアワークス/オーガスト FORTUNE ARTERIAL 東儀白&千堂瑛里華抱き枕カバー",
-          "link": "/collection/goods/md_1067734173",
-          "img": "/img/mandarake/m1067734173.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) 「FORTUNE ARTERIAL」 悠木陽菜抱き枕カバー(ピクチャープレート欠)",
-          "link": "/collection/goods/md_e749068",
-          "img": "/img/mandarake/e749068.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) 「FORTUNE ARTERIAL」 千堂伽耶 抱かれたくない抱き枕カバー",
-          "link": "/collection/goods/md_e729676",
-          "img": "/img/mandarake/e729676.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト FORTUNE ARTERIAL 千堂瑛里華抱き枕カバー(ピクチャープレート欠)",
-          "link": "/collection/goods/md_e699491",
-          "img": "/img/mandarake/e699491.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 千堂瑛里華\"ふたり未来へ\"抱き枕カバー(ピクチャープレート付)",
-          "link": "/collection/goods/md_e691871",
-          "img": "/img/mandarake/e691871.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 千堂瑛里華\"ふたり未来へ\"抱き枕カバー(ピクチャープレート欠)",
-          "link": "/collection/goods/md_e682887",
-          "img": "/img/mandarake/e682887.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 悠木陽菜抱き枕カバー",
-          "link": "/collection/goods/md_e675712",
-          "img": "/img/mandarake/e675712.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 千堂瑛里華 エレガント抱き枕カバー(ピクチャープレート付)",
-          "link": "/collection/goods/md_e661631",
-          "img": "/img/mandarake/e661631.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕】长条抱枕 瑛里华",
-          "link": "/collection/goods/stick_cushion_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods79a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 0,
-            "y": 0,
-            "z": 1.63
-          }
-        },
-        {
-          "name": "【抱枕】长条抱枕 白",
-          "link": "/collection/goods/stick_cushion_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods79a.jpg",
-          "owned": true,
-          "crop": {
-            "x": 95.2,
-            "y": 0,
-            "z": 1.63
-          }
-        },
-        {
           "name": "【扇子】折扇 瑛里华（2010）",
           "link": "/collection/goods/sensu_2010_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods80a.jpg",
@@ -2822,7 +2394,7 @@
           "name": "【扇子】折扇 瑛里华&白（2008）",
           "link": "/collection/goods/sensu_2008",
           "img": "/news/archive/august-soft.com/goods/pic/goods08c.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2921,7 +2493,7 @@
           "name": "【挂绳】手机挂绳 瑛里华",
           "link": "/collection/goods/phone_strap_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods69a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2932,7 +2504,7 @@
           "name": "【挂绳】手机挂绳 白",
           "link": "/collection/goods/phone_strap_shiro",
           "img": "/news/archive/august-soft.com/goods/pic/goods69a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2976,7 +2548,7 @@
           "name": "【挂绳】手机挂绳套装 奏&阳菜（C72 套装）",
           "link": "/collection/goods/sy_608003478",
           "img": "/img/suruga/608003478.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3042,7 +2614,7 @@
           "name": "【挂绳】手机挂绳 白（2008）",
           "link": "/collection/goods/sy_608125002",
           "img": "/img/suruga/608125002.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3053,7 +2625,7 @@
           "name": "【挂绳】瑛里华（2011）",
           "link": "/collection/goods/sy_608015913",
           "img": "/img/suruga/608015913.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3064,7 +2636,7 @@
           "name": "【挂绳】白（2011）",
           "link": "/collection/goods/sy_608015914",
           "img": "/img/suruga/608015914.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3130,7 +2702,7 @@
           "name": "【杯子】茶杯 白",
           "link": "/collection/goods/yunomi_shiro",
           "img": "/news/archive/august-soft.com/goods/pic/goods03.gif",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 0,
             "y": 0,
@@ -3231,7 +2803,7 @@
           "name": "【钥匙包】钥匙包（EXHAUST）",
           "link": "/collection/goods/key_case",
           "img": "/news/archive/august-soft.com/goods/pic/goods13c.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3253,7 +2825,7 @@
           "name": "【打火机】Zippo 白",
           "link": "/collection/goods/sy_762000321",
           "img": "/img/suruga/762000321.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3264,7 +2836,7 @@
           "name": "【打火机】Zippo 瑛里华 第 2 弹",
           "link": "/collection/goods/sy_762000543",
           "img": "/img/suruga/762000543.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3330,7 +2902,7 @@
           "name": "【包】托特包 标题徽章（C76 套装）",
           "link": "/collection/goods/sy_608044591",
           "img": "/img/suruga/608044591.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3423,8 +2995,7 @@
             "x": 3.6,
             "y": 0.3,
             "z": 2.1
-          },
-          "rare": true
+          }
         },
         {
           "name": "【卡盒】卡组盒 SP 白",
@@ -3538,6 +3109,11 @@
           "owned": false
         },
         {
+          "name": "【卡牌】ChaosTCG OS：August 1.00 体验卡组",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_chaos_trial.jpg",
+          "owned": true
+        },
+        {
           "name": "【卡牌】ChaosTCG OS：August 2.00 补充包",
           "link": "/collection/goods/sy_620006359",
           "img": "/img/suruga/620006359.jpg",
@@ -3630,22 +3206,19 @@
           "link": "/collection/goods/cos_cospatio_uniform",
           "img": "/img/goods/cospatio_uniform.png",
           "owned": true,
-          "rare": true,
           "star": true
         },
         {
           "name": "【Cos服】Cos 帽子 修智馆女子制服（COSPATIO）",
           "link": "/collection/goods/cos_cospatio_hat",
           "img": "/img/goods/cospatio_hat.png",
-          "owned": false,
-          "rare": true
+          "owned": false
         },
         {
           "name": "【Cos服】Cos 校徽臂章（COSPATIO）",
           "link": "/collection/goods/cos_cospatio_badge",
           "img": "/img/goods/cospatio_badge.png",
           "owned": false,
-          "rare": true,
           "crop": {
             "x": 0,
             "y": 100,
@@ -3656,155 +3229,12 @@
           "name": "【Cos服】修智馆女子制服（BODYLINE）",
           "link": "/collection/goods/cos_bodyline",
           "img": "/img/goods/bodyline_1.jpg",
-          "owned": false
-        },
-        {
-          "name": "【Cos服】【BODY LINE】 FORTUNE ARTERIAL 修智館学院 女子制服 風 女性S-Lサイズ コスプレ衣装",
-          "link": "/collection/goods/md_1337702365",
-          "img": "/img/mandarake/m1337702365.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】KISS製 FORTUNE ARTERIAL 修智館学院 女子制服 女性Lサイズ コスプレ衣装",
-          "link": "/collection/goods/md_e738337",
-          "img": "/img/mandarake/e738337.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】COSPATIO/FORTUNE ARTERIAL/修智館学院女子制服/ジャケットセット+スカート/女性用Lサイズ(日本サイズ)/コスプレ衣装",
-          "link": "/collection/goods/md_e734795",
-          "img": "/img/mandarake/e734795.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】2/BODY LINE/FORTUNE ARTERIAL/修智館学院女子制服/ジャケット/女性用Lサイズ(日本サイズ)/コスプレ衣装",
-          "link": "/collection/goods/md_e730149",
-          "img": "/img/mandarake/e730149.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】COSPATIO/FORTUNE ARTERIAL/修智館学院女子制服+懐中時計/女性用XLサイズ(日本サイズ)/コスプレ衣装",
-          "link": "/collection/goods/md_e703979",
-          "img": "/img/mandarake/e703979.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】COSPATIO/FORTUNE ARTERIAL/修智館学院女子制服+帽子/制服：女性用XLサイズ・帽子：女性用Lサイズ(日本サイズ)/コスプレ衣装",
-          "link": "/collection/goods/md_e688704",
-          "img": "/img/mandarake/e688704.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】COSPATIO/FORTUNE ARTERIAL/修智館学院女子制服＋帽子/衣装：女性用XLサイズ(日本サイズ)/帽子：女性用Lサイズ(日本サイズ)",
-          "link": "/collection/goods/md_e638870",
-          "img": "/img/mandarake/e638870.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】KISS/FORTUNE ARTERIAL/修智館学院女子制服 冬服+夏服セット/女性用XLサイズ（日本サイズ）/コスプレ衣装",
-          "link": "/collection/goods/md_e625515",
-          "img": "/img/mandarake/e625515.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】KISS/FORTUNE ARTERIAL/修智館学院女子制服/女性用XLサイズ（日本サイズ）/コスプレ衣装",
-          "link": "/collection/goods/md_e620274",
-          "img": "/img/mandarake/e620274.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】COSPATIO/FORTUNE ARTERIAL/修智館学院女子制服＋帽子/女性用XLサイズ+女性用Lサイズ（日本サイズ）/コスプレ衣装",
-          "link": "/collection/goods/md_e620273",
-          "img": "/img/mandarake/e620273.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】FORTUNE ARTERIAL/修智館学院女子制服 5年生/女性用Mサイズ（日本サイズ）/コスプレ衣装",
-          "link": "/collection/goods/md_e595255",
-          "img": "/img/mandarake/e595255.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】FORTUNE ARTERIAL/修智館学院女子制服/KISS/女性用Sサイズ・帽子Mサイズ（日本サイズ）/コスプレ衣装",
-          "link": "/collection/goods/md_e581109",
-          "img": "/img/mandarake/e581109.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "owned": true
         },
         {
           "name": "【Cos服】FORTUNE ARTERIAL/東儀白/コスプレ衣装",
           "link": "/collection/goods/md_e581114",
           "img": "/img/mandarake/e581114.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【Cos服】【女性：Sサイズ】FORTUNE ARTERIAL/修智館学院女子制服冬服【着用品】",
-          "link": "/collection/goods/md_e497607",
-          "img": "/img/mandarake/e497607.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -3870,57 +3300,32 @@
         {
           "name": "【立牌】特大亚克力立牌 瑛里华",
           "link": "/collection/goods/sy_573056192",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial01-big.jpg",
+          "owned": false
         },
         {
           "name": "【立牌】特大亚克力立牌 白",
           "link": "/collection/goods/sy_573056193",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial02-big.jpg",
+          "owned": false
         },
         {
           "name": "【立牌】特大亚克力立牌 桐叶",
           "link": "/collection/goods/sy_573056194",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial03-big.jpg",
+          "owned": false
         },
         {
           "name": "【立牌】特大亚克力立牌 奏",
           "link": "/collection/goods/sy_573056195",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial04-big.jpg",
+          "owned": false
         },
         {
           "name": "【立牌】特大亚克力立牌 阳菜",
           "link": "/collection/goods/sy_573056196",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial05-big.jpg",
+          "owned": false
         },
         {
           "name": "【立牌】亚克力立牌 瑛里华 婚纱 ver.",
@@ -4163,6 +3568,11 @@
             "y": 50,
             "z": 1
           }
+        },
+        {
+          "name": "【吧唧】方形吧唧（Kotobukiya）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
         },
         {
           "name": "【收纳盒】透明收纳盒 全员 婚纱 ver.",
@@ -4429,50 +3839,6 @@
           }
         },
         {
-          "name": "【靠垫】迷你靠垫 瑛里华&白&奏&阳菜（C77 FA 套装）",
-          "link": "/collection/goods/sy_863001811",
-          "img": "/img/suruga/863001811.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【靠垫】二次元コスパ (べっかんこう) FORTUNE ARTERIAL 東儀白クッションカバー",
-          "link": "/collection/goods/md_1199830423",
-          "img": "/img/mandarake/m1199830423.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【靠垫】ブロッコリー (べっかんこう) FORTUNE ARTERIAL 東儀白クッションカバー",
-          "link": "/collection/goods/md_1199830267",
-          "img": "/img/mandarake/m1199830267.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【靠垫】コスパ (べっかんこう) FORTUNE ARTERIAL 悠木陽菜クッションカバー",
-          "link": "/collection/goods/md_1176935798",
-          "img": "/img/mandarake/m1176935798.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【纸袋】特制纸袋（C72 套装）",
           "link": "/collection/goods/sy_608174868",
           "img": "/img/suruga/608174868.jpg",
@@ -4597,7 +3963,7 @@
           "name": "【文件夹】A4 文件夹 FA/夜明前的琉璃色（August Variety BOX 店铺特典）",
           "link": "/collection/goods/sy_994906105",
           "img": "/img/suruga/994906105.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4641,28 +4007,6 @@
           "name": "【文件夹】フォーチュン アテリアル クリアファイル",
           "link": "/collection/goods/md_1175059183",
           "img": "/img/mandarake/m1175059183.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【文件夹】ムービック 1010 FORTUNE ARTERIAL 赤い約束 クリアファイル",
-          "link": "/collection/goods/md_1151666203",
-          "img": "/img/mandarake/m1151666203.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【文件夹】AUGUST FORTUNE ARTERIAL クリアファイル",
-          "link": "/collection/goods/md_1054963766",
-          "img": "/img/mandarake/m1054963766.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -4759,17 +4103,6 @@
           }
         },
         {
-          "name": "【挂历】AUGUST FORTUNE 2008カレンダー",
-          "link": "/collection/goods/md_1054964078",
-          "img": "/img/mandarake/m1054964078.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【贴纸】风纪贴纸 5 枚套装 女主角 5 人（C75 套装）",
           "link": "/collection/goods/sy_859001539",
           "img": "/img/suruga/859001539.jpg",
@@ -4802,6 +4135,462 @@
             "z": 1
           }
         },
+        {
+          "name": "【床单】瑛里华（Sofmap 特典）",
+          "link": "/collection/goods/sy_864000121",
+          "img": "/img/suruga/864000121.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【床单】瑛里华（晚安套装，电击姬邮购）",
+          "link": "/collection/goods/sy_864000176",
+          "img": "/img/suruga/864000176.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【床单】オーガスト (べっかんこう) 千堂瑛里華ベッドシーツ",
+          "link": "/collection/goods/md_1297824111",
+          "img": "/img/mandarake/m1297824111.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 瑛里华",
+          "link": "/collection/goods/sy_608035104",
+          "img": "/img/suruga/608035104.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 白",
+          "link": "/collection/goods/sy_608024161",
+          "img": "/img/suruga/608024161.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 桐叶",
+          "link": "/collection/goods/sy_608019619",
+          "img": "/img/suruga/608019619.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 奏",
+          "link": "/collection/goods/sy_608019617",
+          "img": "/img/suruga/608019617.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 阳菜",
+          "link": "/collection/goods/sy_608019618",
+          "img": "/img/suruga/608019618.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【书签】透明书签 瑛里华&桐叶&奏（角 Comi 2010 夏特典）",
+          "link": "/collection/goods/sy_608275391",
+          "img": "/img/suruga/608275391.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【卷帘】瑛里华&白",
+          "link": "/collection/goods/sy_608084893",
+          "img": "/img/suruga/608084893.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【卷帘】FA",
+          "link": "/collection/goods/sy_608084894",
+          "img": "/img/suruga/608084894.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【帽子】棒球帽",
+          "link": "/collection/goods/sy_609004080",
+          "img": "/img/suruga/609004080.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【筷子】标志筷子（贺年卡事故致歉品）",
+          "link": "/collection/goods/sy_992004308",
+          "img": "/img/suruga/992004308.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【怀表链】修智馆学院 怀表链",
+          "link": "/collection/goods/sy_765038293",
+          "img": "/img/suruga/765038293.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【手机壳】iPhone4 保护壳 瑛里华（动画版）",
+          "link": "/collection/goods/sy_878500000",
+          "img": "/img/suruga/878500000.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【垫板】A5 垫板 瑛里华（Gamaga Ver. 手办特典）",
+          "link": "/collection/goods/sy_994010464",
+          "img": "/img/suruga/994010464.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【复制原画】べっかんこう 签名复制原画 X-RATED（2021 新春）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true,
+          "r18": true
+        },
+        {
+          "name": "【杯垫】杯垫（C75）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【布章】NOT FOR SALE 布章",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【徽章】Traveling August 2015 徽章",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【手帕】迷你手帕（非卖品）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        }
+      ]
+    },
+    {
+      "key": "pillows",
+      "title": "抱枕 / 靠垫 / Dakimakura & Cushions",
+      "items": [
+        {
+          "name": "【抱枕套】瑛里华 优雅款（附画板）",
+          "link": "/collection/goods/sy_864001055",
+          "img": "/img/suruga/864001055.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】阳菜「欢迎回来」（附画板）",
+          "link": "/collection/goods/sy_864001057",
+          "img": "/img/suruga/864001057.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】伽耶「才不想被抱」（附画板）",
+          "link": "/collection/goods/sy_864001058",
+          "img": "/img/suruga/864001058.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】瑛里华&白（2009）",
+          "link": "/collection/goods/sy_864003110",
+          "img": "/img/suruga/864003110.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】瑛里华（电击 G's 2011年2月号邮购）",
+          "link": "/collection/goods/sy_864009333",
+          "img": "/img/suruga/864009333.jpg",
+          "owned": true,
+          "crop": {
+            "x": 100,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】瑛里华",
+          "link": "/collection/goods/sy_864009745",
+          "img": "/img/suruga/864009745.jpg",
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】オーガスト (べっかんこう) 「FORTUNE ARTERIAL」 千堂瑛里華\"ふたり未来へ\"抱き枕カバー(ピクチャープレート欠) (",
+          "link": "/collection/goods/md_1353576704",
+          "img": "/img/mandarake/m1353576704.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】オーガスト (べっかんこう) 「FORTUNE ARTERIAL」 悠木陽菜\"純なる言の葉\"抱き枕カバー(ピクチャープレート欠) (",
+          "link": "/collection/goods/md_1353578706",
+          "img": "/img/mandarake/m1353578706.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】オーガスト(べっかんこう) 「FORTUNE ARTERIAL」 悠木陽菜抱き枕カバー(ピクチャープレート欠)",
+          "link": "/collection/goods/md_e749068",
+          "img": "/img/mandarake/e749068.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】オーガスト FORTUNE ARTERIAL 千堂瑛里華抱き枕カバー(ピクチャープレート欠)",
+          "link": "/collection/goods/md_e699491",
+          "img": "/img/mandarake/e699491.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 千堂瑛里華 エレガント抱き枕カバー(ピクチャープレート付)",
+          "link": "/collection/goods/md_e661631",
+          "img": "/img/mandarake/e661631.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕】长条抱枕 瑛里华",
+          "link": "/collection/goods/stick_cushion_erika",
+          "img": "/news/archive/august-soft.com/goods/pic/goods79a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1.63
+          }
+        },
+        {
+          "name": "【抱枕】长条抱枕 白",
+          "link": "/collection/goods/stick_cushion_shiro",
+          "img": "/news/archive/august-soft.com/goods/pic/goods79a.jpg",
+          "owned": true,
+          "crop": {
+            "x": 95.2,
+            "y": 0,
+            "z": 1.63
+          }
+        },
+        {
+          "name": "【靠垫】瑛里华（2010）",
+          "link": "/collection/goods/cushion_cover_2010_erika",
+          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】白（2010）",
+          "link": "/collection/goods/cushion_cover_2010_shiro",
+          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】阳菜&奏（2010）",
+          "link": "/collection/goods/cushion_cover_2010_haruna_kanade",
+          "img": "/news/archive/august-soft.com/goods/pic/goods81a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】阳菜（2008）",
+          "link": "/collection/goods/cushion_cover_haruna",
+          "img": "/news/archive/august-soft.com/goods/pic/goods08d.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】瑛里华（Broccoli 2008）",
+          "link": "/collection/goods/cushion_cover_broccoli_erika",
+          "img": "/news/archive/august-soft.com/goods/pic/goods06a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 0,
+            "y": 100,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】白（Broccoli 2008）",
+          "link": "/collection/goods/cushion_cover_broccoli_shiro",
+          "img": "/news/archive/august-soft.com/goods/pic/goods06a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】瑛里华（COSPA 2008）",
+          "link": "/collection/goods/cushion_cover_cospa_erika",
+          "img": "/news/archive/august-soft.com/goods/pic/goods03b.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】白（COSPA 2008）",
+          "link": "/collection/goods/cushion_cover_cospa_shiro",
+          "img": "/news/archive/august-soft.com/goods/pic/goods03b.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【靠垫】迷你靠垫 瑛里华&白&奏&阳菜（C77 FA 套装）",
+          "link": "/collection/goods/sy_863001811",
+          "img": "/img/suruga/863001811.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        }
+      ]
+    },
+    {
+      "key": "posters",
+      "title": "海报 / Posters",
+      "items": [
         {
           "name": "【海报】透明海报 3 张套装（C78 限定）",
           "link": "/collection/goods/sy_608906134",
@@ -5126,216 +4915,13 @@
             "y": 50,
             "z": 1
           }
-        },
-        {
-          "name": "【海报】AUGUST 販促 べっかんこう FORTUNE ARTERIAL feeling assort B2ポスター",
-          "link": "/collection/goods/md_1148173519",
-          "img": "/img/mandarake/m1148173519.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【床单】瑛里华（Sofmap 特典）",
-          "link": "/collection/goods/sy_864000121",
-          "img": "/img/suruga/864000121.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【床单】瑛里华（晚安套装，电击姬邮购）",
-          "link": "/collection/goods/sy_864000176",
-          "img": "/img/suruga/864000176.jpg",
-          "owned": true,
-          "crop": {
-            "x": 100,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【床单】オーガスト (べっかんこう) 千堂瑛里華ベッドシーツ",
-          "link": "/collection/goods/md_1297824111",
-          "img": "/img/mandarake/m1297824111.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 瑛里华",
-          "link": "/collection/goods/sy_608035104",
-          "img": "/img/suruga/608035104.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 白",
-          "link": "/collection/goods/sy_608024161",
-          "img": "/img/suruga/608024161.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 桐叶",
-          "link": "/collection/goods/sy_608019619",
-          "img": "/img/suruga/608019619.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 奏",
-          "link": "/collection/goods/sy_608019617",
-          "img": "/img/suruga/608019617.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 阳菜",
-          "link": "/collection/goods/sy_608019618",
-          "img": "/img/suruga/608019618.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【书签】透明书签 瑛里华&桐叶&奏（角 Comi 2010 夏特典）",
-          "link": "/collection/goods/sy_608275391",
-          "img": "/img/suruga/608275391.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【卷帘】瑛里华&白",
-          "link": "/collection/goods/sy_608084893",
-          "img": "/img/suruga/608084893.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【卷帘】FA",
-          "link": "/collection/goods/sy_608084894",
-          "img": "/img/suruga/608084894.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【帽子】棒球帽",
-          "link": "/collection/goods/sy_609004080",
-          "img": "/img/suruga/609004080.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【筷子】标志筷子（贺年卡事故致歉品）",
-          "link": "/collection/goods/sy_992004308",
-          "img": "/img/suruga/992004308.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【怀表链】修智馆学院 怀表链",
-          "link": "/collection/goods/sy_765038293",
-          "img": "/img/suruga/765038293.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【怀表链】コスパ フォーチュンアテリアル/ストラップ 修智館学院/ウォッチチェーン",
-          "link": "/collection/goods/md_1127703615",
-          "img": "/img/mandarake/m1127703615.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【怀表链】1/二次元COSPA/FORTUNE ARTERIAL/修智館学院/ウォッチチェーン/コスプレ小物",
-          "link": "/collection/goods/md_e730148",
-          "img": "/img/mandarake/e730148.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【手机壳】iPhone4 保护壳 瑛里华（动画版）",
-          "link": "/collection/goods/sy_878500000",
-          "img": "/img/suruga/878500000.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【垫板】A5 垫板 瑛里华（Gamaga Ver. 手办特典）",
-          "link": "/collection/goods/sy_994010464",
-          "img": "/img/suruga/994010464.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
+        }
+      ]
+    },
+    {
+      "key": "postcards",
+      "title": "明信片 / 相卡 / Postcards",
+      "items": [
         {
           "name": "【明信片】白（August/ARIA 邮件 2007 夏）",
           "link": "/collection/goods/sy_892501855",
@@ -5423,6 +5009,11 @@
             "y": 50,
             "z": 1
           }
+        },
+        {
+          "name": "【相卡】白",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_photocard.jpg",
+          "owned": true
         }
       ]
     },
@@ -6344,119 +5935,9 @@
           }
         },
         {
-          "name": "【电话卡】オーガスト (べっかんこう) FORTUNE ARTERIAL メディオ!特典テレホンカード",
-          "link": "/collection/goods/md_1354628417",
-          "img": "/img/mandarake/m1354628417.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL グッドウィル特典テレホンカード",
-          "link": "/collection/goods/md_1354503747",
-          "img": "/img/mandarake/m1354503747.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】アスキー・メディアワークス/オーガスト FORTUNE ARTERIAL 電撃姫2008年1月号テレホンカード",
-          "link": "/collection/goods/md_1354506815",
-          "img": "/img/mandarake/m1354506815.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】アスキー・メディアワークス/オーガスト FORTUNE ARTERIAL 電撃姫2008年2月号テレホンカード",
-          "link": "/collection/goods/md_1354506724",
-          "img": "/img/mandarake/m1354506724.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】アスキー・メディアワークス/オーガスト FORTUNE ARTERIAL 電撃姫2008年3月号テレホンカード",
-          "link": "/collection/goods/md_1354506360",
-          "img": "/img/mandarake/m1354506360.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL げっちゅ屋特典テレホンカード",
-          "link": "/collection/goods/md_1312373828",
-          "img": "/img/mandarake/m1312373828.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】AUGUST FORTUNE ARTERIAL メッセサンオー特典テレホンカード",
-          "link": "/collection/goods/md_1354504098",
-          "img": "/img/mandarake/m1354504098.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL とらのあな特典テレホンカード",
-          "link": "/collection/goods/md_1354503877",
-          "img": "/img/mandarake/m1354503877.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL ゲーマーズ特典テレホンカード",
-          "link": "/collection/goods/md_1312373815",
-          "img": "/img/mandarake/m1312373815.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【电话卡】AUGUST (べっかんこう) FORTUNE ARTERIAL テレカ6",
           "link": "/collection/goods/md_1195678015",
           "img": "/img/mandarake/m1195678015.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) 「FORTUNE ARTERIAL」 2008冬 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1354478241",
-          "img": "/img/mandarake/m1354478241.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -6487,72 +5968,6 @@
           }
         },
         {
-          "name": "【电话卡】オーガスト (べっかんこう) 2008秋 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1349435320",
-          "img": "/img/mandarake/m1349435320.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) 2007夏 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1349423451",
-          "img": "/img/mandarake/m1349423451.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) 2008夏 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1349206390",
-          "img": "/img/mandarake/m1349206390.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) 2007冬 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1349203959",
-          "img": "/img/mandarake/m1349203959.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】AUGUST (べっかんこう) コミケ76 台紙付テレホンカード",
-          "link": "/collection/goods/md_1349203322",
-          "img": "/img/mandarake/m1349203322.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】アスキー・メディアワークス (べっかんこう) 電撃G'sマガジン2008年2月号誌上通販テレホンカード",
-          "link": "/collection/goods/md_1348559614",
-          "img": "/img/mandarake/m1348559614.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【电话卡】AUGUST FORTUNE ARTERIAL ソフマップ特典テレホンカード",
           "link": "/collection/goods/md_1346321222",
           "img": "/img/mandarake/m1346321222.jpg",
@@ -6567,72 +5982,6 @@
           "name": "【电话卡】ゲーマガ FORTUNE ARTERIAL テレカ",
           "link": "/collection/goods/md_1343930873",
           "img": "/img/mandarake/m1343930873.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) 2010冬 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1290940247",
-          "img": "/img/mandarake/m1290940247.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】電撃G'sマガジン2008年3月号 FORTUNE ARTERIAL テレカ",
-          "link": "/collection/goods/md_1278519475",
-          "img": "/img/mandarake/m1278519475.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】電撃G'sマガジン2008年4月号 FORTUNE ARTERIAL テレカ",
-          "link": "/collection/goods/md_1270360688",
-          "img": "/img/mandarake/m1270360688.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト (べっかんこう) アニメイト特典テレホンカード",
-          "link": "/collection/goods/md_1263700762",
-          "img": "/img/mandarake/m1263700762.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】AUGUST FORTUNE ARTERIAL 2010秋 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1256502922",
-          "img": "/img/mandarake/m1256502922.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】AUGUST (べっかんこう) 2010春 台紙付きテレホンカード",
-          "link": "/collection/goods/md_1234156832",
-          "img": "/img/mandarake/m1234156832.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -6663,31 +6012,9 @@
           }
         },
         {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL 中京マイコン特典テレホンカード",
-          "link": "/collection/goods/md_1150436585",
-          "img": "/img/mandarake/m1150436585.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【电话卡】アスキー・メディアワークス FORTUNE ARTERIAL テレカ",
           "link": "/collection/goods/md_1139868365",
           "img": "/img/mandarake/m1139868365.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】オーガスト FORTUNE ARTERIAL (べっかんこう) ラオックス特典テレホンカード",
-          "link": "/collection/goods/md_1122603559",
-          "img": "/img/mandarake/m1122603559.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -6749,19 +6076,12 @@
             "y": 50,
             "z": 1
           },
-          "rare": true,
           "star": true
         },
         {
-          "name": "【图书卡】コンプティーク2010年8月号 FORTUNE ARTERIAL 千堂瑛里華&東儀白 図書カード",
-          "link": "/collection/goods/md_1196941043",
-          "img": "/img/mandarake/m1196941043.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          "name": "【图书卡】瑛里华&白 500 円图书卡",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_bookcard.jpg",
+          "owned": true
         },
         {
           "name": "【QUO卡】QUO 卡 瑛里华（C75）",
@@ -7167,17 +6487,6 @@
           }
         },
         {
-          "name": "【DVD】アニメDVD FORTUNE ARTERIAL 赤い約束 スペシャルエピソード",
-          "link": "/collection/media/md_1348641709",
-          "img": "/img/mandarake/m1348641709.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【BD】アニメBlu-ray フォーチュンアテリアル赤い約束特装全6巻 セット",
           "link": "/collection/media/md_1348269805",
           "img": "/img/mandarake/m1348269805.jpg",
@@ -7187,6 +6496,35 @@
             "y": 50,
             "z": 1
           }
+        },
+        {
+          "name": "【歌曲集】AUGUST 10th MEMORIAL 限定版（附 LP 黑胶）",
+          "link": "/collection/media/august_10th_memorial",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_memorial10.jpg",
+          "owned": true
+        },
+        {
+          "name": "【演唱会】Traveling August 演唱会 Blu-ray&DVD",
+          "link": "/collection/media/august_traveling_concert",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_traveling.jpg",
+          "owned": true
+        },
+        {
+          "name": "【钢琴集】SPROUT AUGUST 历代歌曲钢琴改编集",
+          "link": "/collection/media/august_sprout",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_sprout.jpg",
+          "owned": true
+        },
+        {
+          "name": "【歌曲集】ARTICLE AUGUST Traveling August 录音专辑",
+          "link": "/collection/media/august_article",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_article.jpg",
+          "owned": true
+        },
+        {
+          "name": "【歌曲集】August 20 周年纪念歌曲集",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
         }
       ]
     },
@@ -7459,17 +6797,6 @@
           }
         },
         {
-          "name": "【漫画】電撃G`s Festival!COMIC FORTUNE ARTERIAL 2 (開封未使用)",
-          "link": "/collection/books/md_1083563987",
-          "img": "/img/mandarake/m1083563987.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【漫画】[PG-8761]FORTUNE ARTERIAL 3巻 直筆イラストサイン本 児玉樹",
           "link": "/collection/books/md_e573266",
           "img": "/img/mandarake/e573266.jpg",
@@ -7734,6 +7061,51 @@
           }
         },
         {
+          "name": "【杂志】电击姬 2008年2月号",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】电击 G's magazine 2008年3月号",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】Comptiq 2010年5月号",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】Comptiq 2011年1月号",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】Gamaga 2008年3月号",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】オーガストバラエティブック（Gamaga）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】FOUR SEASONS MEMORIAL（C77）",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】萌动漫 Vol.8",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
+          "name": "【杂志】动漫周刊",
+          "img": "/img/suruga/noimage.svg",
+          "owned": true
+        },
+        {
           "name": "【画集】游戏设定集",
           "link": "/collection/books/perfect_visual_book",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048671583.jpg",
@@ -7877,9 +7249,31 @@
           }
         },
         {
-          "name": "【台本】动画 赤之约定 第13话 配音台本",
-          "link": "/collection/books/sy_185135012",
-          "img": "/img/suruga/185135012.jpg",
+          "name": "【台本】动画 赤之约定 第2话「开学典礼」配音台本",
+          "link": "/collection/books/md_e703020",
+          "img": "/img/mandarake/e703020.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【台本】动画 赤之约定 第3话「千年泉」配音台本",
+          "link": "/collection/books/md_e703021",
+          "img": "/img/mandarake/e703021.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【台本】动画 赤之约定 第4话「学生会」配音台本",
+          "link": "/collection/books/md_e292390",
+          "img": "/img/mandarake/e292390.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -7889,8 +7283,8 @@
         },
         {
           "name": "【台本】动画 赤之约定 第5话「钥匙」配音台本",
-          "link": "/collection/books/md_e251974",
-          "img": "/img/mandarake/e251974.jpg",
+          "link": "/collection/books/md_e703022",
+          "img": "/img/mandarake/e703022.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -7911,72 +7305,6 @@
         },
         {
           "name": "【台本】动画 赤之约定 第7话「前兆」配音台本",
-          "link": "/collection/books/md_e269757",
-          "img": "/img/mandarake/e269757.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】动画 赤之约定 第8话「记忆」配音台本",
-          "link": "/collection/books/md_e269997",
-          "img": "/img/mandarake/e269997.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】动画 赤之约定 第12话「赤之约定」配音台本",
-          "link": "/collection/books/md_e251977",
-          "img": "/img/mandarake/e251977.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】动画 赤之约定 OVA 配音台本",
-          "link": "/collection/books/md_e712199",
-          "img": "/img/mandarake/e712199.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
-          "link": "/collection/books/md_e712194",
-          "img": "/img/mandarake/e712194.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
-          "link": "/collection/books/md_e712193",
-          "img": "/img/mandarake/e712193.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
           "link": "/collection/books/md_e708680",
           "img": "/img/mandarake/e708680.jpg",
           "owned": false,
@@ -7987,7 +7315,7 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
+          "name": "【台本】动画 赤之约定 第8话「记忆」配音台本",
           "link": "/collection/books/md_e708681",
           "img": "/img/mandarake/e708681.jpg",
           "owned": false,
@@ -7998,7 +7326,7 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
+          "name": "【台本】动画 赤之约定 第9话「眷属」配音台本",
           "link": "/collection/books/md_e708682",
           "img": "/img/mandarake/e708682.jpg",
           "owned": false,
@@ -8009,73 +7337,7 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
-          "link": "/collection/books/md_e703020",
-          "img": "/img/mandarake/e703020.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
-          "link": "/collection/books/md_e703021",
-          "img": "/img/mandarake/e703021.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束- 台本",
-          "link": "/collection/books/md_e703022",
-          "img": "/img/mandarake/e703022.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e426340",
-          "img": "/img/mandarake/e426340.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e315878",
-          "img": "/img/mandarake/e315878.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e315879",
-          "img": "/img/mandarake/e315879.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
+          "name": "【台本】动画 赤之约定 第10话「渴望」配音台本",
           "link": "/collection/books/md_e315880",
           "img": "/img/mandarake/e315880.jpg",
           "owned": false,
@@ -8086,9 +7348,9 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e313566",
-          "img": "/img/mandarake/e313566.jpg",
+          "name": "【台本】动画 赤之约定 第11话「诀别」配音台本",
+          "link": "/collection/books/md_e712193",
+          "img": "/img/mandarake/e712193.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -8097,9 +7359,9 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e313567",
-          "img": "/img/mandarake/e313567.jpg",
+          "name": "【台本】动画 赤之约定 第12话「赤之约定」配音台本",
+          "link": "/collection/books/md_e712194",
+          "img": "/img/mandarake/e712194.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -8108,42 +7370,9 @@
           }
         },
         {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e313568",
-          "img": "/img/mandarake/e313568.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e292388",
-          "img": "/img/mandarake/e292388.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e292389",
-          "img": "/img/mandarake/e292389.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【台本】FORTUNE ARTERIAL-赤い約束-　台本",
-          "link": "/collection/books/md_e292390",
-          "img": "/img/mandarake/e292390.jpg",
+          "name": "【台本】动画 赤之约定 第13话（OVA）「抵达的地方」配音台本",
+          "link": "/collection/books/md_e712199",
+          "img": "/img/mandarake/e712199.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -8478,17 +7707,6 @@
           }
         },
         {
-          "name": "【同人本】ふぉーちゅんぼっくす",
-          "link": "/collection/doujin/sy_zhore11374",
-          "img": "/img/suruga/zhore11374.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】きんつば無限増殖法",
           "link": "/collection/doujin/sy_zhore22174",
           "img": "/img/suruga/zhore22174.jpg",
@@ -8742,17 +7960,6 @@
           }
         },
         {
-          "name": "【同人本】猫舌甘党",
-          "link": "/collection/doujin/sy_zhore84575",
-          "img": "/img/suruga/zhore84575.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】ムダヅモ無き八月 外伝 2",
           "link": "/collection/doujin/sy_zhore248873",
           "img": "/img/suruga/zhore248873.jpg",
@@ -8962,17 +8169,6 @@
           }
         },
         {
-          "name": "【同人本】【R18】Wheel of Fortune",
-          "link": "/collection/doujin/sy_zhoi14777",
-          "img": "/img/suruga/zhoi14777.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】千堂瑛里華コスで妊活しよ？",
           "link": "/collection/doujin/sy_zhoi137842",
           "img": "/img/suruga/zhoi137842.jpg",
@@ -9028,39 +8224,6 @@
           }
         },
         {
-          "name": "【同人本】恋する淫魔は輪姦chu!",
-          "link": "/collection/doujin/sy_zhoi12055",
-          "img": "/img/suruga/zhoi12055.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】なか・クラ 2 ～あかひも水着編～",
-          "link": "/collection/doujin/sy_zhoi13217",
-          "img": "/img/suruga/zhoi13217.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】しろいろのえほん+",
-          "link": "/collection/doujin/sy_zhoi16127",
-          "img": "/img/suruga/zhoi16127.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】ゆうきなエプロン",
           "link": "/collection/doujin/sy_zhoi45257",
           "img": "/img/suruga/zhoi45257.jpg",
@@ -9094,53 +8257,9 @@
           }
         },
         {
-          "name": "【同人本】【R18】FA STYLE 02",
-          "link": "/collection/doujin/sy_zhoi12730",
-          "img": "/img/suruga/zhoi12730.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】毎日私を好きって言って",
-          "link": "/collection/doujin/sy_zhoi13358",
-          "img": "/img/suruga/zhoi13358.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】親娘丼",
-          "link": "/collection/doujin/sy_zhoi13688",
-          "img": "/img/suruga/zhoi13688.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】【R18】陽菜っ日和",
           "link": "/collection/doujin/sy_zhoi22251",
           "img": "/img/suruga/zhoi22251.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】ふぉ～ちゅんすぱっつ!",
-          "link": "/collection/doujin/sy_zhoi26038",
-          "img": "/img/suruga/zhoi26038.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -9185,17 +8304,6 @@
           "name": "【同人本】【R18】千堂さんちの家庭の事情 壱+弐",
           "link": "/collection/doujin/sy_zhoi34866",
           "img": "/img/suruga/zhoi34866.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】FA STYLE 03",
-          "link": "/collection/doujin/sy_zhoi14638",
-          "img": "/img/suruga/zhoi14638.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -9258,18 +8366,6 @@
             "y": 0,
             "z": 1
           }
-        },
-        {
-          "name": "【同人本】【R18】【コピー誌】100%ドタンバ劇場 第4学区",
-          "link": "/collection/doujin/sy_zhoi79077",
-          "img": "/img/suruga/zhoi79077.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
         },
         {
           "name": "【同人本】【R18】もっと! らぶらぶぅ",
@@ -9339,17 +8435,6 @@
           }
         },
         {
-          "name": "【同人本】【R18】FA STYLE 01",
-          "link": "/collection/doujin/sy_zhoi14637",
-          "img": "/img/suruga/zhoi14637.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】【R18】だって大好きなんだもん!",
           "link": "/collection/doujin/sy_zhoi35988",
           "img": "/img/suruga/zhoi35988.jpg",
@@ -9359,29 +8444,6 @@
             "y": 0,
             "z": 1
           }
-        },
-        {
-          "name": "【同人本】【R18】エリカインパクト",
-          "link": "/collection/doujin/sy_zhoi24297",
-          "img": "/img/suruga/zhoi24297.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】【単品】こんいろのえほん 3 -Love SunShine-",
-          "link": "/collection/doujin/sy_zhoi11861",
-          "img": "/img/suruga/zhoi11861.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
         },
         {
           "name": "【同人本】【R18】RECYCLES Cool Palaceコピー本総集編2003-2010",
@@ -9406,17 +8468,6 @@
           }
         },
         {
-          "name": "【同人本】【R18】陽だまりに咲く菜の花のように",
-          "link": "/collection/doujin/sy_zhoi18430",
-          "img": "/img/suruga/zhoi18430.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
           "name": "【同人本】【R18】HMS 八月の 未来における スク水模様。 東儀白編",
           "link": "/collection/doujin/sy_zhoi16649",
           "img": "/img/suruga/zhoi16649.jpg",
@@ -9427,17 +8478,6 @@
             "z": 1
           },
           "r18": true
-        },
-        {
-          "name": "【同人本】【R18】すくーう水着",
-          "link": "/collection/doujin/sy_zhoi13687",
-          "img": "/img/suruga/zhoi13687.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
         },
         {
           "name": "【同人本】【R18】【コピー誌】ごちゃまぜみっくす2012.10 CPW Limited",
@@ -9467,17 +8507,6 @@
           "name": "【同人本】【R18】だって好きなんだもん!",
           "link": "/collection/doujin/sy_zhoi21877",
           "img": "/img/suruga/zhoi21877.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人本】【R18】FA STYLE 悠木陽菜総集編",
-          "link": "/collection/doujin/sy_zhoi19389",
-          "img": "/img/suruga/zhoi19389.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -9541,18 +8570,6 @@
             "y": 0,
             "z": 1
           }
-        },
-        {
-          "name": "【同人本】【R18】しろ×こん",
-          "link": "/collection/doujin/sy_zhoi13909",
-          "img": "/img/suruga/zhoi13909.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
         },
         {
           "name": "【同人本】【R18】Travancore",
@@ -9659,18 +8676,6 @@
           "r18": true
         },
         {
-          "name": "【同人本】【R18】Shirousagi",
-          "link": "/collection/doujin/sy_zhoi22314",
-          "img": "/img/suruga/zhoi22314.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
           "name": "【同人本】【R18】瑛里華初め",
           "link": "/collection/doujin/sy_zhoi17330",
           "img": "/img/suruga/zhoi17330.jpg",
@@ -9731,18 +8736,6 @@
           "r18": true
         },
         {
-          "name": "【同人本】【R18】FA STYLE 04",
-          "link": "/collection/doujin/sy_zhoi14639",
-          "img": "/img/suruga/zhoi14639.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
           "name": "【同人本】【R18】俺の嫁はるな",
           "link": "/collection/doujin/sy_zhoi34830",
           "img": "/img/suruga/zhoi34830.jpg",
@@ -9770,18 +8763,6 @@
           "name": "【同人本】【R18】しろいろのえほん -Love SukeSuke-",
           "link": "/collection/doujin/sy_zhoi36157",
           "img": "/img/suruga/zhoi36157.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
-          "name": "【同人本】【R18】そんなアナルで大丈夫か?",
-          "link": "/collection/doujin/sy_zhoi23534",
-          "img": "/img/suruga/zhoi23534.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -9827,18 +8808,6 @@
           "r18": true
         },
         {
-          "name": "【同人本】【R18】白ぴょん!",
-          "link": "/collection/doujin/sy_zhoi37827",
-          "img": "/img/suruga/zhoi37827.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
           "name": "【同人本】【R18】俺の伽耶さまがこんなに大きいわけがないっ",
           "link": "/collection/doujin/sy_zhoi30991",
           "img": "/img/suruga/zhoi30991.jpg",
@@ -9863,22 +8832,10 @@
           "r18": true
         },
         {
-          "name": "【同人本】【R18】lose no time",
-          "link": "/collection/doujin/sy_zhoi14776",
-          "img": "/img/suruga/zhoi14776.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
           "name": "【同人本】【R18】かなでがせいふくにきがえたら",
           "link": "/collection/doujin/sy_zhoi14976",
           "img": "/img/suruga/zhoi14976.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -9914,7 +8871,7 @@
           "name": "【同人本】PFA / ita.",
           "link": "/collection/doujin/md_1095237818",
           "img": "/img/mandarake/m1095237818.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -9925,7 +8882,7 @@
           "name": "【同人本】八木崎銀座 (八神秋一) 恋する淫魔は輪姦Chu!",
           "link": "/collection/doujin/md_1355212000",
           "img": "/img/mandarake/m1355212000.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -9944,7 +8901,7 @@
           }
         },
         {
-          "name": "【同人本】PASTEL WING 如月みっく こんいろのえほん3 -Love SunShine-",
+          "name": "【同人本】【R18】PASTEL WING 如月みっく こんいろのえほん3 -Love SunShine-",
           "link": "/collection/doujin/md_1027081587",
           "img": "/img/mandarake/m1027081587.jpg",
           "owned": false,
@@ -9952,13 +8909,14 @@
             "x": 50,
             "y": 0,
             "z": 1
-          }
+          },
+          "r18": true
         },
         {
           "name": "【同人本】【R18】K-1 (ふぁな) 陽だまりに咲く菜の花のように 1",
           "link": "/collection/doujin/md_1139693658",
           "img": "/img/mandarake/m1139693658.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -9970,7 +8928,7 @@
           "name": "【同人本】【R18】Cool Palace (涼宮和貴) Wheel of Fortune",
           "link": "/collection/doujin/md_1189037277",
           "img": "/img/mandarake/m1189037277.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10005,7 +8963,7 @@
           "name": "【同人本】【R18】八木崎銀座 (八神秋一) 親娘丼",
           "link": "/collection/doujin/md_1093559973",
           "img": "/img/mandarake/m1093559973.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10026,10 +8984,10 @@
           }
         },
         {
-          "name": "【同人本】IV VA SHIN (みくに瑞貴) FORTUNE ARTERIAL ふぉーちゅんすぱっつ!",
+          "name": "【同人本】【R18】IV VA SHIN (みくに瑞貴) FORTUNE ARTERIAL ふぉーちゅんすぱっつ!",
           "link": "/collection/doujin/md_1103253033",
           "img": "/img/mandarake/m1103253033.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -10040,7 +8998,7 @@
           "name": "【同人本】【R18】Cool Palace (涼宮和貴) lose no time",
           "link": "/collection/doujin/md_1180878646",
           "img": "/img/mandarake/m1180878646.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10049,7 +9007,7 @@
           }
         },
         {
-          "name": "【同人本】山櫻 (井口たかじん) 100%ドタンバ劇場 第4学区【コピー誌】",
+          "name": "【同人本】【R18】山櫻 (井口たかじん) 100%ドタンバ劇場 第4学区【コピー誌】",
           "link": "/collection/doujin/md_1202149896",
           "img": "/img/mandarake/m1202149896.jpg",
           "owned": false,
@@ -10057,7 +9015,8 @@
             "x": 50,
             "y": 0,
             "z": 1
-          }
+          },
+          "r18": true
         },
         {
           "name": "【同人本】【R18】あじのり (さとうきみあつ) FA STYLE 04",
@@ -10075,7 +9034,7 @@
           "name": "【同人本】【R18】あじのり (さとうきみあつ) FA STYLE 02",
           "link": "/collection/doujin/md_1088861799",
           "img": "/img/mandarake/m1088861799.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10111,7 +9070,7 @@
           "name": "【同人本】【R18】夢桜 (由宇) Shirousagi",
           "link": "/collection/doujin/md_1167730719",
           "img": "/img/mandarake/m1167730719.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10123,7 +9082,7 @@
           "name": "【同人本】【R18】八木崎銀座 (八神秋一) FORTUNE ARTERIAL すくーう水着SCHOOU MIJUGI",
           "link": "/collection/doujin/md_1157715298",
           "img": "/img/mandarake/m1157715298.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10135,7 +9094,7 @@
           "name": "【同人本】ほしとつきと (あきはら涼 しめたひろみつ) FORTUNE ARTERIAL 猫舌甘党",
           "link": "/collection/doujin/md_1155327120",
           "img": "/img/mandarake/m1155327120.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -10146,7 +9105,7 @@
           "name": "【同人本】【R18】八木崎銀座 (八神秋一) 毎日私を好きって言って",
           "link": "/collection/doujin/md_1104186134",
           "img": "/img/mandarake/m1104186134.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10158,7 +9117,7 @@
           "name": "【同人本】あじのひらき (魚) ふぉーちゅんぼっくす",
           "link": "/collection/doujin/md_1102979253",
           "img": "/img/mandarake/m1102979253.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -10169,7 +9128,7 @@
           "name": "【同人本】【R18】あじのり (さとうきみあつ) FA STYLE 01 1",
           "link": "/collection/doujin/md_1088862267",
           "img": "/img/mandarake/m1088862267.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10181,7 +9140,7 @@
           "name": "【同人本】【R18】あじのり (さとうきみあつ) FA STYLE 03",
           "link": "/collection/doujin/md_1088861162",
           "img": "/img/mandarake/m1088861162.jpg",
-          "owned": false,
+          "owned": true,
           "r18": true,
           "crop": {
             "x": 50,
@@ -10207,17 +9166,6 @@
       "key": "artwork",
       "title": "原画 / 制作资料",
       "items": [
-        {
-          "name": "【复制画】「FORTUNE　ARTERIAL」カラー複製イラスト",
-          "link": "/collection/artwork/md_e730622",
-          "img": "/img/mandarake/e730622.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
         {
           "name": "【原画】FORTUNE ARTERIAL-赤い約束-　ラフ原画",
           "link": "/collection/artwork/md_e296339",
@@ -10261,6 +9209,46 @@
             "y": 0,
             "z": 1
           }
+        }
+      ]
+    },
+    {
+      "key": "unreleased",
+      "title": "未发售 / Unreleased",
+      "items": [
+        {
+          "name": "【游戏】PS3 FORTUNE ARTERIAL 赤之约定",
+          "link": "/collection/games/sy_103000813",
+          "img": "/img/suruga/noimage.svg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【游戏】PSP FORTUNE ARTERIAL 伊织的野望",
+          "link": "/collection/games/sy_177001548",
+          "img": "/img/suruga/noimage.svg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          }
+        },
+        {
+          "name": "【角色歌】千堂伊织「FORTUNE BLACK」",
+          "link": "/collection/media/fortune_black",
+          "img": "/img/suruga/noimage.svg",
+          "owned": false
+        },
+        {
+          "name": "【角色歌】支仓孝平「FORTUNE BLUE」",
+          "link": "/collection/media/fortune_blue",
+          "img": "/img/suruga/noimage.svg",
+          "owned": false
         }
       ]
     }
