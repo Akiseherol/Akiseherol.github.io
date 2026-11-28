@@ -905,17 +905,6 @@
           }
         },
         {
-          "name": "【时钟】挂板时钟",
-          "link": "/collection/goods/buy_i23120705317",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/I23120705317_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【时钟】时钟 伽耶（未使用）",
           "link": "/collection/goods/buy_r23120803561",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120803561_01.jpg",
@@ -924,7 +913,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【镜子】不锈钢卡片镜 全员集合（JIPANG 景品）",
@@ -1112,7 +1102,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【挂毯】动画版 B2 挂毯 泳池",
@@ -1816,40 +1807,6 @@
           }
         },
         {
-          "name": "【毛巾】超细纤维擦拭布 集合（未开封）",
-          "link": "/collection/goods/buy_r25071505341_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25071505341_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          },
-          "star": true
-        },
-        {
-          "name": "【毛巾】超细纤维擦拭布 瑛里华（未开封）",
-          "link": "/collection/goods/buy_r25071505341_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25071505341_02.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【毛巾】超细纤维擦拭布 第三种（未开封）",
-          "link": "/collection/goods/buy_r25071505341_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25071505341_03.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【毛巾】FA 非卖品小毛巾（Gamers）",
           "link": "/collection/goods/buy_r24011402869_1",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24011402869_01.jpg",
@@ -1861,15 +1818,16 @@
           }
         },
         {
-          "name": "【毛巾】CLANNAD 非卖品小毛巾（Gamers，非 FA）",
-          "link": "/collection/goods/buy_r24011402869_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24011402869_01.jpg",
+          "name": "【毛巾】超细纤维擦拭布 集合（未开封）",
+          "link": "/collection/goods/buy_r25071505341_1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25071505341_01.jpg",
           "owned": true,
           "crop": {
-            "x": 14,
-            "y": 38,
-            "z": 2.86
-          }
+            "x": 50,
+            "y": 50,
+            "z": 1
+          },
+          "star": true
         },
         {
           "name": "【毛巾】人物毛巾 瑛里华&白",
@@ -1993,21 +1951,10 @@
           }
         },
         {
-          "name": "【桌垫】TCG 万用游戏垫 瑛里华",
-          "link": "/collection/goods/playmat_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods100a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【桌垫】A3 透明桌垫 瑛里华",
           "link": "/collection/goods/a3_desk_mat_erika",
           "img": "/news/archive/august-soft.com/goods/pic/goods78a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 39.3,
             "y": 0,
@@ -2073,7 +2020,7 @@
           "name": "【桌垫】A3 桌垫 瑛里华&白（赤之约定）",
           "link": "/collection/goods/sy_994500647",
           "img": "/img/suruga/994500647.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2119,18 +2066,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
-        },
-        {
-          "name": "【桌垫】桌垫",
-          "link": "/collection/goods/buy_r23121102172",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23121102172_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【相册】迷你相册 瑛里华 Ver.2",
@@ -2901,12 +2838,6 @@
           }
         },
         {
-          "name": "【包】托特包 Tea Break",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_tote_teabreak.jpg",
-          "owned": true,
-          "link": "/collection/goods/v_goods_003"
-        },
-        {
           "name": "【包】Comiket 周边 包",
           "link": "/collection/goods/buy_m24012503040",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24012503040_01.jpg",
@@ -3214,34 +3145,10 @@
           "img": "/img/suruga/892002453.jpg",
           "owned": true,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 100,
+            "y": 0,
             "z": 1
           }
-        },
-        {
-          "name": "【画板】角色画板 伽耶",
-          "link": "/collection/goods/buy_m25111713123",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25111713123_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          },
-          "star": true
-        },
-        {
-          "name": "【画板】角色画板 阳菜",
-          "link": "/collection/goods/buy_m24022712191",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24022712191_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          },
-          "star": true
         },
         {
           "name": "【画板】画板 阳菜（抱枕套特典）",
@@ -3751,6 +3658,18 @@
           }
         },
         {
+          "name": "【复制原画】べっかんこう 签名复制原画 X-RATED（2021 新春）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_xrated.jpg",
+          "owned": true,
+          "link": "/collection/goods/v_goods_004",
+          "star": true,
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
           "name": "【文件夹】阳菜&奏（C77 套装）",
           "link": "/collection/goods/sy_994901232",
           "img": "/img/suruga/994901232.jpg",
@@ -4106,7 +4025,7 @@
           "name": "【帽子】棒球帽",
           "link": "/collection/goods/sy_609004080",
           "img": "/img/suruga/609004080.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4154,18 +4073,6 @@
           "crop": {
             "x": 50,
             "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【复制原画】べっかんこう 签名复制原画 X-RATED（2021 新春）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_xrated.jpg",
-          "owned": true,
-          "link": "/collection/goods/v_goods_004",
-          "star": true,
-          "crop": {
-            "x": 0,
-            "y": 0,
             "z": 1
           }
         },
@@ -9945,7 +9852,7 @@
           "name": "【同人本】【R18】CAT FooT",
           "link": "/collection/doujin/sy_zhoi32507",
           "img": "/img/suruga/zhoi32507.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
@@ -10274,19 +10181,13 @@
           "name": "【同人本】瑛里华 和服封面（视频截图，待补充）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1557.jpg",
           "owned": true,
-          "link": "/collection/doujin/v_doujin_001"
-        },
-        {
-          "name": "【同人本】瑛里华 兔女郎 粉格子封面（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1589.jpg",
-          "owned": true,
-          "link": "/collection/doujin/v_doujin_002"
-        },
-        {
-          "name": "【同人本】粉发天使封面（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1591.jpg",
-          "owned": true,
-          "link": "/collection/doujin/v_doujin_003"
+          "link": "/collection/doujin/v_doujin_001",
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1,
+            "r": 270
+          }
         },
         {
           "name": "【同人本】瑛里华 Q版群像封面（视频截图，待补充）",
@@ -10298,13 +10199,25 @@
           "name": "【同人本】FORTUNE ARTERIAL FanBook PRECIOUS TIME（视频截图，待补充）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1618.jpg",
           "owned": true,
-          "link": "/collection/doujin/v_doujin_005"
+          "link": "/collection/doujin/v_doujin_005",
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1,
+            "r": 270
+          }
         },
         {
           "name": "【同人本】桐葉アデリアル（视频截图，待补充）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1629.jpg",
           "owned": true,
-          "link": "/collection/doujin/v_doujin_006"
+          "link": "/collection/doujin/v_doujin_006",
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1,
+            "r": 270
+          }
         },
         {
           "name": "【同人本】【R18】あじのり (さとうきみあつ) FA STYLE 01 1",
@@ -10366,6 +10279,18 @@
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_goods_009"
+        },
+        {
+          "name": "【画板】角色画板 伽耶",
+          "link": "/collection/goods/buy_m25111713123",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25111713123_01.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 50,
+            "z": 1
+          },
+          "star": true
         }
       ]
     },
