@@ -1073,7 +1073,7 @@
           "name": "【挂毯】双面绒 B2 挂毯 瑛里华&阳菜（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_873902529",
           "img": "/img/suruga/873902529.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -1667,8 +1667,8 @@
           "img": "/img/suruga/608253418.jpg",
           "owned": false,
           "crop": {
-            "x": 50,
-            "y": 50,
+            "x": 0,
+            "y": 18.4,
             "z": 1
           }
         },
@@ -1761,47 +1761,14 @@
           }
         },
         {
-          "name": "【毛巾】杯垫小毛巾 桐叶",
-          "link": "/collection/goods/buy_r25100104548_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 30,
-            "y": 25,
-            "z": 2.88
-          }
-        },
-        {
           "name": "【毛巾】杯垫小毛巾 瑛里华",
           "link": "/collection/goods/buy_r25100104548_2",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
-            "x": 68,
-            "y": 25,
+            "x": 68.3,
+            "y": 14.4,
             "z": 2.88
-          }
-        },
-        {
-          "name": "【毛巾】杯垫小毛巾 阳菜",
-          "link": "/collection/goods/buy_r25100104548_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 7,
-            "y": 81,
-            "z": 2.59
-          }
-        },
-        {
-          "name": "【毛巾】杯垫小毛巾 奏",
-          "link": "/collection/goods/buy_r25100104548_4",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 49,
-            "y": 81,
-            "z": 2.59
           }
         },
         {
@@ -1810,9 +1777,42 @@
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
-            "x": 96,
-            "y": 82,
+            "x": 96.3,
+            "y": 72.5,
             "z": 2.42
+          }
+        },
+        {
+          "name": "【毛巾】杯垫小毛巾 桐叶",
+          "link": "/collection/goods/buy_r25100104548_1",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "owned": true,
+          "crop": {
+            "x": 29.2,
+            "y": 14.8,
+            "z": 2.88
+          }
+        },
+        {
+          "name": "【毛巾】杯垫小毛巾 奏",
+          "link": "/collection/goods/buy_r25100104548_4",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "owned": true,
+          "crop": {
+            "x": 49.6,
+            "y": 71.6,
+            "z": 2.59
+          }
+        },
+        {
+          "name": "【毛巾】杯垫小毛巾 阳菜",
+          "link": "/collection/goods/buy_r25100104548_3",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "owned": true,
+          "crop": {
+            "x": 6.4,
+            "y": 68.3,
+            "z": 2.59
           }
         },
         {
@@ -1824,7 +1824,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【毛巾】超细纤维擦拭布 瑛里华（未开封）",
@@ -2289,7 +2290,7 @@
           "name": "【手机贴】手机屏幕贴 Vol.3.2 白",
           "link": "/collection/goods/mailblock_3_2_shiro",
           "img": "/news/archive/august-soft.com/goods/pic/goods92a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 49.7,
             "y": 0,
@@ -3227,7 +3228,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【画板】角色画板 阳菜",
@@ -3238,7 +3240,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【画板】画板 阳菜（抱枕套特典）",
@@ -3733,7 +3736,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【文件夹】文件夹（C73 套装）",
@@ -4177,12 +4181,6 @@
           }
         },
         {
-          "name": "【手帕】桐叶 迷你毛巾（非卖品）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_towel.jpg",
-          "owned": true,
-          "link": "/collection/goods/v_goods_008"
-        },
-        {
           "name": "【卡套】校徽",
           "link": "/collection/goods/pass_case_emblem",
           "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
@@ -4213,17 +4211,6 @@
             "x": 6.1,
             "y": 4.8,
             "z": 2.05
-          }
-        },
-        {
-          "name": "【待确认】OFF 模型购入「FORTUNE ARTERIAL」",
-          "link": "/collection/goods/buy_y25080108048",
-          "img": "/img/suruga/noimage.svg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
           }
         },
         {
@@ -5020,18 +5007,6 @@
           "name": "【海报】Lycee Ver.August 3.0 B2 宣传海报",
           "link": "/collection/goods/buy_r24020503551",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24020503551_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          },
-          "star": true
-        },
-        {
-          "name": "【海报】秽翼的尤斯蒂娅 TCG 宣传海报",
-          "link": "/collection/goods/buy_k1245097368",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/k1245097368_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7093,7 +7068,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【卡册】卡册索引页 瑛里华",
