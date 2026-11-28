@@ -1364,28 +1364,6 @@
           }
         },
         {
-          "name": "【钥匙扣】拼接亚克力钥匙扣 FA A（Iris Mysteria 联动）",
-          "link": "/collection/goods/sy_560309644",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【钥匙扣】拼接亚克力钥匙扣 FA B（Iris Mysteria 联动）",
-          "link": "/collection/goods/sy_560309645",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【钥匙扣】10 周年纪念钥匙扣 瑛里华（C94）",
           "link": "/collection/goods/sy_608663888",
           "img": "/img/suruga/608663888.jpg",
@@ -1395,16 +1373,6 @@
             "y": 100,
             "z": 1
           }
-        },
-        {
-          "name": "【钥匙扣】亚克力钥匙扣（Jamil）",
-          "img": "/img/suruga/noimage.svg",
-          "owned": true
-        },
-        {
-          "name": "【钥匙扣】Q 版钥匙扣 桐叶&伽耶",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_q_keychain.jpg",
-          "owned": true
         },
         {
           "name": "【书皮】瑛里华",
@@ -1901,31 +1869,31 @@
           "name": "【桌垫】橡胶垫 瑛里华",
           "link": "/collection/goods/curtain_rubbermat_01",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial01.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 白 扑克牌",
           "link": "/collection/goods/curtain_rubbermat_02",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial02.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 桐叶 约会",
           "link": "/collection/goods/curtain_rubbermat_03",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial03.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 奏&阳菜 巫女服",
           "link": "/collection/goods/curtain_rubbermat_04",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial04.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 瑛里华 猫耳女仆",
           "link": "/collection/goods/curtain_rubbermat_05",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial05.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【相册】迷你相册 瑛里华 Ver.2",
@@ -2212,7 +2180,7 @@
           "name": "【扇子】双面团扇（C72 套装）",
           "link": "/collection/goods/sy_995000300",
           "img": "/img/suruga/995000300.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2223,7 +2191,7 @@
           "name": "【扇子】双面团扇（C74 套装）",
           "link": "/collection/goods/sy_995000099",
           "img": "/img/suruga/995000099.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2234,7 +2202,7 @@
           "name": "【扇子】双面团扇 菲娜&瑛里华/阳菜（C76 套装）",
           "link": "/collection/goods/sy_995001637",
           "img": "/img/suruga/995001637.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2245,7 +2213,7 @@
           "name": "【扇子】双面团扇 FA/秽翼的尤斯蒂娅（C78 套装）",
           "link": "/collection/goods/sy_995000102",
           "img": "/img/suruga/995000102.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2280,7 +2248,7 @@
           "name": "【扇子】AUGUST FORTUNE ARTERIAL FORTUNE ARTERIAL うちわ",
           "link": "/collection/goods/md_1054963857",
           "img": "/img/mandarake/m1054963857.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2291,7 +2259,7 @@
           "name": "【扇子】AUGUST FORTUNE ARTERIAL うちわ 2",
           "link": "/collection/goods/md_1054962648",
           "img": "/img/mandarake/m1054962648.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2365,10 +2333,10 @@
           }
         },
         {
-          "name": "【挂绳】手机挂绳 瑛里华&白（C73 套装）",
-          "link": "/collection/goods/sy_608022558",
-          "img": "/img/suruga/608022558.jpg",
-          "owned": false,
+          "name": "【挂绳】AUGUST FORTUNE ARTERIAL 携帯ストラップ 2",
+          "link": "/collection/goods/md_1054964481",
+          "img": "/img/mandarake/m1054964481.jpg",
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2376,10 +2344,10 @@
           }
         },
         {
-          "name": "【挂绳】手机挂绳 桐叶&伽耶（C74 套装）",
-          "link": "/collection/goods/sy_608022557",
-          "img": "/img/suruga/608022557.jpg",
-          "owned": false,
+          "name": "【挂绳】AUGUST FORTUNE ARTERIAL 携帯ストラップ 1",
+          "link": "/collection/goods/md_1054964442",
+          "img": "/img/mandarake/m1054964442.jpg",
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2412,7 +2380,7 @@
           "name": "【挂绳】手机挂绳 瑛里华（2008）",
           "link": "/collection/goods/sy_608125003",
           "img": "/img/suruga/608125003.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2468,28 +2436,6 @@
           "link": "/collection/goods/md_1144976403",
           "img": "/img/mandarake/m1144976403.jpg",
           "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【挂绳】AUGUST FORTUNE ARTERIAL 携帯ストラップ 2",
-          "link": "/collection/goods/md_1054964481",
-          "img": "/img/mandarake/m1054964481.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【挂绳】AUGUST FORTUNE ARTERIAL 携帯ストラップ 1",
-          "link": "/collection/goods/md_1054964442",
-          "img": "/img/mandarake/m1054964442.jpg",
-          "owned": false,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4172,7 +4118,7 @@
           "name": "【海报】A3 海报 瑛里华（Gamaga 2007年6月号特典）",
           "link": "/collection/goods/sy_608921184",
           "img": "/img/suruga/608921184.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4211,7 +4157,7 @@
           "name": "【海报】B2 宣传海报 瑛里华 PC 游戏",
           "link": "/collection/goods/sy_608922148",
           "img": "/img/suruga/608922148.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -5042,17 +4988,6 @@
           "name": "【电话卡】阳菜（古河电气特典）",
           "link": "/collection/goods/sy_978012011",
           "img": "/img/suruga/978012011.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】阳菜（Nagomi 通贩特典）",
-          "link": "/collection/goods/sy_978020300",
-          "img": "/img/suruga/noimage.svg",
           "owned": false,
           "crop": {
             "x": 50,
