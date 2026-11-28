@@ -4445,6 +4445,48 @@
       ]
     },
     {
+      "key": "flyers",
+      "title": "宣传单 / Flyers",
+      "items": [
+        {
+          "name": "【宣传单】PC 游戏宣传单",
+          "link": "/collection/books/sy_ca26041",
+          "img": "/img/suruga/ca26041.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【宣传单】瑛里华 眨眼（初回限定版发售告知）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_524.jpg",
+          "owned": true
+        },
+        {
+          "name": "【宣传单】女主角集合（2008年1月25日发售决定）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_533.jpg",
+          "owned": true
+        },
+        {
+          "name": "【宣传单】イメージテーマ「It's my Precious Time!」",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_543.jpg",
+          "owned": true
+        },
+        {
+          "name": "【宣传单】瑛里华「好評発売中」",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_553.jpg",
+          "owned": true
+        },
+        {
+          "name": "【宣传单】瑛里华 坐姿（初回限定版 2008年1月25日发售）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_559.jpg",
+          "owned": true
+        }
+      ]
+    },
+    {
       "key": "postcards",
       "title": "明信片 / 相卡 / Postcards",
       "items": [
@@ -7509,17 +7551,6 @@
           "link": "/collection/books/md_e712199",
           "img": "/img/mandarake/e712199.jpg",
           "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【宣传单】PC 游戏宣传单",
-          "link": "/collection/books/sy_ca26041",
-          "img": "/img/suruga/ca26041.jpg",
-          "owned": true,
           "crop": {
             "x": 50,
             "y": 0,
