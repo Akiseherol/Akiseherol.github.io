@@ -27,7 +27,7 @@
 <meta property="og:description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }  &#x2F;* 3. 分类标题栏可以点击展开 &#x2F; 收起 *&#x2F; .mfc-header { cur">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2026-06-15T04:00:00.000Z">
-<meta property="article:modified_time" content="2026-11-28T12:06:57.504Z">
+<meta property="article:modified_time" content="2026-11-28T14:48:33.293Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -346,7 +346,7 @@
   
 
 <div id="banner" class="banner"
-     style="background: url('https://pub-621e14fe346245c48762cbb366326522.r2.dev/Cover1.jpg') no-repeat center center; background-size: cover;">
+     style="background: url('https://pub-621e14fe346245c48762cbb366326522.r2.dev/Cover1_s.webp') no-repeat center center; background-size: cover;">
   <div class="full-bg-img">
     <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.1)">
       <div class="banner-text text-center fade-in-up">
@@ -449,6 +449,8 @@
     if (c.r || c.f) return 'width:100%;height:100%;object-fit:cover;object-position:' + pos + ';transform:rotate(' + (c.r || 0) + 'deg) scaleX(' + (c.f ? -1 : 1) + ') translate(' + ((50 - x) * (z - 1)) + '%,' + ((50 - y) * (z - 1)) + '%) scale(' + z + ');transform-origin:50% 50%;';
     return 'width:100%;height:100%;object-fit:cover;object-position:' + pos + ';transform:scale(' + (+c.z || 1) + ');transform-origin:' + pos + ';';
   }
+  // 购入时的商品照片（R2 的 buyee/、fromjapan/）有 400px 缩略图，放在同目录的 thumb/ 下
+  function thumb(u) { u = String(u || ''); return u.indexOf('.r2.dev/') > 0 ? u.replace(/\/(buyee|fromjapan)\/([^\/]+)\.jpg$/, '/$1/thumb/$2.jpg') : u; }
   function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   // 点分类标题栏展开 / 收起，记在本机浏览器里（下次打开保持）
   var closed = {};
@@ -509,7 +511,7 @@
       var owned = sec.items.filter(function (i) { return i.owned; }).length;
       var unrel = sec.key === 'unreleased';
       var cells = sec.items.map(function (i) {
-        var cell = '<div class="mfc-item' + (unrel ? ' unreleased' : i.owned ? '' : ' missing') + (i.star ? ' star' : '') + (i.r18 ? ' r18' : '') + '"><img src="' + esc(i.img) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(i.name) + '" style="' + cover(i) + '">' +
+        var cell = '<div class="mfc-item' + (unrel ? ' unreleased' : i.owned ? '' : ' missing') + (i.star ? ' star' : '') + (i.r18 ? ' r18' : '') + '"><img src="' + esc(thumb(i.img)) + '" loading="lazy" referrerpolicy="no-referrer" alt="' + esc(i.name) + '" style="' + cover(i) + '">' +
           (i.star ? '<span class="mfc-ring"></span>' : '') + (unrel ? '<span class="mfc-unrel-tag">未发售</span>' : '') + '</div>';
         var tip = esc(i.name) + (unrel ? '（开发 / 发售中止）' : i.owned ? '（已收藏）' : '（未收藏）') + (i.star ? ' · 珍藏' : '');
         return i.link ? '<a href="' + esc(i.link) + '" title="' + tip + '">' + cell + '</a>' : '<span title="' + tip + '">' + cell + '</span>';

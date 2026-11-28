@@ -1929,17 +1929,6 @@
           }
         },
         {
-          "name": "【T恤】大印花 T 恤 黑（Printstar）",
-          "link": "/collection/goods/buy_m25081907385",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25081907385_01.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【T恤】赤之约定 T 恤（L）",
           "link": "/collection/goods/buy_f24112611886",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24112611886_01.jpg",
@@ -1948,7 +1937,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【桌垫】A3 透明桌垫 瑛里华",
