@@ -701,17 +701,6 @@
           }
         },
         {
-          "name": "【配件】千堂瑛里华DD用校服",
-          "link": "/collection/figures/sy_991017280",
-          "img": "/img/suruga/991017280.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【配件】DD 用修智馆学院女子制服（Whitesnow）",
           "link": "/collection/figures/md_1338382330",
           "img": "/img/mandarake/m1338382330.jpg",
@@ -1073,13 +1062,13 @@
           "name": "【挂毯】双面绒 B2 挂毯 瑛里华",
           "link": "/collection/goods/sy_873146469",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial01-b2ws.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【挂毯】双面绒 B2 挂毯 阳菜 女仆装",
           "link": "/collection/goods/sy_873146470",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial02-b2ws.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【挂毯】B1 挂毯 瑛里华「赤之约定永远……」（X-RATED）",
@@ -1617,28 +1606,6 @@
           }
         },
         {
-          "name": "【毛巾】人物毛巾 瑛里华&白",
-          "link": "/collection/goods/portrait_towel_erika_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods07a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【毛巾】人物毛巾 桐叶",
-          "link": "/collection/goods/portrait_towel_kiriha",
-          "img": "/news/archive/august-soft.com/goods/pic/goods07a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【毛巾】人物毛巾 奏&阳菜",
           "link": "/collection/goods/portrait_towel_kanade_haruna",
           "img": "/news/archive/august-soft.com/goods/pic/goods07a.jpg",
@@ -1748,17 +1715,6 @@
           "link": "/collection/goods/sy_608009717",
           "img": "/img/suruga/608009717.jpg",
           "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【毛巾】AUGUST FORTUNE ARTERIAL マイクロファイバータオル",
-          "link": "/collection/goods/md_1118910285",
-          "img": "/img/mandarake/m1118910285.jpg",
-          "owned": false,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2194,7 +2150,7 @@
         },
         {
           "name": "【手机贴】防窥膜",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_film.jpg",
           "owned": true
         },
         {
@@ -2611,7 +2567,7 @@
           "name": "【怀表】瑛里华&白",
           "link": "/collection/goods/pocket_watch",
           "img": "/news/archive/august-soft.com/goods/pic/goods46a.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2669,7 +2625,7 @@
           "name": "【打火机】Zippo 阳菜",
           "link": "/collection/goods/zippo_haruna",
           "img": "/news/archive/august-soft.com/goods/pic/goods06c.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -2903,7 +2859,7 @@
           "name": "【立牌】亚克力立牌 阳菜（2020）",
           "link": "/collection/goods/sy_508089804",
           "img": "/img/suruga/508089804.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 0,
             "y": 0,
@@ -2914,31 +2870,31 @@
           "name": "【立牌】特大亚克力立牌 瑛里华",
           "link": "/collection/goods/sy_573056192",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial01-big.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 白",
           "link": "/collection/goods/sy_573056193",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial02-big.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 桐叶",
           "link": "/collection/goods/sy_573056194",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial03-big.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 奏",
           "link": "/collection/goods/sy_573056195",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial04-big.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 阳菜",
           "link": "/collection/goods/sy_573056196",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial05-big.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【立牌】亚克力立牌 瑛里华 婚纱 ver.",
@@ -3172,7 +3128,7 @@
           "name": "【收纳盒】赤之约定 CD 盒纸壳（2 枚用）",
           "link": "/collection/goods/sy_608013323",
           "img": "/img/suruga/608013323.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3557,7 +3513,7 @@
           "name": "【文件夹】A4 文件夹 全员集合 FA/夜明前的琉璃色",
           "link": "/collection/goods/sy_994906442",
           "img": "/img/suruga/994906442.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3601,7 +3557,7 @@
           "name": "【挂历】2008 年插画挂历（C73 套装）",
           "link": "/collection/goods/sy_605803079",
           "img": "/img/suruga/605803079.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3612,7 +3568,7 @@
           "name": "【挂历】2009 年水晶挂历卡套装（C75）",
           "link": "/collection/goods/sy_605805182",
           "img": "/img/suruga/605805182.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3623,7 +3579,7 @@
           "name": "【挂历】August/ARIA 2010 年挂历（C77 套装）",
           "link": "/collection/goods/sy_605003052",
           "img": "/img/suruga/605003052.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3634,7 +3590,7 @@
           "name": "【挂历】August/ARIA 2011 年挂历（C79 套装）",
           "link": "/collection/goods/sy_605004490",
           "img": "/img/suruga/605004490.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3645,7 +3601,7 @@
           "name": "【挂历】2008 年度桌面纪念台历（预约特典）",
           "link": "/collection/goods/sy_605000610",
           "img": "/img/suruga/605000610.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3656,7 +3612,7 @@
           "name": "【挂历】2008 年度挂历",
           "link": "/collection/goods/sy_605002083",
           "img": "/img/suruga/605002083.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3667,7 +3623,7 @@
           "name": "【挂历】2009 年度挂历",
           "link": "/collection/goods/sy_605002084",
           "img": "/img/suruga/605002084.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3678,7 +3634,7 @@
           "name": "【挂历】2009.1–2010.4 水晶台历",
           "link": "/collection/goods/sy_605800032",
           "img": "/img/suruga/605800032.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3887,7 +3843,7 @@
           "name": "【垫板】A5 垫板 瑛里华（Gamaga Ver. 手办特典）",
           "link": "/collection/goods/sy_994010464",
           "img": "/img/suruga/994010464.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -3896,13 +3852,12 @@
         },
         {
           "name": "【复制原画】べっかんこう 签名复制原画 X-RATED（2021 新春）",
-          "img": "/img/suruga/noimage.svg",
-          "owned": true,
-          "r18": true
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_xrated.jpg",
+          "owned": true
         },
         {
           "name": "【杯垫】杯垫（C75）",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_coaster.jpg",
           "owned": true
         },
         {
@@ -3916,14 +3871,48 @@
           "owned": true
         },
         {
-          "name": "【手帕】迷你手帕（非卖品）",
-          "img": "/img/suruga/noimage.svg",
+          "name": "【手帕】桐叶 迷你毛巾（非卖品）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_towel.jpg",
           "owned": true
         },
         {
           "name": "【盘子】角色盘 TYPE E 阳菜",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_plate_fuuki.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
+        },
+        {
+          "name": "【卡套】校徽",
+          "link": "/collection/goods/pass_case_emblem",
+          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 8.2,
+            "y": 95.8,
+            "z": 2.05
+          }
+        },
+        {
+          "name": "【卡套】白",
+          "link": "/collection/goods/pass_case_shiro",
+          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 100,
+            "y": 13.5,
+            "z": 2.26
+          }
+        },
+        {
+          "name": "【卡套】瑛里华",
+          "link": "/collection/goods/pass_case_erika",
+          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
+          "owned": false,
+          "crop": {
+            "x": 6.1,
+            "y": 4.8,
+            "z": 2.05
+          }
         }
       ]
     },
@@ -4020,31 +4009,9 @@
           }
         },
         {
-          "name": "【抱枕套】オーガスト(べっかんこう) 「FORTUNE ARTERIAL」 悠木陽菜抱き枕カバー(ピクチャープレート欠)",
-          "link": "/collection/goods/md_e749068",
-          "img": "/img/mandarake/e749068.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【抱枕套】オーガスト FORTUNE ARTERIAL 千堂瑛里華抱き枕カバー(ピクチャープレート欠)",
           "link": "/collection/goods/md_e699491",
           "img": "/img/mandarake/e699491.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】オーガスト(べっかんこう) FORTUNE ARTERIAL 千堂瑛里華 エレガント抱き枕カバー(ピクチャープレート付)",
-          "link": "/collection/goods/md_e661631",
-          "img": "/img/mandarake/e661631.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -4183,7 +4150,7 @@
           "name": "【海报】透明海报 3 张套装（C78 限定）",
           "link": "/collection/goods/sy_608906134",
           "img": "/img/suruga/608906134.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4194,7 +4161,7 @@
           "name": "【海报】瑛里华（TECH GIAN Super Prelude 附录）",
           "link": "/collection/goods/sy_608902680",
           "img": "/img/suruga/608902680.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4227,7 +4194,7 @@
           "name": "【海报】B2 宣传海报 PC 游戏",
           "link": "/collection/goods/sy_608916373",
           "img": "/img/suruga/608916373.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4238,7 +4205,7 @@
           "name": "【海报】B1 宣传海报 主视觉 PC 游戏",
           "link": "/collection/goods/sy_608917273",
           "img": "/img/suruga/608917273.jpg",
-          "owned": false
+          "owned": true
         },
         {
           "name": "【海报】B2 宣传海报 瑛里华 PC 游戏",
@@ -4266,7 +4233,7 @@
           "name": "【海报】透明条形海报 瑛里华（Gamaga Ver. 手办特典）",
           "link": "/collection/goods/sy_608920951",
           "img": "/img/suruga/608920951.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4539,7 +4506,7 @@
           "name": "【明信片】白（August/ARIA 邮件 2007 夏）",
           "link": "/collection/goods/sy_892501855",
           "img": "/img/suruga/892501855.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4550,7 +4517,7 @@
           "name": "【明信片】桐叶（August/ARIA 邮件 2008 冬）",
           "link": "/collection/goods/sy_892501860",
           "img": "/img/suruga/892501860.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4640,7 +4607,8 @@
         {
           "name": "【明信片】瑛里华 和服（视频截图，待补充）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_erika_kimono.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【明信片】瑛里华（Gamaga）",
@@ -4650,21 +4618,17 @@
         {
           "name": "【明信片】Q 版三人（视频截图，待补充）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_chibi3.jpg",
-          "owned": true
+          "owned": true,
+          "star": true,
+          "crop": {
+            "x": 0,
+            "y": 32.1,
+            "z": 1.6
+          }
         },
         {
           "name": "【明信片】瑛里华&桐叶&白（动画 OP/ED BOX 特典）",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_opbox.jpg",
-          "owned": true
-        },
-        {
-          "name": "【明信片】瑛里华 翅膀（穢翼のユースティア）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_eustia.jpg",
-          "owned": true
-        },
-        {
-          "name": "【明信片】桐叶 翅膀（穢翼のユースティア）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_kiriha_snow.jpg",
           "owned": true
         },
         {
@@ -4704,6 +4668,21 @@
           "owned": true
         },
         {
+          "name": "【插画卡】抱枕现场购买特典长卡 阳菜（视频截图，待补充）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil1.jpg",
+          "owned": true
+        },
+        {
+          "name": "【插画卡】抱枕现场购买特典长卡 瑛里华①（视频截图，待补充）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil2.jpg",
+          "owned": true
+        },
+        {
+          "name": "【插画卡】抱枕现场购买特典长卡 瑛里华②（视频截图，待补充）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil3.jpg",
+          "owned": true
+        },
+        {
           "name": "【相卡】白",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_photocard.jpg",
           "owned": true
@@ -4721,7 +4700,13 @@
         {
           "name": "【相卡】瑛里华",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1145.jpg",
-          "owned": true
+          "owned": true,
+          "crop": {
+            "x": 0,
+            "y": 21,
+            "z": 1
+          },
+          "star": true
         },
         {
           "name": "【相卡】白&瑛里华",
@@ -4736,7 +4721,8 @@
         {
           "name": "【相卡】瑛里华&白",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1171.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【相卡】白&瑛里华",
@@ -4746,7 +4732,8 @@
         {
           "name": "【相卡】瑛里华&孝平",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1223.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【相卡】瑛里华&白&桐叶",
@@ -4756,21 +4743,29 @@
         {
           "name": "【相卡】女主角集合",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1239.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【相卡】白&瑛里华&桐叶",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_anth1.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【相卡】阳菜&瑛里华",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_anth2.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【相卡】阳菜&奏",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_haruna_kanade.jpg",
+          "owned": true
+        },
+        {
+          "name": "【相卡】白（兔子，横版）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_shiro_rabbit.jpg",
           "owned": true
         }
       ]
@@ -4805,7 +4800,7 @@
           "name": "【电话卡】瑛里华（PUSH!! 2007年9月号抽奖）",
           "link": "/collection/goods/sy_978103255",
           "img": "/img/suruga/978103255.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -4827,7 +4822,7 @@
           "name": "【电话卡】瑛里华&白&桐叶等 5 人（DreamParty 2007 秋）",
           "link": "/collection/goods/sy_978003518",
           "img": "/img/suruga/978003518.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -5157,7 +5152,7 @@
           "name": "【电话卡】奏（Seagull Club 特典）",
           "link": "/collection/goods/sy_978047516",
           "img": "/img/suruga/978047516.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -5209,17 +5204,6 @@
           }
         },
         {
-          "name": "【电话卡】桐叶（Otakara 中古市场特典）",
-          "link": "/collection/goods/sy_978047521",
-          "img": "/img/suruga/978047521.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【电话卡】桐叶（Happy.com 特典）",
           "link": "/collection/goods/sy_978047522",
           "img": "/img/suruga/978047522.jpg",
@@ -5256,17 +5240,6 @@
           "name": "【电话卡】瑛里华（Comshop 特典）",
           "link": "/collection/goods/sy_978047525",
           "img": "/img/suruga/978047525.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
-          "name": "【电话卡】桐叶（中京 Maicon 特典）",
-          "link": "/collection/goods/sy_978055630",
-          "img": "/img/suruga/978055630.jpg",
           "owned": false,
           "crop": {
             "x": 50,
@@ -5382,7 +5355,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【电话卡】阳菜（Super Prelude 抽奖）",
@@ -5418,17 +5392,6 @@
           }
         },
         {
-          "name": "【电话卡】白 FA×TECH GIAN（TECH GIAN 人气投票抽奖）",
-          "link": "/collection/goods/sy_978067516",
-          "img": "/img/suruga/978067516.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【电话卡】桐叶（TECH GIAN 人气投票抽奖）",
           "link": "/collection/goods/sy_978095845",
           "img": "/img/suruga/978095845.jpg",
@@ -5443,12 +5406,13 @@
           "name": "【电话卡】阳菜 2 枚组（TECH GIAN 人气投票抽奖）",
           "link": "/collection/goods/sy_978105203",
           "img": "/img/suruga/978105203.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         },
         {
           "name": "【电话卡】瑛里华（C74 广播剧 CD 同捆）",
@@ -5729,7 +5693,7 @@
           "name": "【电话卡】AUGUST FORTUNE ARTERIAL ソフマップ特典テレホンカード",
           "link": "/collection/goods/md_1346321222",
           "img": "/img/mandarake/m1346321222.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -5821,6 +5785,11 @@
           "owned": true
         },
         {
+          "name": "【电话卡】Lycee 主题电话卡 女仆（视频截图，待补充）",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v_t_lycee_maid.jpg",
+          "owned": true
+        },
+        {
           "name": "【图书卡】瑛里华&白（Gamers 积分兑换）",
           "link": "/collection/goods/sy_981041382",
           "img": "/img/suruga/981041382.jpg",
@@ -5877,11 +5846,6 @@
           "star": true
         },
         {
-          "name": "【图书卡】瑛里华&白 500 円图书卡",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_bookcard.jpg",
-          "owned": true
-        },
-        {
           "name": "【QUO卡】QUO 卡 瑛里华（C75）",
           "link": "/collection/goods/sy_981011756",
           "img": "/img/suruga/981011756.jpg",
@@ -5890,7 +5854,8 @@
             "x": 50,
             "y": 50,
             "z": 1
-          }
+          },
+          "star": true
         }
       ]
     },
@@ -5994,7 +5959,8 @@
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 瑛里华 SP",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_168.jpg",
-          "owned": true
+          "owned": true,
+          "star": true
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 KR 卡（August 其他作品）",
@@ -6052,37 +6018,9 @@
           "owned": true
         },
         {
-          "name": "【卡套】瑛里华",
-          "link": "/collection/goods/pass_case_erika",
-          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 6.1,
-            "y": 4.8,
-            "z": 2.05
-          }
-        },
-        {
-          "name": "【卡套】白",
-          "link": "/collection/goods/pass_case_shiro",
-          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 100,
-            "y": 13.5,
-            "z": 2.26
-          }
-        },
-        {
-          "name": "【卡套】校徽",
-          "link": "/collection/goods/pass_case_emblem",
-          "img": "/news/archive/august-soft.com/goods/pic/goods87a.jpg",
-          "owned": false,
-          "crop": {
-            "x": 8.2,
-            "y": 95.8,
-            "z": 2.05
-          }
+          "name": "【卡牌】Lycee 瑛里华 泳装闪卡",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/v_t_lycee_swim.jpg",
+          "owned": true
         },
         {
           "name": "【卡套】August 女主角 菲娜&瑛里华",
@@ -6199,7 +6137,7 @@
           "name": "【卡套】Lycee Overture 卡套 瑛里华（积分兑换）",
           "link": "/collection/goods/sy_604040176",
           "img": "/img/suruga/604040176.jpg",
-          "owned": false,
+          "owned": true,
           "crop": {
             "x": 50,
             "y": 50,
@@ -6281,7 +6219,8 @@
             "x": 2.6,
             "y": 100,
             "z": 2.05
-          }
+          },
+          "star": true
         },
         {
           "name": "【卡盒】桐叶",
@@ -6643,17 +6582,6 @@
           }
         },
         {
-          "name": "【语音CD】动画 角色 Fan Disc 支仓孝平（CV 小野大辅）",
-          "link": "/collection/media/sy_120046552",
-          "img": "/img/suruga/noimage.svg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 50,
-            "z": 1
-          }
-        },
-        {
           "name": "【语音CD】动画 角色 Fan Disc 千堂瑛里华（CV 神田理江）",
           "link": "/collection/media/sy_120046917",
           "img": "/img/suruga/120046917.jpg",
@@ -6796,11 +6724,6 @@
           "name": "【歌曲集】ARTICLE AUGUST Traveling August 录音专辑",
           "link": "/collection/media/august_article",
           "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_article.jpg",
-          "owned": true
-        },
-        {
-          "name": "【歌曲集】August 20 周年纪念歌曲集",
-          "img": "/img/suruga/noimage.svg",
           "owned": true
         }
       ]
@@ -7339,47 +7262,47 @@
         },
         {
           "name": "【杂志】电击姬 2008年2月号",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_530.jpg",
           "owned": true
         },
         {
           "name": "【杂志】电击 G's magazine 2008年3月号",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_539.jpg",
           "owned": true
         },
         {
           "name": "【杂志】Comptiq 2010年5月号",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_616.jpg",
           "owned": true
         },
         {
           "name": "【杂志】Comptiq 2011年1月号",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_629.jpg",
           "owned": true
         },
         {
           "name": "【杂志】Gamaga 2008年3月号",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_440.jpg",
           "owned": true
         },
         {
           "name": "【杂志】オーガストバラエティブック（Gamaga）",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_421.jpg",
           "owned": true
         },
         {
           "name": "【杂志】FOUR SEASONS MEMORIAL（C77）",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_477.jpg",
           "owned": true
         },
         {
           "name": "【杂志】萌动漫 Vol.8",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_637.jpg",
           "owned": true
         },
         {
           "name": "【杂志】动漫周刊",
-          "img": "/img/suruga/noimage.svg",
+          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_655.jpg",
           "owned": true
         },
         {
