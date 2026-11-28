@@ -7,7 +7,7 @@
         {
           "name": "【游戏】FORTUNE ARTERIAL 初回限定版",
           "link": "/collection/games/1_game1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/games/game1.jpg",
+          "img": "https://img.fortune-arterial.com/games/game1.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -18,7 +18,7 @@
         {
           "name": "【游戏】FORTUNE ARTERIAL 通常版",
           "link": "/collection/games/2_game2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/games/game2.jpg",
+          "img": "https://img.fortune-arterial.com/games/game2.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -29,7 +29,7 @@
         {
           "name": "【游戏】FORTUNE ARTERIAL Windows7 对应版",
           "link": "/collection/games/3_game_win7",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/games/local/3_game_win7-mwxsgqog.jpg",
+          "img": "https://img.fortune-arterial.com/games/local/3_game_win7-mwxsgqog.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -90,7 +90,7 @@
         {
           "name": "【手办】千堂瑛里华 1/8 寿屋款",
           "link": "/collection/figures/2_erika2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/erika2.jpg",
+          "img": "https://img.fortune-arterial.com/figures/erika2.jpg",
           "owned": true
         },
         {
@@ -151,13 +151,13 @@
         {
           "name": "【手办】千堂瑛里华 1/10 WAVE款 BEACH QUEENS 泳装",
           "link": "/collection/figures/49_erika_beachqueens",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/erika1h.jpeg",
+          "img": "https://img.fortune-arterial.com/figures/erika1h.jpeg",
           "owned": true
         },
         {
           "name": "【手办】东仪白 1/10 WAVE款 BEACH QUEENS 泳装",
           "link": "/collection/figures/52_shiro_beachqueens",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/shiro_4.jpg",
+          "img": "https://img.fortune-arterial.com/figures/beachqueens/shiro_4.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -168,7 +168,7 @@
         {
           "name": "【手办】红濑桐叶 1/10 WAVE款 BEACH QUEENS 泳装",
           "link": "/collection/figures/51_kiriha_beachqueens",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/kiriha_3.jpg",
+          "img": "https://img.fortune-arterial.com/figures/beachqueens/kiriha_3.jpg",
           "owned": true,
           "crop": {
             "x": 53.8,
@@ -179,7 +179,7 @@
         {
           "name": "【手办】悠木奏 1/10 WAVE款 BEACH QUEENS 泳装",
           "link": "/collection/figures/53_kanade_beachqueens",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/kanade_4.jpg",
+          "img": "https://img.fortune-arterial.com/figures/beachqueens/kanade_4.jpg",
           "owned": true,
           "crop": {
             "x": 100,
@@ -190,7 +190,7 @@
         {
           "name": "【手办】悠木阳菜 1/10 WAVE款 BEACH QUEENS 泳装",
           "link": "/collection/figures/50_haruna_beachqueens",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/beachqueens/haruna_4.jpg",
+          "img": "https://img.fortune-arterial.com/figures/beachqueens/haruna_4.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -201,7 +201,7 @@
         {
           "name": "【手办】千堂瑛里华 1/6 Volks款",
           "link": "/collection/figures/4_erika_65710",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/4_erika_65710-mwxehx3j.jpg",
+          "img": "https://img.fortune-arterial.com/figures/local/4_erika_65710-mwxehx3j.jpg",
           "owned": true,
           "crop": {
             "x": 52.9,
@@ -235,7 +235,7 @@
         {
           "name": "【手办】东仪白 1/6 Volks款",
           "link": "/collection/figures/7_shiro_13133",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/7_shiro_13133-mwxg3s18.jpg",
+          "img": "https://img.fortune-arterial.com/figures/local/7_shiro_13133-mwxg3s18.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -301,7 +301,7 @@
         {
           "name": "【手办】悠木奏 1/7 WAVE款 Dream Tech 孝平的围裙 Ver.",
           "link": "/collection/figures/48_kanade_apron",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/48_kanade_apron_main.jpg",
+          "img": "https://img.fortune-arterial.com/figures/local/48_kanade_apron_main.jpg",
           "owned": true,
           "crop": {
             "x": 43.6,
@@ -578,7 +578,7 @@
         {
           "name": "【GK】Pinky Street 奏 GK（ひまつぶし あーく）",
           "link": "/collection/figures/buy_r26031607618",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26031607618_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26031607618_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -635,7 +635,7 @@
         {
           "name": "【娃娃】悠木阳菜 1/3 Azone款 Hybrid Active Figure 通常版",
           "link": "/collection/figures/39_haruna_14153",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/39_haruna_14153-mwxew9f0.jpg",
+          "img": "https://img.fortune-arterial.com/figures/local/39_haruna_14153-mwxew9f0.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -675,7 +675,7 @@
         {
           "name": "【配件】悠木阳菜 1/3 Azone款 美化委员制服·文化祭「黑猫」娃衣",
           "link": "/collection/figures/47_haruna_acc607",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/figures/local/47_haruna_acc607_1.jpg",
+          "img": "https://img.fortune-arterial.com/figures/local/47_haruna_acc607_1.jpg",
           "owned": false
         },
         {
@@ -907,7 +907,7 @@
         {
           "name": "【时钟】时钟 伽耶（未使用）",
           "link": "/collection/goods/buy_r23120803561",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120803561_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R23120803561_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -1073,13 +1073,13 @@
         {
           "name": "【挂毯】双面绒 B2 挂毯 瑛里华",
           "link": "/collection/goods/sy_873146469",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial01-b2ws.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_tape_arterial01-b2ws.jpg",
           "owned": true
         },
         {
           "name": "【挂毯】双面绒 B2 挂毯 阳菜 女仆装",
           "link": "/collection/goods/sy_873146470",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_tape_arterial02-b2ws.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_tape_arterial02-b2ws.jpg",
           "owned": true
         },
         {
@@ -1179,7 +1179,7 @@
         },
         {
           "name": "【挂毯】Traveling August 挂毯（演唱会）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_po_traveling_tapestry.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_po_traveling_tapestry.jpg",
           "owned": true,
           "link": "/collection/goods/v_goods_001"
         },
@@ -1241,7 +1241,7 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 瑛里华",
           "link": "/collection/goods/rubber_keyholder_erika",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_erika.webp",
+          "img": "https://img.fortune-arterial.com/goods/local/rubber_keyholder_erika.webp",
           "owned": true,
           "crop": {
             "x": 0,
@@ -1252,7 +1252,7 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 白",
           "link": "/collection/goods/rubber_keyholder_shiro",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_shiro.webp",
+          "img": "https://img.fortune-arterial.com/goods/local/rubber_keyholder_shiro.webp",
           "owned": true,
           "crop": {
             "x": 100,
@@ -1263,7 +1263,7 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 桐叶",
           "link": "/collection/goods/rubber_keyholder_kiriha",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_kiriha.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/rubber_keyholder_kiriha.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -1274,7 +1274,7 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 阳菜",
           "link": "/collection/goods/rubber_keyholder_haruna",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_haruna.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/rubber_keyholder_haruna.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -1285,7 +1285,7 @@
         {
           "name": "【钥匙扣】橡胶钥匙扣 奏",
           "link": "/collection/goods/rubber_keyholder_kanade",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/rubber_keyholder_kanade.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/rubber_keyholder_kanade.jpg",
           "owned": true,
           "crop": {
             "x": 100,
@@ -1754,7 +1754,7 @@
         {
           "name": "【毛巾】杯垫小毛巾 瑛里华",
           "link": "/collection/goods/buy_r25100104548_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
             "x": 68.3,
@@ -1765,7 +1765,7 @@
         {
           "name": "【毛巾】杯垫小毛巾 白",
           "link": "/collection/goods/buy_r25100104548_5",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
             "x": 96.3,
@@ -1776,7 +1776,7 @@
         {
           "name": "【毛巾】杯垫小毛巾 桐叶",
           "link": "/collection/goods/buy_r25100104548_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
             "x": 29.2,
@@ -1787,7 +1787,7 @@
         {
           "name": "【毛巾】杯垫小毛巾 奏",
           "link": "/collection/goods/buy_r25100104548_4",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
             "x": 49.6,
@@ -1798,7 +1798,7 @@
         {
           "name": "【毛巾】杯垫小毛巾 阳菜",
           "link": "/collection/goods/buy_r25100104548_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25100104548_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25100104548_01.jpg",
           "owned": true,
           "crop": {
             "x": 6.4,
@@ -1809,7 +1809,7 @@
         {
           "name": "【毛巾】FA 非卖品小毛巾（Gamers）",
           "link": "/collection/goods/buy_r24011402869_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24011402869_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24011402869_01.jpg",
           "owned": true,
           "crop": {
             "x": 72,
@@ -1820,7 +1820,7 @@
         {
           "name": "【毛巾】超细纤维擦拭布 集合（未开封）",
           "link": "/collection/goods/buy_r25071505341_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25071505341_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25071505341_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -1832,7 +1832,7 @@
         {
           "name": "【毛巾】人物毛巾 瑛里华&白",
           "link": "/collection/goods/buy_r24011100754",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24011100754_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24011100754_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -1931,7 +1931,7 @@
         {
           "name": "【T恤】赤之约定 T 恤（L）",
           "link": "/collection/goods/buy_f24112611886",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24112611886_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24112611886_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -2020,37 +2020,37 @@
         {
           "name": "【桌垫】橡胶垫 瑛里华",
           "link": "/collection/goods/curtain_rubbermat_01",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial01.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_rubbermat_arterial01.jpg",
           "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 白 扑克牌",
           "link": "/collection/goods/curtain_rubbermat_02",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial02.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_rubbermat_arterial02.jpg",
           "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 桐叶 约会",
           "link": "/collection/goods/curtain_rubbermat_03",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial03.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_rubbermat_arterial03.jpg",
           "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 奏&阳菜 巫女服",
           "link": "/collection/goods/curtain_rubbermat_04",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial04.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_rubbermat_arterial04.jpg",
           "owned": true
         },
         {
           "name": "【桌垫】橡胶垫 瑛里华 猫耳女仆",
           "link": "/collection/goods/curtain_rubbermat_05",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_rubbermat_arterial05.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_rubbermat_arterial05.jpg",
           "owned": true
         },
         {
           "name": "【桌垫】A3 透明桌垫（未开封）",
           "link": "/collection/goods/buy_r26072702283",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26072702283_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26072702283_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -2830,7 +2830,7 @@
         {
           "name": "【包】Comiket 周边 包",
           "link": "/collection/goods/buy_m24012503040",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24012503040_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24012503040_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -2970,31 +2970,31 @@
         {
           "name": "【立牌】特大亚克力立牌 瑛里华",
           "link": "/collection/goods/sy_573056192",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial01-big.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_astand_arterial01-big.jpg",
           "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 白",
           "link": "/collection/goods/sy_573056193",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial02-big.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_astand_arterial02-big.jpg",
           "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 桐叶",
           "link": "/collection/goods/sy_573056194",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial03-big.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_astand_arterial03-big.jpg",
           "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 奏",
           "link": "/collection/goods/sy_573056195",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial04-big.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_astand_arterial04-big.jpg",
           "owned": true
         },
         {
           "name": "【立牌】特大亚克力立牌 阳菜",
           "link": "/collection/goods/sy_573056196",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/curtain_astand_arterial05-big.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/curtain_astand_arterial05-big.jpg",
           "owned": true
         },
         {
@@ -3099,7 +3099,7 @@
         {
           "name": "【立牌】等身大充气 POP 桐叶",
           "link": "/collection/goods/buy_m25042309399",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25042309399_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M25042309399_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -3143,7 +3143,7 @@
         {
           "name": "【画板】画板 阳菜（抱枕套特典）",
           "link": "/collection/goods/buy_m23120809154",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M23120809154_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M23120809154_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -3209,7 +3209,7 @@
         {
           "name": "【吧唧】方形吧唧 瑛里华（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_871763559",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/iris_square_erika.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/iris_square_erika.jpg",
           "owned": true,
           "crop": {
             "x": 10.1,
@@ -3220,7 +3220,7 @@
         {
           "name": "【吧唧】方形吧唧 白（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_871763560",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/sy_871763560-mwzo0536.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/sy_871763560-mwzo0536.jpg",
           "owned": true,
           "crop": {
             "x": 49.7,
@@ -3231,7 +3231,7 @@
         {
           "name": "【吧唧】方形吧唧 桐叶（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_871763561",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/sy_871763561-mwzo09cm.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/sy_871763561-mwzo09cm.jpg",
           "owned": true,
           "crop": {
             "x": 90.9,
@@ -3242,7 +3242,7 @@
         {
           "name": "【吧唧】方形吧唧 奏（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_871763562",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/sy_871763562-mwzo0bsk.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/sy_871763562-mwzo0bsk.jpg",
           "owned": true,
           "crop": {
             "x": 30.1,
@@ -3253,7 +3253,7 @@
         {
           "name": "【吧唧】方形吧唧 阳菜（Iris Mysteria 联动）",
           "link": "/collection/goods/sy_871763563",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/sy_871763563-mwzo0hh0.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/sy_871763563-mwzo0hh0.jpg",
           "owned": true,
           "crop": {
             "x": 70.7,
@@ -3627,7 +3627,7 @@
         {
           "name": "【纸袋】ChaosTCG 购物袋（べっかんこう绘）",
           "link": "/collection/goods/buy_i26090901872",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/I26090901872_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/I26090901872_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -3649,7 +3649,7 @@
         },
         {
           "name": "【复制原画】べっかんこう 签名复制原画 X-RATED（2021 新春）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_g_xrated.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_g_xrated.jpg",
           "owned": true,
           "link": "/collection/goods/v_goods_004",
           "star": true,
@@ -3728,7 +3728,7 @@
         {
           "name": "【文件夹】特典文件夹 集合",
           "link": "/collection/goods/buy_r23120801591_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120801591_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R23120801591_01.jpg",
           "owned": true,
           "crop": {
             "x": 54.7,
@@ -3739,7 +3739,7 @@
         {
           "name": "【文件夹】特典文件夹 五人立绘",
           "link": "/collection/goods/buy_r23120801591_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120801591_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R23120801591_01.jpg",
           "owned": true,
           "crop": {
             "x": 45,
@@ -3981,7 +3981,7 @@
         {
           "name": "【书签】特典书签 桐叶（便服）",
           "link": "/collection/goods/buy_r25090706050_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25090706050_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25090706050_01.jpg",
           "owned": true,
           "crop": {
             "x": 100,
@@ -4068,7 +4068,7 @@
         },
         {
           "name": "【徽章】Traveling August 2015 徽章",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_goods_007-mx08uc4j.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_goods_007-mx08uc4j.jpg",
           "owned": true,
           "link": "/collection/goods/v_goods_007",
           "crop": {
@@ -4113,7 +4113,7 @@
         {
           "name": "【布袋】束口袋",
           "link": "/collection/goods/buy_m24112012630",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24112012630_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24112012630_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4124,7 +4124,7 @@
         {
           "name": "【布袋】小包",
           "link": "/collection/goods/buy_r24100402708_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24100402708_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24100402708_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4135,7 +4135,7 @@
         {
           "name": "【耳机】入耳式耳机 奏&阳菜",
           "link": "/collection/goods/buy_r24100402708_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24100402708_02.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24100402708_02.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4146,7 +4146,7 @@
         {
           "name": "【POP】漫画选集 店头 POP 卡",
           "link": "/collection/goods/buy_r24020904996",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24020904996_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24020904996_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4157,7 +4157,7 @@
         {
           "name": "【POP】一迅社 DNA Media Comics 店头告知 POP",
           "link": "/collection/goods/buy_r24020800210",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24020800210_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24020800210_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4499,7 +4499,7 @@
         {
           "name": "【海报】店头宣传海报 瑛里华 PC 游戏告知",
           "link": "/collection/goods/buy_r26070402705",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26070402705_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26070402705_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4614,32 +4614,32 @@
         },
         {
           "name": "【海报】广播 CD「修智馆学院出差学生会」Vol.1 宣传海报",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/posters/local/v_po_radio_v1.jpg",
+          "img": "https://img.fortune-arterial.com/posters/local/v_po_radio_v1.jpg",
           "owned": true,
           "link": "/collection/goods/v_poster_001"
         },
         {
           "name": "【海报】广播 CD「修智馆学院出差学生会」Vol.2 宣传海报",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/posters/local/v_po_radio_v2.jpg",
+          "img": "https://img.fortune-arterial.com/posters/local/v_po_radio_v2.jpg",
           "owned": true,
           "link": "/collection/goods/v_poster_002"
         },
         {
           "name": "【海报】广播 CD「修智馆学院出差学生会」Vol.3 宣传海报",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/posters/local/v_po_radio_v3.jpg",
+          "img": "https://img.fortune-arterial.com/posters/local/v_po_radio_v3.jpg",
           "owned": true,
           "link": "/collection/goods/v_poster_003"
         },
         {
           "name": "【海报】广播 CD「修智馆学院出差学生会」Vol.4 宣传海报",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/posters/local/v_po_radio_v4.jpg",
+          "img": "https://img.fortune-arterial.com/posters/local/v_po_radio_v4.jpg",
           "owned": true,
           "link": "/collection/goods/v_poster_004"
         },
         {
           "name": "【海报】广播 CD「修智馆学院出差学生会」Vol.6 宣传海报",
           "link": "/collection/goods/buy_r26062404700",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26062404700_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26062404700_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4693,14 +4693,14 @@
         },
         {
           "name": "【海报】B2 宣传海报 阳菜（DVD/BD 第1卷）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/posters/local/v_po_haruna_bd.jpg",
+          "img": "https://img.fortune-arterial.com/posters/local/v_po_haruna_bd.jpg",
           "owned": true,
           "link": "/collection/goods/v_poster_005"
         },
         {
           "name": "【海报】B2 宣传海报 奏（DVD/BD 第1卷）",
           "link": "/collection/goods/buy_r26031610472",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26031610472_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26031610472_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4711,7 +4711,7 @@
         {
           "name": "【海报】PC 版游戏海报①",
           "link": "/collection/goods/buy_r26092102594",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26092102594_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26092102594_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4801,7 +4801,7 @@
         {
           "name": "【海报】B2 宣传海报 瑛里华（PS3 赤之约定）",
           "link": "/collection/goods/buy_m25120805868",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25120805868_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M25120805868_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4813,7 +4813,7 @@
         {
           "name": "【海报】Iris Mysteria B2 半裁海报 3（FA 联动）",
           "link": "/collection/goods/buy_m24011004703",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24011004703_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24011004703_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4824,7 +4824,7 @@
         {
           "name": "【海报】B2 海报（1E06004）",
           "link": "/collection/goods/buy_r26101104788",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26101104788_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26101104788_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4835,7 +4835,7 @@
         {
           "name": "【海报】电视动画宣传海报",
           "link": "/collection/goods/buy_r26092102580",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26092102580_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26092102580_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4846,7 +4846,7 @@
         {
           "name": "【海报】Gamaga 宣传海报 A3 瑛里华（眨眼）",
           "link": "/collection/goods/buy_r26082901651_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26082901651_02.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26082901651_02.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4857,7 +4857,7 @@
         {
           "name": "【海报】Gamaga 宣传海报 A3 瑛里华（微笑）",
           "link": "/collection/goods/buy_r26082901651_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26082901651_03.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26082901651_03.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4868,7 +4868,7 @@
         {
           "name": "【海报】Lycee Based Edition Ver.August 发售告知 B2 海报",
           "link": "/collection/goods/buy_r25081001865",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25081001865_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25081001865_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4880,7 +4880,7 @@
         {
           "name": "【海报】Lycee Ver.August 4.0 B2 宣传海报",
           "link": "/collection/goods/buy_r25080600004",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25080600004_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25080600004_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4892,7 +4892,7 @@
         {
           "name": "【海报】Gamaga 非卖品海报",
           "link": "/collection/goods/buy_r24032103257",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24032103257_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24032103257_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4903,7 +4903,7 @@
         {
           "name": "【海报】Lycee Ver.August 3.0 B2 宣传海报",
           "link": "/collection/goods/buy_r24020503551",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24020503551_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24020503551_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4920,38 +4920,38 @@
       "items": [
         {
           "name": "【宣传单】女主角集合（2008年1月25日发售决定）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_533.jpg",
+          "img": "https://img.fortune-arterial.com/flyers/local/v_flyer_533.jpg",
           "owned": true,
           "link": "/collection/goods/v_flyer_002"
         },
         {
           "name": "【宣传单】瑛里华 眨眼（初回限定版发售告知）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_524.jpg",
+          "img": "https://img.fortune-arterial.com/flyers/local/v_flyer_524.jpg",
           "owned": true,
           "link": "/collection/goods/v_flyer_001"
         },
         {
           "name": "【宣传单】イメージテーマ「It's my Precious Time!」",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_543.jpg",
+          "img": "https://img.fortune-arterial.com/flyers/local/v_flyer_543.jpg",
           "owned": true,
           "link": "/collection/goods/v_flyer_003"
         },
         {
           "name": "【宣传单】瑛里华「好評発売中」",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_553.jpg",
+          "img": "https://img.fortune-arterial.com/flyers/local/v_flyer_553.jpg",
           "owned": true,
           "link": "/collection/goods/v_flyer_004"
         },
         {
           "name": "【宣传单】瑛里华 坐姿（初回限定版 2008年1月25日发售）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/flyers/local/v_flyer_559.jpg",
+          "img": "https://img.fortune-arterial.com/flyers/local/v_flyer_559.jpg",
           "owned": true,
           "link": "/collection/goods/v_flyer_005"
         },
         {
           "name": "【宣传单】Azone 1/3·1/6 娃娃 瑛里华 目录",
           "link": "/collection/goods/buy_f25010611089",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F25010611089_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F25010611089_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -4963,7 +4963,7 @@
         {
           "name": "【宣传单】Azone 60cm 娃娃 阳菜 目录",
           "link": "/collection/goods/buy_f25010611086",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F25010611086_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F25010611086_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5057,19 +5057,19 @@
         },
         {
           "name": "【明信片】白&雪丸（电击 G's）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1177.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1177.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_001"
         },
         {
           "name": "【明信片】瑛里华（电击 G's）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1189.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1189.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_002"
         },
         {
           "name": "【明信片】瑛里华（Comptiq 附赠）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_comptiq.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_comptiq.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_003",
           "crop": {
@@ -5081,32 +5081,32 @@
         },
         {
           "name": "【明信片】瑛里华（WonderGOO）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_wondergoo_erika.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_wondergoo_erika.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_004"
         },
         {
           "name": "【明信片】白（WonderGOO）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_wondergoo_shiro.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_wondergoo_shiro.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_005"
         },
         {
           "name": "【明信片】瑛里华 和服（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_erika_kimono.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_erika_kimono.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_card_006"
         },
         {
           "name": "【明信片】瑛里华（Gamaga）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_gamaga.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_gamaga.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_007"
         },
         {
           "name": "【明信片】Q 版三人（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_chibi3.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_chibi3.jpg",
           "owned": true,
           "star": true,
           "crop": {
@@ -5118,20 +5118,20 @@
         },
         {
           "name": "【明信片】瑛里华&桐叶&白（动画 OP/ED BOX 特典）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_opbox.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_opbox.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_009"
         },
         {
           "name": "【明信片】白（小说特典，ハーヴェスト出版）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_novel_shiro.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_novel_shiro.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_010"
         },
         {
           "name": "【明信片】赤之约定 明信片②（2011 年历卡）",
           "link": "/collection/goods/buy_r24112904951",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24112904951_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24112904951_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5142,7 +5142,7 @@
         {
           "name": "【明信片】赤之约定 明信片①（2011 年历卡）",
           "link": "/collection/goods/buy_r24112904833",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24112904833_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24112904833_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5153,7 +5153,7 @@
         {
           "name": "【插画卡】儿玉树 特典插画明信片 四人",
           "link": "/collection/goods/buy_m24011004659_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24011004659_03.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24011004659_03.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5174,13 +5174,13 @@
         },
         {
           "name": "【插画卡】儿玉树 亲笔留言卡（Gamers 漫画特典）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1201.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1201.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_011"
         },
         {
           "name": "【插画卡】儿玉树 透明卡（漫画特典）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_clear.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_clear.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_012",
           "crop": {
@@ -5191,37 +5191,37 @@
         },
         {
           "name": "【插画卡】儿玉树 线稿卡①（漫画特典）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_sketch1.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_sketch1.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_013"
         },
         {
           "name": "【插画卡】儿玉树 线稿卡②（漫画特典）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_sketch2.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_sketch2.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_014"
         },
         {
           "name": "【插画卡】抱枕现场购买特典长卡 阳菜（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil1.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_p_pil1.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_015"
         },
         {
           "name": "【插画卡】抱枕现场购买特典长卡 瑛里华①（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil2.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_p_pil2.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_016"
         },
         {
           "name": "【插画卡】抱枕现场购买特典长卡 瑛里华②（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_pil3.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_p_pil3.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_017"
         },
         {
           "name": "【相卡】瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1145.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1145.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -5234,14 +5234,14 @@
         {
           "name": "【插画卡】儿玉树 特典插画明信片 瑛里华&孝平",
           "link": "/collection/goods/buy_m24011004659_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24011004659_02.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24011004659_02.jpg",
           "owned": true,
           "star": true
         },
         {
           "name": "【插画卡】插画卡",
           "link": "/collection/goods/buy_r26042605716",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26042605716_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26042605716_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5253,7 +5253,7 @@
         {
           "name": "【插画卡】特典插画明信片①",
           "link": "/collection/goods/buy_r24112406103",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24112406103_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24112406103_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5265,7 +5265,7 @@
         {
           "name": "【插画卡】特典插画明信片③",
           "link": "/collection/goods/buy_r24112405710",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24112405710_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24112405710_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5277,7 +5277,7 @@
         {
           "name": "【插画卡】特典插画明信片④",
           "link": "/collection/goods/buy_r24112405393",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24112405393_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24112405393_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5287,44 +5287,44 @@
         },
         {
           "name": "【相卡】桐叶",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1133.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1133.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_019"
         },
         {
           "name": "【相卡】瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1139.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1139.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_020"
         },
         {
           "name": "【相卡】白&瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1153.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1153.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_022"
         },
         {
           "name": "【相卡】桐叶",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1161.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1161.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_023"
         },
         {
           "name": "【相卡】瑛里华&白",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1171.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1171.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_card_024"
         },
         {
           "name": "【相卡】白&瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1209.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1209.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_025"
         },
         {
           "name": "【相卡】女主角集合",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_1239.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_1239.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_card_028",
@@ -5336,34 +5336,34 @@
         },
         {
           "name": "【相卡】白&瑛里华&桐叶",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_anth1.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_anth1.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_card_029"
         },
         {
           "name": "【相卡】阳菜&瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_pc_anth2.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_pc_anth2.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_card_030"
         },
         {
           "name": "【相卡】阳菜&奏",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v7_pc_haruna_kanade.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v7_pc_haruna_kanade.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_031"
         },
         {
           "name": "【相卡】白（兔子，横版）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/postcards/local/v_p_shiro_rabbit.jpg",
+          "img": "https://img.fortune-arterial.com/postcards/local/v_p_shiro_rabbit.jpg",
           "owned": true,
           "link": "/collection/goods/v_card_032"
         },
         {
           "name": "【相卡】相片 四人集合（横版）",
           "link": "/collection/goods/buy_m24110310174_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 9,
@@ -5374,7 +5374,7 @@
         {
           "name": "【相卡】Comptiq 相片 瑛里华",
           "link": "/collection/goods/buy_m24110310174_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 58,
@@ -5385,7 +5385,7 @@
         {
           "name": "【相卡】相片 瑛里华（相框）",
           "link": "/collection/goods/buy_m24110310174_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 97,
@@ -5396,7 +5396,7 @@
         {
           "name": "【相卡】相片 瑛里华 双人（横版）",
           "link": "/collection/goods/buy_m24110310174_4",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 11,
@@ -5408,7 +5408,7 @@
         {
           "name": "【相卡】相片 桐叶（相框）",
           "link": "/collection/goods/buy_m24110310174_5",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 62,
@@ -5419,7 +5419,7 @@
         {
           "name": "【相卡】相片 白（相框）",
           "link": "/collection/goods/buy_m24110310174_6",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_01.jpg",
           "owned": true,
           "crop": {
             "x": 100,
@@ -5430,7 +5430,7 @@
         {
           "name": "【相卡】赤之约定 非卖品相片",
           "link": "/collection/goods/buy_r25012401622",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25012401622_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25012401622_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5442,7 +5442,7 @@
         {
           "name": "【相卡】赤之约定 相片 阳菜（圣诞）",
           "link": "/collection/goods/buy_m24110310174_7",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24110310174_02.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24110310174_02.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5454,7 +5454,7 @@
         {
           "name": "【相卡】赤之约定 特典相片 瑛里华",
           "link": "/collection/goods/buy_f24092006481_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24092006481_03.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24092006481_03.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5466,7 +5466,7 @@
         {
           "name": "【相卡】赤之约定 特典相片 白",
           "link": "/collection/goods/buy_f24092006481_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24092006481_02.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24092006481_02.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5478,7 +5478,7 @@
         {
           "name": "【相卡】赤之约定 特典相片 桐叶",
           "link": "/collection/goods/buy_f24092006481_5",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24092006481_06.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24092006481_06.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5490,7 +5490,7 @@
         {
           "name": "【相卡】赤之约定 特典相片 奏&阳菜",
           "link": "/collection/goods/buy_f24092006481_4",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24092006481_05.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24092006481_05.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5502,7 +5502,7 @@
         {
           "name": "【相卡】赤之约定 特典相片 阳菜（体操服）",
           "link": "/collection/goods/buy_f24092006481_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/F24092006481_04.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/F24092006481_04.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -5514,7 +5514,7 @@
         {
           "name": "【相卡】Gamers 特典相片 集合",
           "link": "/collection/goods/buy_m24051009246_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24051009246_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24051009246_01.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -5526,7 +5526,7 @@
         {
           "name": "【相卡】Gamers 特典相片 白（兔子）",
           "link": "/collection/goods/buy_m24051009246_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24051009246_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24051009246_01.jpg",
           "owned": true,
           "crop": {
             "x": 91,
@@ -5538,7 +5538,7 @@
         {
           "name": "【相卡】Gamers 特典相片",
           "link": "/collection/goods/buy_r26061202525",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26061202525_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26061202525_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -6163,7 +6163,7 @@
         {
           "name": "【电话卡】桐叶（TECH GIAN 人气投票抽奖）",
           "link": "/collection/goods/sy_978095845",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R26071901152_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R26071901152_01.jpg",
           "owned": true,
           "crop": {
             "x": 45,
@@ -6187,7 +6187,7 @@
         {
           "name": "【电话卡】奏 2 枚组（TECH GIAN 人气投票抽奖）",
           "link": "/collection/goods/tg_kanade",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/buyee/R25081803205_01.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/buyee/R25081803205_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -6506,56 +6506,56 @@
         },
         {
           "name": "【电话卡】桐叶 和服折扇（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_kiriha_fan.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_kiriha_fan.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_001"
         },
         {
           "name": "【电话卡】桐叶 白衬衫（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_kiriha_shirt.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_kiriha_shirt.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_002"
         },
         {
           "name": "【电话卡】阳菜 粉色和服（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_haruna_kimono.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_haruna_kimono.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_003"
         },
         {
           "name": "【电话卡】瑛里华 巫女（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_erika_miko.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_erika_miko.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_004"
         },
         {
           "name": "【电话卡】奏&阳菜 制服（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_kanade_haruna.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_kanade_haruna.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_006"
         },
         {
           "name": "【电话卡】女主角 5 人 制服（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_group5.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_group5.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_007"
         },
         {
           "name": "【电话卡】瑛里华&白等 粉框横版（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v7_tel_pinkframe.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v7_tel_pinkframe.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_008"
         },
         {
           "name": "【电话卡】Lycee 主题电话卡 女仆（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/local/v_t_lycee_maid.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/local/v_t_lycee_maid.jpg",
           "owned": true,
           "link": "/collection/goods/v_telecard_009"
         },
         {
           "name": "【电话卡】FORTUNE ARTERIAL テレカ3",
           "link": "/collection/goods/buy_r23120902232",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120902232_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R23120902232_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -6566,7 +6566,7 @@
         {
           "name": "【图书卡】奏&阳菜（泳装）",
           "link": "/collection/goods/buy_r24100402708_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24100402708_03.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24100402708_03.jpg",
           "owned": true,
           "crop": {
             "x": 51.8,
@@ -6622,7 +6622,7 @@
         {
           "name": "【电话卡】瑛里华（Comptiq 2008年3月号抽奖）",
           "link": "/collection/goods/fj_z723276810",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/telecard/fromjapan/z723276810_1.jpg",
+          "img": "https://img.fortune-arterial.com/telecard/fromjapan/z723276810_1.jpg",
           "owned": false,
           "crop": {
             "x": 0,
@@ -6662,7 +6662,7 @@
         },
         {
           "name": "【卡牌】ChaosTCG OS：August 1.00 体验卡组",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_chaos_trial.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_chaos_trial.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_001"
         },
@@ -6734,99 +6734,99 @@
         },
         {
           "name": "【卡牌】Lycee / ChaosTCG 单卡 瑛里华（多张）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_lycee_erika.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_lycee_erika.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_002"
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 1.0 开盒抽到的 FA 卡（十几张）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_150.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_150.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_003"
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 瑛里华 SP",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_168.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_168.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_tcg_004"
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 KR 卡（August 其他作品）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_176.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_176.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_005"
         },
         {
           "name": "【卡牌】ChaosTCG 单卡 FA（早期收的）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_196.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_196.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_006"
         },
         {
           "name": "【卡牌】Lycee（旧版）单卡 FA",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_203.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_203.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_007"
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 瑛里华",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_334.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_334.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_008"
         },
         {
           "name": "【卡牌】Lycee Overture Ver.August 3.0 FA 普通卡（单买补齐）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_344.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_344.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_009"
         },
         {
           "name": "【卡牌】Lycee（旧版）FA 卡合集（白）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_366.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_366.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_010"
         },
         {
           "name": "【卡牌】Lycee（旧版）FA 卡合集（孝平）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_381.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_381.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_011"
         },
         {
           "name": "【卡牌】Lycee（旧版）Variety Box 特典卡",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_395.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_395.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_012"
         },
         {
           "name": "【卡牌】Lycee（旧版）FA 卡合集（瑛里华）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_440.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_440.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_013"
         },
         {
           "name": "【卡牌】ChaosTCG / Lycee 卡包（空包装，十年前）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_718.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_718.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_014"
         },
         {
           "name": "【卡牌】ChaosTCG 瑛里华 闪卡「学院生活を楽しむ吸血鬼」",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/tcg_825.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/tcg_825.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_015"
         },
         {
           "name": "【卡牌】Lycee 瑛里华 泳装闪卡",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/tcg/local/v_t_lycee_swim.jpg",
+          "img": "https://img.fortune-arterial.com/tcg/local/v_t_lycee_swim.jpg",
           "owned": true,
           "link": "/collection/goods/v_tcg_016"
         },
         {
           "name": "【卡牌】旧 Lycee 瑛里华 Neo Parallel 闪卡",
           "link": "/collection/goods/buy_m25012613311",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25012613311_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M25012613311_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -6837,7 +6837,7 @@
         {
           "name": "【卡牌】ChaosTCG PR-045 阳菜（错版）",
           "link": "/collection/goods/buy_r25012800139",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25012800139_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25012800139_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7137,7 +7137,7 @@
         {
           "name": "【桌垫】ChaosTCG August 2.00 布制游戏垫",
           "link": "/collection/goods/buy_r24041801163",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R24041801163_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R24041801163_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7154,7 +7154,7 @@
         {
           "name": "【单曲】「It's my Precious Time!」",
           "link": "/collection/media/single_precious_time",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/single_precious_time-mwxt0k2g.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/single_precious_time-mwxt0k2g.jpg",
           "owned": true
         },
         {
@@ -7218,31 +7218,31 @@
         {
           "name": "【广播剧】through the season #1 瑛里华",
           "link": "/collection/media/drama_cd_1",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/drama_cd_1-mwxt4bz4.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/drama_cd_1-mwxt4bz4.jpg",
           "owned": true
         },
         {
           "name": "【广播剧】through the season #2 白",
           "link": "/collection/media/drama_cd_2",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/drama_cd_2-mwxt487u.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/drama_cd_2-mwxt487u.jpg",
           "owned": true
         },
         {
           "name": "【广播剧】through the season #3 桐叶",
           "link": "/collection/media/drama_cd_3",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/drama_cd_3-mwxt44sg.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/drama_cd_3-mwxt44sg.jpg",
           "owned": true
         },
         {
           "name": "【广播剧】through the season #4 奏",
           "link": "/collection/media/drama_cd_4",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/drama_cd_4-mwxt4ey0.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/drama_cd_4-mwxt4ey0.jpg",
           "owned": true
         },
         {
           "name": "【广播剧】through the season #5 阳菜",
           "link": "/collection/media/drama_cd_5",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/drama_cd_5-mwxt4h7w.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/drama_cd_5-mwxt4h7w.jpg",
           "owned": true
         },
         {
@@ -7540,25 +7540,25 @@
         {
           "name": "【歌曲集】AUGUST 10th MEMORIAL 限定版（附 LP 黑胶）",
           "link": "/collection/media/august_10th_memorial",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_memorial10.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/august_memorial10.jpg",
           "owned": true
         },
         {
           "name": "【歌曲集】ARTICLE AUGUST Traveling August 录音专辑",
           "link": "/collection/media/august_article",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_article.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/august_article.jpg",
           "owned": true
         },
         {
           "name": "【演唱会】Traveling August 演唱会 Blu-ray&DVD",
           "link": "/collection/media/august_traveling_concert",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_traveling.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/august_traveling.jpg",
           "owned": true
         },
         {
           "name": "【钢琴集】SPROUT AUGUST 历代歌曲钢琴改编集",
           "link": "/collection/media/august_sprout",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/media/local/august_sprout.jpg",
+          "img": "https://img.fortune-arterial.com/media/local/august_sprout.jpg",
           "owned": true
         }
       ]
@@ -7570,7 +7570,7 @@
         {
           "name": "【漫画】官方正篇 Vol.1",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047150812.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047150812.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -7581,7 +7581,7 @@
         {
           "name": "【漫画】官方正篇 Vol.2",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047151628.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047151628.jpg",
           "owned": true,
           "crop": {
             "x": 100,
@@ -7592,7 +7592,7 @@
         {
           "name": "【漫画】官方正篇 Vol.3",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047153042.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047153042.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7603,7 +7603,7 @@
         {
           "name": "【漫画】官方正篇 Vol.4",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155190.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047155190.jpg",
           "owned": true,
           "crop": {
             "x": 0,
@@ -7614,7 +7614,7 @@
         {
           "name": "【漫画】官方正篇 Vol.5",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155473.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047155473.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7625,7 +7625,7 @@
         {
           "name": "【漫画】官方正篇 Vol.6 限定版",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784049008036.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784049008036.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7636,7 +7636,7 @@
         {
           "name": "【漫画】官方正篇 Vol.6 通常版",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047156432.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047156432.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7647,7 +7647,7 @@
         {
           "name": "【漫画】官方正篇 Vol.7",
           "link": "/collection/books/kadokawa_comic",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047157804.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047157804.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7658,7 +7658,7 @@
         {
           "name": "【漫画】赤之约定 官方漫画选集",
           "link": "/collection/books/alacarte",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047155787.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047155787.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7669,7 +7669,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.1",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757741652.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757741652.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7680,7 +7680,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.2",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757743410.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757743410.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7691,7 +7691,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.3",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757744295.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757744295.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7702,7 +7702,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.4",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757745346.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757745346.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7713,7 +7713,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.5",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757746749.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757746749.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7724,7 +7724,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.6",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757748439.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757748439.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7735,7 +7735,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.7",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757749283.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757749283.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7746,7 +7746,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.8",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047260092.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047260092.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7757,7 +7757,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.9",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047262157.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047262157.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7768,7 +7768,7 @@
         {
           "name": "【漫画】四格漫画合集 Vol.10",
           "link": "/collection/books/magicu4koma",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784047263260.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784047263260.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7779,7 +7779,7 @@
         {
           "name": "【漫画】Character's Prelude",
           "link": "/collection/books/prelude",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048671552.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784048671552.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7790,7 +7790,7 @@
         {
           "name": "【漫画】漫画选集（一迅社）Vol.1",
           "link": "/collection/books/ichijinsha_anthology",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004473.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784758004473.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7801,7 +7801,7 @@
         {
           "name": "【漫画】漫画选集（一迅社）Vol.2",
           "link": "/collection/books/ichijinsha_anthology",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004565.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784758004565.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7812,7 +7812,7 @@
         {
           "name": "【漫画】漫画选集（一迅社）Vol.3",
           "link": "/collection/books/ichijinsha_anthology",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784758004664.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784758004664.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7845,7 +7845,7 @@
         {
           "name": "【小说】瑛里华篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434119651.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434119651.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7856,7 +7856,7 @@
         {
           "name": "【小说】白篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434121203.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434121203.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7867,7 +7867,7 @@
         {
           "name": "【小说】桐叶篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434123092.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434123092.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7878,7 +7878,7 @@
         {
           "name": "【小说】奏篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434127779.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434127779.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7889,7 +7889,7 @@
         {
           "name": "【小说】阳菜篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434128646.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434128646.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7900,7 +7900,7 @@
         {
           "name": "【小说】完结篇",
           "link": "/collection/books/novel",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784434131448.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784434131448.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -7911,7 +7911,7 @@
         {
           "name": "【杂志】TECH GIAN 前导杂志",
           "link": "/collection/books/techgian_prelude",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784757739451.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784757739451.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -8010,7 +8010,7 @@
         {
           "name": "【杂志】电击 G's magazine 2008年2月号（附录）",
           "link": "/collection/books/sy_znonu2802",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/gs_magazine_2008_02.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/gs_magazine_2008_02.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -8020,7 +8020,7 @@
         },
         {
           "name": "【杂志】电击 G's magazine 2008年3月号",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_539.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_539.jpg",
           "owned": true,
           "link": "/collection/books/v_book_002"
         },
@@ -8103,56 +8103,56 @@
         },
         {
           "name": "【杂志】电击姬 2008年2月号",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_530.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_530.jpg",
           "owned": true,
           "link": "/collection/books/v_book_001"
         },
         {
           "name": "【杂志】Comptiq 2010年5月号",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_616.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_616.jpg",
           "owned": true,
           "link": "/collection/books/v_book_003"
         },
         {
           "name": "【杂志】Comptiq 2011年1月号",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_629.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_629.jpg",
           "owned": true,
           "link": "/collection/books/v_book_004"
         },
         {
           "name": "【杂志】Gamaga 2008年3月号",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_440.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_440.jpg",
           "owned": true,
           "link": "/collection/books/v_book_005"
         },
         {
           "name": "【杂志】オーガストバラエティブック（Gamaga）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_421.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_421.jpg",
           "owned": true,
           "link": "/collection/books/v_book_006"
         },
         {
           "name": "【杂志】FOUR SEASONS MEMORIAL（C77）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_477.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_477.jpg",
           "owned": true,
           "link": "/collection/books/v_book_007"
         },
         {
           "name": "【杂志】萌动漫 Vol.8",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_637.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_637.jpg",
           "owned": true,
           "link": "/collection/books/v_book_008"
         },
         {
           "name": "【杂志】动漫周刊",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/local/v_mag_655.jpg",
+          "img": "https://img.fortune-arterial.com/books/local/v_mag_655.jpg",
           "owned": true,
           "link": "/collection/books/v_book_009"
         },
         {
           "name": "【杂志】PUSH!! 2007年9月号（瑛里华封面）",
           "link": "/collection/books/buy_m24100408704",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M24100408704_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M24100408704_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -8163,7 +8163,7 @@
         {
           "name": "【杂志】电击 G's magazine 2008年1月号",
           "link": "/collection/books/buy_r23120802381",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R23120802381_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R23120802381_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -8174,7 +8174,7 @@
         {
           "name": "【画集】游戏设定集",
           "link": "/collection/books/perfect_visual_book",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048671583.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784048671583.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -8185,7 +8185,7 @@
         {
           "name": "【画集】赤之约定 官方视觉指南",
           "link": "/collection/books/akai_yakusoku_visual_guide",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/books/9784048545891.jpg",
+          "img": "https://img.fortune-arterial.com/books/9784048545891.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -10003,7 +10003,7 @@
         },
         {
           "name": "【同人本】瑛里华 和服封面（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1557.jpg",
+          "img": "https://img.fortune-arterial.com/doujin/local/v_dj_1557.jpg",
           "owned": true,
           "link": "/collection/doujin/v_doujin_001",
           "crop": {
@@ -10015,13 +10015,13 @@
         },
         {
           "name": "【同人本】瑛里华 Q版群像封面（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1601.jpg",
+          "img": "https://img.fortune-arterial.com/doujin/local/v_dj_1601.jpg",
           "owned": true,
           "link": "/collection/doujin/v_doujin_004"
         },
         {
           "name": "【同人本】FORTUNE ARTERIAL FanBook PRECIOUS TIME（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1618.jpg",
+          "img": "https://img.fortune-arterial.com/doujin/local/v_dj_1618.jpg",
           "owned": true,
           "link": "/collection/doujin/v_doujin_005",
           "crop": {
@@ -10033,7 +10033,7 @@
         },
         {
           "name": "【同人本】桐葉アデリアル（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1629.jpg",
+          "img": "https://img.fortune-arterial.com/doujin/local/v_dj_1629.jpg",
           "owned": true,
           "link": "/collection/doujin/v_doujin_006",
           "crop": {
@@ -10081,7 +10081,7 @@
         },
         {
           "name": "【同人本】【R18】棕发少女封面（视频截图，待补充）",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/doujin/local/v_dj_1596.jpg",
+          "img": "https://img.fortune-arterial.com/doujin/local/v_dj_1596.jpg",
           "owned": true,
           "r18": true,
           "link": "/collection/doujin/v_doujin_007"
@@ -10089,7 +10089,7 @@
         {
           "name": "【同人本】ふぁ。（みつてん，复印本）",
           "link": "/collection/doujin/buy_r25020703760",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/R25020703760_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/R25020703760_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -10271,7 +10271,7 @@
         },
         {
           "name": "【盘子】角色盘 TYPE E 阳菜",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/goods/local/v_plate_fuuki.jpg",
+          "img": "https://img.fortune-arterial.com/goods/local/v_plate_fuuki.jpg",
           "owned": true,
           "star": true,
           "link": "/collection/goods/v_goods_009"
@@ -10279,7 +10279,7 @@
         {
           "name": "【画板】角色画板 伽耶",
           "link": "/collection/goods/buy_m25111713123",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/buyee/M25111713123_01.jpg",
+          "img": "https://img.fortune-arterial.com/buyee/M25111713123_01.jpg",
           "owned": true,
           "crop": {
             "x": 50,
@@ -10297,7 +10297,7 @@
         {
           "name": "【游戏】PS3 FORTUNE ARTERIAL 赤之约定",
           "link": "/collection/games/sy_103000813",
-          "img": "https://pub-621e14fe346245c48762cbb366326522.r2.dev/unreleased/local/sy_103000813-mx0d9mre.jpg",
+          "img": "https://img.fortune-arterial.com/unreleased/local/sy_103000813-mx0d9mre.jpg",
           "owned": false
         },
         {
