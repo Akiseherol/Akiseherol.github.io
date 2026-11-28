@@ -8449,175 +8449,9 @@
       ]
     },
     {
-      "key": "doujin",
-      "title": "同人制品 / Doujin",
+      "key": "doujinbook",
+      "title": "同人本 / Doujinshi",
       "items": [
-        {
-          "name": "【同人音乐】かなでSP / Dragon Tree",
-          "link": "/collection/doujin/sy_186114348",
-          "img": "/img/suruga/186114348.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人音乐】Wandering AUGUST / MMUSE",
-          "link": "/collection/doujin/sy_186125074",
-          "img": "/img/suruga/186125074.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人音乐】えむてん! -Wandering Anniversary- / Magical Muse",
-          "link": "/collection/doujin/sy_186152706",
-          "img": "/img/suruga/186152706.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【同人音乐】修智管ビッグバンド / Magical Muse",
-          "link": "/collection/doujin/sy_186153117",
-          "img": "/img/suruga/186153117.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【色纸】红濑桐叶（はるこ）/ ∞Material",
-          "link": "/collection/doujin/sy_984016471",
-          "img": "/img/suruga/984016471.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【留言板】瑛里华 / 翠屋本舗",
-          "link": "/collection/doujin/sy_984022866",
-          "img": "/img/suruga/984022866.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【文件夹】A4 瑛里华（さとうきみあつ）/ あじのり",
-          "link": "/collection/doujin/sy_984902053",
-          "img": "/img/suruga/984902053.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【文件夹】A4 瑛里华（如月みっく）/ PASTEL WING",
-          "link": "/collection/doujin/sy_984902680",
-          "img": "/img/suruga/984902680.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【文件夹】PASTEL WING (如月みっく) FORTUNE ARTERIAL C76 千堂瑛里華A4クリアファイル",
-          "link": "/collection/doujin/md_1137355803",
-          "img": "/img/mandarake/m1137355803.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】桐叶（EGOの実）/ TRUFFE",
-          "link": "/collection/doujin/sy_985011012",
-          "img": "/img/suruga/985011012.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华（会田孝信）/ Ask",
-          "link": "/collection/doujin/sy_985024023",
-          "img": "/img/suruga/985024023.jpg",
-          "owned": true,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】【R18】えりりん抱枕套 / PASTEL WING",
-          "link": "/collection/doujin/md_1265618795",
-          "img": "/img/mandarake/m1265618795.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          },
-          "r18": true
-        },
-        {
-          "name": "【抱枕套】阳菜 122 / 抱け枕工房",
-          "link": "/collection/doujin/md_1175594276",
-          "img": "/img/mandarake/m1175594276.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】阳菜 407 / 抱け枕工房",
-          "link": "/collection/doujin/md_1166275837",
-          "img": "/img/mandarake/m1166275837.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
-        {
-          "name": "【抱枕套】瑛里华 331 / 抱け枕工房",
-          "link": "/collection/doujin/md_e695549",
-          "img": "/img/mandarake/e695549.jpg",
-          "owned": false,
-          "crop": {
-            "x": 50,
-            "y": 0,
-            "z": 1
-          }
-        },
         {
           "name": "【同人本】FORTUNE ARTERIAL FANBOOK",
           "link": "/collection/doujin/sy_zhore52226",
@@ -10260,6 +10094,178 @@
           "crop": {
             "x": 50,
             "y": 50,
+            "z": 1
+          }
+        }
+      ]
+    },
+    {
+      "key": "doujin",
+      "title": "同人制品 / Doujin Goods",
+      "items": [
+        {
+          "name": "【同人音乐】かなでSP / Dragon Tree",
+          "link": "/collection/doujin/sy_186114348",
+          "img": "/img/suruga/186114348.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【同人音乐】Wandering AUGUST / MMUSE",
+          "link": "/collection/doujin/sy_186125074",
+          "img": "/img/suruga/186125074.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【同人音乐】えむてん! -Wandering Anniversary- / Magical Muse",
+          "link": "/collection/doujin/sy_186152706",
+          "img": "/img/suruga/186152706.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【同人音乐】修智管ビッグバンド / Magical Muse",
+          "link": "/collection/doujin/sy_186153117",
+          "img": "/img/suruga/186153117.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【色纸】红濑桐叶（はるこ）/ ∞Material",
+          "link": "/collection/doujin/sy_984016471",
+          "img": "/img/suruga/984016471.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【留言板】瑛里华 / 翠屋本舗",
+          "link": "/collection/doujin/sy_984022866",
+          "img": "/img/suruga/984022866.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【文件夹】A4 瑛里华（さとうきみあつ）/ あじのり",
+          "link": "/collection/doujin/sy_984902053",
+          "img": "/img/suruga/984902053.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【文件夹】A4 瑛里华（如月みっく）/ PASTEL WING",
+          "link": "/collection/doujin/sy_984902680",
+          "img": "/img/suruga/984902680.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【文件夹】PASTEL WING (如月みっく) FORTUNE ARTERIAL C76 千堂瑛里華A4クリアファイル",
+          "link": "/collection/doujin/md_1137355803",
+          "img": "/img/mandarake/m1137355803.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】桐叶（EGOの実）/ TRUFFE",
+          "link": "/collection/doujin/sy_985011012",
+          "img": "/img/suruga/985011012.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】瑛里华（会田孝信）/ Ask",
+          "link": "/collection/doujin/sy_985024023",
+          "img": "/img/suruga/985024023.jpg",
+          "owned": true,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】【R18】えりりん抱枕套 / PASTEL WING",
+          "link": "/collection/doujin/md_1265618795",
+          "img": "/img/mandarake/m1265618795.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          },
+          "r18": true
+        },
+        {
+          "name": "【抱枕套】阳菜 122 / 抱け枕工房",
+          "link": "/collection/doujin/md_1175594276",
+          "img": "/img/mandarake/m1175594276.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】阳菜 407 / 抱け枕工房",
+          "link": "/collection/doujin/md_1166275837",
+          "img": "/img/mandarake/m1166275837.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
+            "z": 1
+          }
+        },
+        {
+          "name": "【抱枕套】瑛里华 331 / 抱け枕工房",
+          "link": "/collection/doujin/md_e695549",
+          "img": "/img/mandarake/e695549.jpg",
+          "owned": false,
+          "crop": {
+            "x": 50,
+            "y": 0,
             "z": 1
           }
         },
