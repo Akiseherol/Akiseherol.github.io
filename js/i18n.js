@@ -212,7 +212,8 @@
       '贴纸': 'Sticker', '色纸': 'Shikishi', '书签': 'Bookmark', '帽子': 'Hat', '筷子': 'Chopsticks', '怀表链': 'Watch Chain',
       '手机壳': 'Phone Case', '垫板': 'Pencil Board', '复制原画': 'Reproduction Art', 'QUO卡': 'QUO Card', '数据CD': 'Data CD',
       '语音CD': 'Voice CD', 'BD': 'BD', '歌曲集': 'Song Collection', '演唱会': 'Concert', '钢琴集': 'Piano Album',
-      '小说': 'Novel', '小册子': 'Booklet', 'コピー誌': 'Copy Book', '準備号': 'Preview Issue', '悠木かなで/YUKI KANADE': 'Kanade Yuki'
+      '小说': 'Novel', '小册子': 'Booklet', 'コピー誌': 'Copy Book', '準備号': 'Preview Issue', '悠木かなで/YUKI KANADE': 'Kanade Yuki',
+      '已购': 'Purchased', '原画/已购': 'Original Art / Purchased', '待确认': 'TBD', '画板': 'Picture Plate', 'POP': 'POP', '布袋': 'Pouch', '耳机': 'Earphones'
     };
     for (var t in more) if (!TAGS[t]) TAGS[t] = more[t];
     if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();

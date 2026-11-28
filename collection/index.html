@@ -27,7 +27,7 @@
 <meta property="og:description" content="&#x2F;* 1. 让主面板正常显示 *&#x2F; .mfc-main-board {    display: block !important;  }  &#x2F;* 2. ✨ 在这里加上顶部外边距，把整个大卡片区域往下顶 *&#x2F; .mfc-container {   margin-top: 80px !important;  }  &#x2F;* 3. 分类标题栏可以点击展开 &#x2F; 收起 *&#x2F; .mfc-header { cur">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2026-06-15T04:00:00.000Z">
-<meta property="article:modified_time" content="2026-11-27T23:05:50.704Z">
+<meta property="article:modified_time" content="2026-11-28T12:06:57.504Z">
 <meta property="article:author" content="Akiseherol">
 <meta name="twitter:card" content="summary_large_image">
   
@@ -441,10 +441,12 @@
 <script>
 (function () {
   var root = document.getElementById('mfc-root');
-  // 封面裁剪：crop = { x, y, z }，x/y 是看图片的哪个位置（%），z 是放大倍数
+  // 封面裁剪：crop = { x, y, z, r, f }，x/y 是看图片的哪个位置（%），z 是放大倍数，r 是顺时针旋转角度（0/90/180/270），f 为 true 时左右翻转
   function cover(i) {
     var c = i.crop; if (!c) return 'width:100%;height:100%;object-fit:cover;';
-    var pos = (c.x != null ? c.x : 50) + '% ' + (c.y != null ? c.y : 50) + '%';
+    var x = c.x != null ? c.x : 50, y = c.y != null ? c.y : 50, z = +c.z || 1;
+    var pos = x + '% ' + y + '%';
+    if (c.r || c.f) return 'width:100%;height:100%;object-fit:cover;object-position:' + pos + ';transform:rotate(' + (c.r || 0) + 'deg) scaleX(' + (c.f ? -1 : 1) + ') translate(' + ((50 - x) * (z - 1)) + '%,' + ((50 - y) * (z - 1)) + '%) scale(' + z + ');transform-origin:50% 50%;';
     return 'width:100%;height:100%;object-fit:cover;object-position:' + pos + ';transform:scale(' + (+c.z || 1) + ');transform-origin:' + pos + ';';
   }
   function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
